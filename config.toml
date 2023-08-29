@@ -1,6 +1,6 @@
-baseURL = "https://klayu.github.io/hb_beacon/"
+baseURL = "https://BeaconStreetUSA.com"
 metaDataFormat = "yaml"
-title = "BLOG : hb_beacon"
+title = "BeaconStreet USA"
 theme = "blist"
 show_reading_time = true
 publishDir = "publicTmp"
@@ -112,7 +112,7 @@ timeout = 600000
   # Color for the intro details and social links block, not applicable for dark mode
   # Supported values: Any color from TailwindCSS default colors
   # Reference: https://tailwindcss.com/docs/customizing-colors
-  ascentColor = "bg-blue-100"
+  ascentColor = "bg-pink-100"
 #
   frontBundle = "blog"
 #

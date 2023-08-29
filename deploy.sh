@@ -36,7 +36,7 @@ mkdir publicTmp
 echo "Generating site"
 npm run build
 # HUGO_ENV=production  hugo # -t "ananke"
-# echo 'www.monsty.co' >> publicTmp/CNAME
+echo 'beaconstreetusa.com' >> publicTmp/CNAME
 
 
 echo "Emptying gh-pages"
