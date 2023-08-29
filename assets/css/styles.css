@@ -56,8 +56,8 @@
 }
 
 
-a.one:link {color:#722f55; font-size:large;}
-a.one:visited {color:#764661;}
+a.one:link {color:#764661; font-size:large;}
+a.one:visited {color:#722f55;}
 a.one:hover {color:#dc0909;}
 
 a.two:link {color:#ff0000;}
