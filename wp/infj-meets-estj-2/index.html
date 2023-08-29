@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/WebPage"><head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <link rel="icon" href="/favicon.png">
+
+  <title>
+  INFJ Meets ESTJ - BLOG : hb_beacon
+  </title>
+  <meta name="description" content="All things considered, the attraction between the ESTJs and INFJs isn’t surprising. Because ESTJs are conventional people, they prefer colorful partners to make their lives more interesting. They aren’t drawn to other ESTJs. INFJs have creative minds and supply the friendly, playful traits ESTJs are missing. The INFJ, in turn, is rewarded by an appreciative audience.
+An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others." /><meta name="generator" content="Hugo 0.116.1"><link
+    rel="stylesheet"
+    href="https://klayu.github.io/hb_beacon/css/styles.min.8984c35e72b5a477897b8473f9b7eb11a26c56142603e3594ba7637b31c0a162.css"
+    integrity="sha256-iYTDXnK1pHeJe4Rz+bfrEaJsVhQmA+NZS6djezHAoWI="
+  />
+  
+  
+
+  <meta property="og:title" content="INFJ Meets ESTJ" />
+<meta property="og:description" content="All things considered, the attraction between the ESTJs and INFJs isn’t surprising. Because ESTJs are conventional people, they prefer colorful partners to make their lives more interesting. They aren’t drawn to other ESTJs. INFJs have creative minds and supply the friendly, playful traits ESTJs are missing. The INFJ, in turn, is rewarded by an appreciative audience.
+An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://klayu.github.io/hb_beacon/wp/infj-meets-estj-2/" /><meta property="article:section" content="blog" />
+<meta property="article:published_time" content="2023-08-02T01:10:48-07:00" />
+<meta property="article:modified_time" content="2023-08-02T01:10:48-07:00" />
+
+  <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="INFJ Meets ESTJ"/>
+<meta name="twitter:description" content="All things considered, the attraction between the ESTJs and INFJs isn’t surprising. Because ESTJs are conventional people, they prefer colorful partners to make their lives more interesting. They aren’t drawn to other ESTJs. INFJs have creative minds and supply the friendly, playful traits ESTJs are missing. The INFJ, in turn, is rewarded by an appreciative audience.
+An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others."/>
+
+  <meta itemprop="name" content="INFJ Meets ESTJ">
+<meta itemprop="description" content="All things considered, the attraction between the ESTJs and INFJs isn’t surprising. Because ESTJs are conventional people, they prefer colorful partners to make their lives more interesting. They aren’t drawn to other ESTJs. INFJs have creative minds and supply the friendly, playful traits ESTJs are missing. The INFJ, in turn, is rewarded by an appreciative audience.
+An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others."><meta itemprop="datePublished" content="2023-08-02T01:10:48-07:00" />
+<meta itemprop="dateModified" content="2023-08-02T01:10:48-07:00" />
+<meta itemprop="wordCount" content="1088">
+<meta itemprop="keywords" content="" />
+
+  
+
+  
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" crossorigin=""  integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46&#43;CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="  />
+
+    <link rel="stylesheet" href="https://unpkg.com/@raruto/leaflet-elevation@1.1.1/dist/leaflet-elevation.css" crossorigin=""  />
+
+    <link rel="stylesheet" href="/css/leaflet.extra-markers.min.css" crossorigin=""  />
+
+
+
+    <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" crossorigin=""  integrity="sha512-gZwIG9x3wUXg2hdXF6&#43;rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="  ></script>
+
+    <script src="/js/leaflet.elevation.js" crossorigin=""  ></script>
+
+    <script src="/js/leaflet.hugo.js" crossorigin=""  ></script>
+
+    <script src="/js/leaflet.extra-markers.min.js" crossorigin=""  ></script>
+
+
+<style>
+    .fa-icon-marker {
+        text-align: center;
+        width: 100%;
+    }
+    .download-track {
+        background-color: #e1e1e1;
+        text-align: center;
+        margin-bottom: 25px;
+        border-radius: 0 0 10px 10px;
+        cursor: pointer;
+    }
+</style>
+
+  
+</head>
+<body class="dark:bg-gray-800 dark:text-white relative flex flex-col min-h-screen"><header class="container flex justify-between md:justify-between gap-4 flex-wrap p-6 mx-auto relative">
+  <a href="https://klayu.github.io/hb_beacon/" class="capitalize font-extrabold text-2xl">
+    
+    <img src="/blist-logo.png" alt="BLOG : hb_beacon" class="h-8 max-w-full" />
+    
+  </a>
+  <button class="mobile-menu-button md:hidden">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+      <line x1="4" y1="8" x2="20" y2="8" />
+      <line x1="4" y1="16" x2="20" y2="16" />
+    </svg>
+  </button>
+  <ul class="mobile-menu absolute z-10 px-6 pb-6 md:p-0 top-full left-0 w-full md:w-auto md:relative hidden md:flex flex-col md:flex-row items-end md:items-center gap-4 lg:gap-6 bg-white dark:bg-gray-800">
+
+    
+    <li><a href="/hb_beacon/blog">Blog</a></li>
+    
+    <li><a href="/hb_beacon/category">Category</a></li>
+    
+    <li><a href="/hb_beacon/tag">Tags</a></li>
+    
+    <li><a href="/hb_beacon/subsrcibe/">Subsrcibe</a></li>
+    
+
+    
+
+    
+
+    
+  </ul>
+</header>
+<main class="flex-1">
+  
+  
+
+  
+  <div class="relative max-w-5xl mx-auto px-4">
+    <img src="https://picsum.photos/id/1041/400/250" class="rounded-lg shadow-sm w-full object-contain" />
+    
+    <div class="absolute top-4 right-8 rounded shadow bg-white text-gray-900 dark:bg-gray-900 dark:text-white px-2 py-0.5">
+      
+  
+    August 2, 2023
+  
+
+
+    </div>
+    
+  </div>
+  
+
+  <article class="prose lg:prose-lg mx-auto my-8 dark:prose-dark px-4">
+
+    <h1 class="text-2xl font-bold mb-2">INFJ Meets ESTJ</h1>
+    
+    <h5 class="text-sm flex items-center flex-wrap">
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <rect x="4" y="5" width="16" height="16" rx="2" />
+        <line x1="16" y1="3" x2="16" y2="7" />
+        <line x1="8" y1="3" x2="8" y2="7" />
+        <line x1="4" y1="11" x2="20" y2="11" />
+        <rect x="8" y="15" width="2" height="2" />
+      </svg>
+      Posted on 
+  
+    August 2, 2023
+  
+
+
+      
+        &nbsp;&bull;&nbsp;
+      
+      <svg xmlns="http://www.w3.org/2000/svg" class="mr-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <circle cx="12" cy="12" r="9" />
+        <polyline points="12 7 12 12 15 15" />
+      </svg>
+      6&nbsp;minutes
+      &nbsp;&bull;
+      <svg xmlns="http://www.w3.org/2000/svg" class="mx-1" width="16" height="16" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+        <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+        <path d="M3 19a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <path d="M3 6a9 9 0 0 1 9 0a9 9 0 0 1 9 0" />
+        <line x1="3" y1="6" x2="3" y2="19" />
+        <line x1="12" y1="6" x2="12" y2="19" />
+        <line x1="21" y1="6" x2="21" y2="19" />
+      </svg>
+      1088&nbsp;words
+      
+        
+      
+    </h5>
+    
+
+    
+
+    <p>All things considered, the attraction between the ESTJs and INFJs isn’t surprising. Because ESTJs are conventional people, they prefer colorful partners to make their lives more interesting. They aren’t drawn to other ESTJs. INFJs have creative minds and supply the friendly, playful traits ESTJs are missing. The INFJ, in turn, is rewarded by an appreciative audience.</p>
+<p>An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others. Often, they forget to say “please” and “thank you.” To build a good relationship with an ESTJ, it’s best to let the person know up front that these courtesies are important to you.</p>
+<p>You’ll avoid frustration in friendships with ESTJs if you make an effort to understand how their minds work. They aren’t like you—a person who would rather act on hunches than gather detailed information. ESTJs are guided mainly by rules, principles, and traditional values. INFJs adopt novel approaches to problems and bypass convention. INFJs are rare enough (one percent of the population) that most ENFJs (over ten percent) haven’t met enough of them to understand them.</p>
+<p><strong>Type Differences</strong>
+<img src="/ESTJTypeDifferences.jpg" alt="ESTJTypeDifferences"></p>
+<p>Getting To Know an ESTJ
+Don’t expect much spontaneity from a new ESTJ friend. For them, work and play are kept separate. Activities are scheduled, and work comes first. Play must be earned. Even then, it should have a goal, such as walking to lose weight or attending concerts for cultural improvement. Since INFJs need a purpose in their leisure activities, too, you’ll have this in common.</p>
+<p>You’ll find that ESTJ friends are quick to take charge and give advice, whether it’s asked for or not. When something goes wrong, the first thing the ESTJ wants to know is what happened, why, and who caused the problem. Only then is he or she ready to think about a solution. As a result, the INFJ may find this type judgmental and hard. The compassionate INFJ’s position is that mistakes are part of the game and it’s best to move on to a remedy.</p>
+<p>ESTJs generally expect to share expenses on outings. They’re not comfortable letting others pay their way. The exception is when the ESTJ is a female. She’ll allow a date to buy dinner or pay for a movie because it’s the conventional thing to do. Her way of reciprocating may be to buy a new dress that pleases her companion. ESTJ men often give candy and flowers. They remember birthdays with cards or gifts. These actions serve to replace the flowery expressions of love they have a hard time expressing.</p>
+<p><strong>Working with ESTJs</strong></p>
+<p>ESTJs function best with structure. They want to know what’s required of them and what the deadlines are. Unlike INFJs, they don’t improvise easily. Because ESTJs are so focused on the concrete aspects of things, they sometimes lose sight of their underlying purpose. When asked to judge entries in a science fair, for example, an ESTJ may be so caught up in the technicalities of the assignment that the overall goal of encouraging children to explore scientific interests is forgotten.</p>
+<p>Under stress, ESTJs make decisions too hastily. They don’t give themselves time to reflect on alternatives. Even when things start going wrong, they’ll stick with their original plan and resist new information, vetoing suggestions for change. Their motto is, “That’s the way we’ve always done it.”</p>
+<p>ESTJs who supervise INFJs may wonder why their employees dislike them. The reason is that INFJs have a horror of being micromanaged. They like to figure out their own ways of doing things. However, because bluntness is not their style, they tend to nurse grudges rather than confront ESTJ supervisors directly. Differences in the two types can be a source of irritation, although the INFJ will suffer more from any misunderstanding than the matter-of-fact ESTJ.</p>
+<p><strong>Loving an ESTJ</strong></p>
+<p>In a new relationship with an ESTJ, you’re likely to find him or her spontaneous and easy-going at first. As time goes on, the ESTJ will revert to type and become more matter of fact. If you disappoint the person in some important way, he or she is likely to get angry and self-righteous. This is because ESTJs expect others to honor their standards.</p>
+<p>INFJs who are troubled and seek sympathy from an ESTJ partner are in danger of feeling short-changed. The partner is more comfortable looking for a practical solution than listening with a sympathetic ear.</p>
+<p>When conflicts arise in a relationship, efforts to explore underlying causes are generally ignored by the ESTJ. Insights are not the person’s long suit. If an argument gets heated enough, the ESTJ may explode and need help rebuilding their control. Tactfully, the INFJ can remind them of what’s really important. If the INFJ suggests counseling, the ESTJ will probably resist.</p>
+<p>Don’t expect romantic emotional displays from an ESTJ. The ESTJ will feel that his or her loyalty is the only proof of love that’s needed. Eloquence is not their style. They aren’t given to creative lovemaking, either. Once a routine for physical intimacy has been established, the ESTJ will resist attempts to introduce new techniques.</p>
+<p><strong>Living with an ESTJ</strong></p>
+<p>If you move in with an ESTJ, you’ll find that there’s a place for everything and everything is in its place. Your ESTJ partner will want clear arrangements about who does what. If the ESTJ volunteers to walk the dog, you can depend on it. No prodding will be needed. If you have children together, the ESTJ will send them off to school with lunch money, permission slips, and anything else they need for the day. If you’re behind in your own commitments, you can be sure you’ll be reminded of them.</p>
+<p>When you get frustrated by your partner’s lack of sensitivity, take comfort in the knowledge that ESTJs show their love by actions more than words. They’re loyal and keep their promises. If you feel that your needs are being ignored, the best approach is to explain tactfully and clearly what you’d like from them. They’ll probably try to improve communications. The more you can help an ESTJ relax and expand his or her views, the more you’ll enjoy each other.</p>
+<p><strong>Famous ESTJs and INFJs</strong></p>
+<p><img src="/FamousESTJsandINFJs.jpg" alt="FamousESTJsandINFJs"></p>
+<p>ESTJs known for their quick tempers include Lyndon Johnson, Bette Davis, and Herbert Hoover. In heated situations, they responded best to people who would hear them out and then suggest new insights. INFJ leaders famous for their ability to listen thoughtfully to others include Nelson Mandela, Eleanor Roosevelt, and Ghandi.</p>
+<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+  </article>
+<div class="px-2 mb-2">
+  
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    window.disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "relaxedincome" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  
+</div>
+<div class="bg-pink-50 dark:bg-gray-900">
+  <div class="container px-4 py-12 mx-auto max-w-4xl grid grid-cols-1 md:grid-cols-2 gap-4 items-center">
+    <div>
+      <div class="text-2xl font-bold mb-2"></div>
+      <p class="opacity-60"></p>
+    </div>
+
+    <ul class="flex justify-center gap-x-3 flex-wrap gap-y-2">
+      
+    </ul>
+  </div>
+</div>
+
+    </main><footer class="container p-6 mx-auto flex justify-between items-center">
+  <span class="text-sm font-light">
+    
+    2023 © BLOG : hb_beacon
+    
+  </span>
+  <span onclick="window.scrollTo({top: 0, behavior: 'smooth'})" class="p-1 cursor-pointer">
+    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 24 24" stroke-width="1.5"
+      stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path stroke="none" d="M0 0h24v24H0z" fill="none" />
+      <path d="M18 15l-6 -6l-6 6h12" />
+    </svg>
+  </span>
+</footer>
+
+
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-VYR643RK37"></script>
+<script>
+var doNotTrack = false;
+if (!doNotTrack) {
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'G-VYR643RK37', { 'anonymize_ip': false });
+}
+</script>
+
+
+
+
+
+
+<script>
+  const mobileMenuButton = document.querySelector('.mobile-menu-button')
+  const mobileMenu = document.querySelector('.mobile-menu')
+  function toggleMenu() {
+    mobileMenu.classList.toggle('hidden');
+    mobileMenu.classList.toggle('flex');
+  }
+  if(mobileMenu && mobileMenuButton){
+    mobileMenuButton.addEventListener('click', toggleMenu)
+  }
+</script>
+</body>
+</html>
