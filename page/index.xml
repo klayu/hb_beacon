@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pages on BLOG : hb_beacon</title>
-    <link>https://klayu.github.io/hb_beacon/page/</link>
-    <description>Recent content in Pages on BLOG : hb_beacon</description>
+    <title>Pages on BeaconStreet USA</title>
+    <link>https://BeaconStreetUSA.com/page/</link>
+    <description>Recent content in Pages on BeaconStreet USA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://klayu.github.io/hb_beacon/page/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://BeaconStreetUSA.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Subsrcibe</title>
-      <link>https://klayu.github.io/hb_beacon/subsrcibe/</link>
+      <link>https://BeaconStreetUSA.com/subsrcibe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_beacon/subsrcibe/</guid>
+      <guid>https://BeaconStreetUSA.com/subsrcibe/</guid>
       <description>Please subsrcibe to get notified when I post new blog articles.
 Email Subscribe </description>
     </item>
     
     <item>
       <title>Thank You</title>
-      <link>https://klayu.github.io/hb_beacon/thankyou/</link>
+      <link>https://BeaconStreetUSA.com/thankyou/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://klayu.github.io/hb_beacon/thankyou/</guid>
+      <guid>https://BeaconStreetUSA.com/thankyou/</guid>
       <description>I wanted to take a moment to express my deepest gratitude for subscribing to my blog. Your decision to join our community of readers means a lot to me, and I am truly honored that you have chosen to stay connected with my work.
 As a blogger, I am constantly inspired by my readers, and I am excited to have the opportunity to share my thoughts and ideas with you. Your subscription serves as a reminder that my work is meaningful and valuable, and it motivates me to continue producing high-quality content that resonates with you.</description>
     </item>
