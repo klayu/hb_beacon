@@ -1,0 +1,83 @@
+baseURL = "https://klayu.github.io/hb_beacon/"
+metaDataFormat = "yaml"
+title = "BLOG : hb_beacon"
+theme = "blist"
+show_reading_time = true
+publishDir = "publicTmp"
+enableRobotsTXT = true
+#googleAnalytics = "G-xxxxxx"
+disqusShortname = "relaxedincome"
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = false
+#
+timeout = 600000
+#
+[permalinks]
+  posts = "/:filename"
+  blog = "/:filename"
+  page = "/:filename"
+#
+[languages]
+  [languages.en]
+    contentDir = "content/en"
+    weight = 1
+    languageName = "English"
+    [languages.en.params]
+      introTitle = "Hey! Im Katheryn Fox"
+      introSubtitle = "26 y/o junior developer who enjoys social card games, blogging and painting"
+      introPhoto = "/picture.jpg"
+      logo = "/blist-logo.png"
+    [[languages.en.menu.main]]
+        name = "Blog"
+        url = "blog"
+        weight = 1
+    [[languages.en.menu.main]]
+        name = "Tags"
+        url = "tags"
+        weight = 2
+#
+[params]
+  darkModeToggle = true
+  enableSearch = true
+
+  searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+  ]
+#
+  copyright = "Copyright © 2023 - hb_beacon · All rights reserved"
+  favicon = "/favicon.svg"
+#
+  ascentColor = "bg-blue-100"
+#
+  frontBundle = "blog"
+#
+  hideMeta = false
+#
+  hideOtherLanguages = true
+#
+  toc = false
+#
+  hidePageThumbnail = false
+# Comment system
+[params.comments]
+  system = "disqus"
+[build]
+  writeStats = true
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+[markup]
+  [markup.highlight]
+    style = "dracula"
+  [markup.goldmark.renderer]
+    unsafe = true
+#
+[sitemap]
+  changefreq = "daily"
+  priority = 0.5
+  filename = "sitemap.xml"
