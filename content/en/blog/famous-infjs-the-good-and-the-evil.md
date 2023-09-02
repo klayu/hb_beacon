@@ -36,7 +36,12 @@ Some key qualities of INFJs include:
 3. Feeling: They make decisions based on personal values and emotions.
 4. Judging: They prefer structure and organization in their lives.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Is there a way to make them want you ? 
+What is that _one_ signal that men look for in a 
+romantic relationship ? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>
 
 {{< youtube Stg7XGgkq94 >}}
 
@@ -65,8 +70,6 @@ Born in 1869, Mahatma Gandhi was the spiritual and political leader of India fro
 Gandhi was a true INFJ. Even at an early age, his value system was so strong that no one could talk him out of his convictions. Although deeply committed to social change, he achieved his goals without violence. He was a visionary who infected others with his dreams.
 
 October 2, Gandhi’s birthday, is celebrated as the International Day of Nonviolence.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **Martin Luther King**
 
@@ -113,6 +116,9 @@ Born to an unwed teenage mother in 1959, David Koresh was raised by his grandpar
 At 22, Koresh moved to Waco, Texas, in 1981 to join the Branch Davidians. Taking over the cult after the death of its leader, Lois Roden, he instituted “spiritual weddings,” which permitted him to have sex with female followers of all ages. As a result, he had 12 children with women other than his wife.
 
 With a sense of misguided idealism, Koresh exalted his own ego at the same time as his Christian bliefs. A powerful orator, he transmitted his ideals to others, as other INFJ cult leaders have done. His Myers-Briggs traits went unchecked and eventually expressed themselves in extreme, destructive behaviors.
-
  
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Why does he treat me like a doormat ? 
+What can I do to bring back the spark? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>

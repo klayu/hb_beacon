@@ -24,7 +24,12 @@ Buzz Lightyear, a toy space ranger in “Toy Story,” is known for his bravery 
 
 ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real life, ENTJs are born leaders. Confident and outgoing, they have a need to run things. To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. They can be hard on people who fail to live up to their standards.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Is there a way to make them want you ? 
+What is that _one_ signal that men look for in a 
+romantic relationship ? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>
 
 ![merlin ENFJ](/merlinENFJ.jpg)
 
@@ -43,8 +48,6 @@ In the animated Disney film “Robin Hood,” the characters are all animals. Ro
 
 ENTPs are extraverted (E), intuitive (N), thinking (T), and perceiving (P). Robin Hood is a true ENTP, called the “Explorer” type. ENTPs are always involved in activities that make themselves and others happy. They jump from one challenge to another, often getting more enthusiastic about thinking up new projects than finishing old ones. Their ability to see the big picture is what motivates their creativity. No matter where they are, they have ideas about how things can be improved. Sometimes they seem almost clairvoyant.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
-
 ![Ariel_ENFP](/ArielENFP.jpg)
 
 **ENFP: Ariel**
@@ -60,8 +63,6 @@ ENFPs are extraverted (E), intuitive (N), feeling (F), and perceiving (P). They 
 ESTP Dodger, from the Disney movie “Oliver and Company,” is a street-smart Jack Russell Terrier. Appointed as the leader of Fagin’s dog gang of thieves, Dodger is witty, confident, good-hearted and cool. The little dog is clever and crafty and always knows how to get out of scrapes. As Oliver’s best friend, he says he doesn’t eat cats because of “too much fur.”
 
 ESTPs are extraverted (E), sensing (S), thinking (T), and perceiving (P). ESTPs are quick-thinking and action-oriented. As outgoing, lively, and entertaining types, they can be found wherever the action is. They’re at their best dealing with situations that call for a no-nonsense approach. They’re direct with their comments, mincing no words. They also aren’t afraid of taking risks. They’re willing to play for high stakes in the hope of reward.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 ![snowwhite esfj](/SnowWhiteESFJ.jpg)
 **ESFJ: Snow White**
@@ -80,8 +81,6 @@ Timon is the carefree meerkat in “The Lion Kingdom.” An ESFP with a fun-lovi
 ESFPs are extraverted (E), sensing (S), feeling (F), and perceiving (P). They are outgoing, fun-loving types drawn to the company of others. Because of their positive attitude, they’re usually well liked. They’re helpful and are generous with their resources. In fact, they’d rather give than receive. They feel self-conscious when praised too much or singled out for favorable attention. ESFPs notice everything, picking up subtleties that escape others. Downturns in luck shouldn’t be taken too seriously, they believe.
 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
-
 ![Woody ESTJ](/WoodyESTJ.jpg)
 **ESTJ: Woody**
 
@@ -91,4 +90,8 @@ ESTJs are extraverted (E), sensing (S), thinking (T), and judging (J). They are 
 
 *Part 1 of this two-part series, Extraverted Disney Characters and Their Personality Types, appears in an earlier blog.*
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Why does he treat me like a doormat ? 
+What can I do to bring back the spark? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>

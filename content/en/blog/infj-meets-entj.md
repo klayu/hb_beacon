@@ -16,7 +16,12 @@ While the two types can become close friends, INFJs should be mindful of the ENT
 
 ENTJs have a high regard for their own positions. INFJs must be the ones to establish limits in the relationship, firmly but tactfully setting their boundaries. Most ENTJs have sharp enough intuition to recognize the need for tact if they want to keep the INFJ’s friendship.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Is there a way to make them want you ? 
+What is that _one_ signal that men look for in a 
+romantic relationship ? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>
 
 
 Because ENTJs can be so intimidating, many people hesitate to be open and honest with them. This deprives ENTJs of important information. Surprisingly, they respond best to those who stand up to them quietly but firmly. ENTJs have little regard for people they can push around. Eventually, most friends and co-workers learn that the ENTJ’s bark is worse than his or her bite.
@@ -24,8 +29,6 @@ Because ENTJs can be so intimidating, many people hesitate to be open and honest
 While ENTJs may seem like pillars of strength, most have a sentimental side that they try to conceal. They believe that emotional displays are a sign of weakness. When ENTJs are sad or worried, they seldom talk about it. Sensitive INFJs can usually pick up on their troubled feelings and offer compassion while not intruding with solutions.
 
 The major difference between INFJs and ENTJs lies in their need to influence or control others. INFJs lack the ENTJ’s leadership drive. In a work setting this need not be a liability, because the INFJ is comfortable letting the ENTJ take charge as long as the two parties agree on objectives. INFJs don’t have the same ego investment in running the show. They like credit if it’s due, but they won’t ask for more than their share. At home, the issue of control may become troublesome. The INFJ is likely to tire of the ENTJ’s tendency to micromanage and, when things don’t go as planned, to lose his or her temper.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **Falling in Love**
 ENTJs are usually drawn to attractive partners. This preference is a reflection of their high standards. Most ENTJ men prefer beautiful women and most ENTJ women like handsome, confident men. To get along with an ENTJ in a relationship, an INFJ needs a well-developed sense of self. It helps to have a sense of humor.
@@ -36,7 +39,6 @@ The partners of ENTJs will find themselves on their own much of the time. An INF
 
 ENTJs tend to see their partners as extensions of themselves as supportive characters in their life scripts. They expect them to honor their commitments and respect the ENTJ’s need for autonomy. Failure to do so will make the ENTJ angry.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **Family Life**
 
@@ -45,8 +47,6 @@ ENTJs and INFJs share a love of family life. They invest themselves fully in the
 Friction can arise between the parents when the ENTJ parent takes charge too much. ENTJs prefer a domestic autocracy, with them at the head. An INFJ entering a long-term relationship with an ENTJ, including plans for marriage and children, should have a strong self-image and be able to set clear boundaries.
 
 An ENTJ’s family can expect to have their playtime and vacations structured. The children won’t be encouraged to lie on the beach doing nothing. ENTJs don’t approve of pursuits that have no goal. In their view, leisure activities should be productive. Not only that, it’s preferable that they be scheduled. INFJ partners are likely to share this view to some extent, but they’re less intense about it.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **Work**
 
@@ -64,4 +64,8 @@ Eleanor Roosevelt, an INFJ and the wife of U.S. President Franklin Delano Roosev
 
 Margaret Thatcher, an ENTJ, was the first female Prime Minister of Great Britain.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Why does he treat me like a doormat ? 
+What can I do to bring back the spark? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>

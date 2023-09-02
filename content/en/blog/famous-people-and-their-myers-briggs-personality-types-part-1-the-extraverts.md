@@ -20,7 +20,12 @@ An ENTJ personality type called the “Leader,” Bill Gates has always been dec
 Extraverted, Intuitive, Feeling and Judging
 With her outgoing, enthusiastic personality, ENFJ Oprah understands people. True to type, she’s articulate and tactful. ENFJs have the interpersonal skills to make others want to join them to make things happen. The ENFJ is idealistic, compassionate, and shows integrity in everything he or she does.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Is there a way to make them want you ? 
+What is that _one_ signal that men look for in a 
+romantic relationship ? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>
 
 **ESTJ: Margaret Thatcher**
 Extraverted, Sensing, Thinking and Judging
@@ -33,8 +38,6 @@ A congenial, tactful ESFJ, Barbara Walters is an American media star. Compassion
 **ESFP: Steven Spielberg**
 Extraverted, Sensing, Feeling and Perceiving
 Steven Spielberg, famous Hollywood director, is an ESFP, a personality type called the “Performer.” Spielberg has been honored in many countries for his ground-breaking films. He is outgoing, flexible and observant. With his lighthearted approach to life, like most ESFPs he is generous with his time and money.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **ENTP: Barack Obama**
 Extraverted, Intuitive, Thinking and Perceiving
@@ -50,4 +53,8 @@ True to his Myers-Briggs personality type, ENFP, Walt Disney was creative and in
 Extraverted, Sensing, Thinking and Perceiving
 As an ESTP personality type called the “Promoter,” John F. Kennedy was persuasive, energetic, and easy-going. This Myers-Briggs type is practical and action-oriented, always ready to join in whatever is happening. True to type, Kennedy was direct in his politics, mincing no words while being tactful with those around him.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<big><pre>
+Why does he treat me like a doormat ? 
+What can I do to bring back the spark? 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
+</pre></big>
