@@ -22,6 +22,13 @@ Both INFJs and ISFJs take romantic relationships seriously and are attentive to 
 
 INFJs and ISFJs sometimes remain in partnerships that are no longer working. The thought of leaving a relationship makes them nervous and insecure. When either of these types is left by a partner, they’re deeply hurt. Typically, their self-esteem suffers and they go through a period of painful self-examination. If they don’t turn to friends for support, they’re slow to regroup and move on. Some grow quiet, trying to appear composed and stoic to the people around them.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **At Home**
 
 The homes of INFJs tend to be more cluttered than those of ISFJs. An abundance of books, crafts supplies, musical instruments, and other paraphernalia lie around the house, allowing INFJs to pursue their hobbies at a moment’s notice. While they would prefer a tidy environment, housekeeping has a lower priority than having fun. When family members complain about the mess, however, INFJs will pick up after themselves.

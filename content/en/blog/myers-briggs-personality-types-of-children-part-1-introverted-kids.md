@@ -22,6 +22,13 @@ This is about introverted (I) children. There are eight types of introverts acco
 
 Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people. Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another. Those with a judging (J) preference are more focused and like to finish things.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **ISFJ: Introverted, Sensing, Feeling and Judging**
 
 As children, ISFJs are generally well behaved. They’re little trouble to their parents and teachers. They want to know what’s expected of then, and they quietly follow through. Even when asked to make sacrifices, ISFJ kids take pride doing the right thing. In school, they stick with a few close friends and avoid conflict.

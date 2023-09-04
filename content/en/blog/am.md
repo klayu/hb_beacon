@@ -23,6 +23,13 @@ I am a good example:
 - As a feeling (F) type, I am mindful of the effects of my actions on others and concerned about their well-being, although I can take my emotional tendencies too far.
 - The judging tendencies of my personality (J) make me prompt, reliable and conscientious, but sometimes overdemanding.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **My News Year’s Resolutions** 
 
 1. This year, I won’t be such a mole. When invited to a social event, I won’t go straight to my default “NO.” At least I’ll say, “Let me think about it,” or “Let me check my calendar.”

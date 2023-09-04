@@ -28,7 +28,12 @@ Both are somewhat prone to depression. Their introversion inclines them to be lo
 
 Both types are generally well liked due to their warmth and sincerity. They make good listeners, put others at ease, and are valued as friends and confidantes.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Intuition (N)**
 The intuitive skills shared by the INFP and INFJ form their strongest bond. They usually agree on important matters. Due to differences in their perceiving and judging functions, however, they don’t always carry out practical tasks in the same way. The INFP may start a painting project, then leave it half-finished—intending to finish at a more convenient time. INFJs aren’t happy until the job is complete.

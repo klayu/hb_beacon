@@ -13,7 +13,12 @@ ESFJs are generous and outgoing, giving without any thought of return. If someon
 
 As traditionalists, ESFJs rely on tried-and-true methods of solving problems. For this reason, they can overlook newer, better approaches that are obvious to others—a habit that may prove annoying for inventive friends and relatives who are reluctant to endanger their relationship with the ESFJ by being critical. This is especially true of INFJs, who usually have innovative ideas but are too tactful to hurt the feelings of less adventurous folks.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Friendship**
 

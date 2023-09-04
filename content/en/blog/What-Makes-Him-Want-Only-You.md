@@ -71,9 +71,9 @@ In order to explain this signal, think of yourself as a radio tower.
 
 ## You are constantly broadcasting a message to the men in your life. And there’s one “channel” he can’t tune out.
 
-<center>
-{{< figure src="/images/fifth-section-bg.jpg" >}}
-</center>
+<img src="/images/fifth-section-bg.jpg" alt="image" style="border-radius: 10px;">
+
+
 
 That’s because men have emotional “antennas” designed specifically to detect this one kind of signal.
 
@@ -108,9 +108,8 @@ And that’s why...
 
 ## Women often send mixed signals to the guy they’re interested in without even knowing it.
 
-<center>
-{{< figure src="/images/eighth-section-bg.jpg" >}}
-</center>
+<img src="/images/eighth-section-bg.jpg" alt="image" style="border-radius: 10px;">
+
 
 It happens accidentally. And I have to tell you, it’s not your fault.
 
@@ -143,13 +142,11 @@ But a woman’s idea of loving communication is very different than a man’s.
 
 How do you communicate your true feelings to a man? And why are men so sensitive to tiny signals about where you rank him compared with other men?
 
-To dive a little deeper into that particular question, I put together <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">a video presentation on the topic.</a>.
+To dive a little deeper into that particular question, I put together <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">a video presentation on the topic</a>.
 
 It explains the most powerful signals you can use to grab a man’s attention.
 
-<center>
-{{< figure src="/images/tenth-section-bg.jpg" >}}
-</center>
+<img src="/images/tenth-section-bg.jpg" alt="image" style="border-radius: 10px;">
 
 
 After watching <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">this video</a>, many women are surprised to learn how much control they have over a man’s self-esteem.
@@ -164,7 +161,7 @@ But I’m here to tell you about one <a id="aflink" href="https://hop.clickbank.
 
 <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">Click here</a> now to discover an unfair advantage with men. Help him to finally see you as the one.
 
-## References:
+### Research References:
 * Harry's Masculinity Report 2018 https://s3.amazonaws.com/harrys-cdnx-prod/manual/Harry%27s+Masculinity+Report%2C+USA+2018.pdf - Men are happiest when a part of something where they feel needed and valued.
 
 * Anderson, Cameron & Hildreth, John & Howland, Laura. (2015). Is the Desire for Status a Fundamental Human Motive? A Review of the Empirical Literature. Psychological bulletin. 141. 10.1037/a0038781. - Male need for respect.

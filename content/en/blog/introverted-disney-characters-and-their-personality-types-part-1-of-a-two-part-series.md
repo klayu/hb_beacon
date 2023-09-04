@@ -1,6 +1,6 @@
 ---
 title: "Introverted Disney Characters and Their Personality Types: Part 1 of a Two-Part Series"
-date: 2023-09-01T01:09:48-07:00
+date: 2023-09-03T01:09:48-07:00
 # description: "Here we talk about some Shy Disney Characters "
 thumbnail: https://picsum.photos/id/1020/400/250
 category: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
@@ -34,13 +34,21 @@ What is that _one_ signal that men look for in a
 romantic relationship ? 
 <a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
 </pre></big> -->
-
-<a id="aflink" href="/wp/What-Makes-Him-Want-Only-You" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">
+<!-- 
+<a id="aflink" href="/wp/what-makes-him-want-only-you" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">
 <div style="display: flex; align-items: center;">
   <img src="/images/hot_flame.gif" alt="image" style="margin-right: 10px; height: 25px;">
   <p>This is the “secret ingredient” to his lasting commitment !</p>
 </div>
-</a>
+</a> -->
+
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 
 INFP: Belle
 *Introverted, Intuitive, Feeling and Perceiving*
@@ -110,12 +118,12 @@ ISTPs, as keen observers of life, remain logical and adaptable in any situation,
 
 Stay tuned for Part 2, where we'll explore Extraverted Disney Characters and their unique personality types in the next blog.
 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">
-<div style="display: flex; align-items: center;">
-  <img src="/images/hot_flame.gif" alt="image" style="margin-right: 10px; height: 25px;">
-  <p>This is the “secret ingredient” to his lasting commitment !</p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+Do you know the unusual pattern of signals men look for in a romantic relationship ? Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
 </div>
-</a>
 
 <!-- 
 <big><pre>

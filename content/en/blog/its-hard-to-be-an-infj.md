@@ -23,6 +23,13 @@ The Myers-Briggs scale consists of four pairs of personality traits—each repre
 
 ![Myers-Briggs Traits](/MBScale.jpg)
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Introversion-Extraversion**
 
 The introvert (I) needs privacy and solitude, generally avoids large social gatherings, and is happiest either alone or in the company of one or two good friends. The extravert (E) gets uneasy when alone too much, seeks the company of others, and enjoys mingling.

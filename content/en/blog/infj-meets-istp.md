@@ -19,8 +19,14 @@ In contrast, INFJs aren’t mechanically minded. They get impatient with details
 When an ISTP and INFJ collect information to make a big decision, such as what car to buy, their sensing and intuitive functions may collide. The ISTP may not be satisfied until all aspects of a model are checked out and the vehicle is examined by a mechanic. The INFJ is more likely to base his or her decision on how the engine runs and if the car feels good to drive. The ISTP’s private opinion is that the INFJ rushes to conclusions without taking enough precautions. The INFJ thinks the ISTP is too fussy about details.
 
 
-<p><a href="https://b2079ao3af6w8x6oqqmceog410.hop.clickbank.net" class="one" target="_blank" title="Soutmate Compatibility Reading">Get Your Soutmate Compatibility Reading Now</a></p>
+<!-- <p><a href="https://b2079ao3af6w8x6oqqmceog410.hop.clickbank.net" class="one" target="_blank" title="Soutmate Compatibility Reading">Get Your Soutmate Compatibility Reading Now</a></p> -->
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Thinking vs. Feeling**
 

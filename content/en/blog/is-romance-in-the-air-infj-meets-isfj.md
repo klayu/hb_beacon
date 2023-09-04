@@ -12,7 +12,12 @@ Although both have high ideals, they’re modest about them. They prefer to make
 
 The main difference between the two is that INFJs are more insightful. For example, they pick up on the motives of others quickly, and as a result, their judgments are sometimes harsh. ISFJs, however, tend to be naive. They have a hard time understanding greed and unkindness because it’s so foreign to their natures. INFJs and ISFJs complement each other because they meet somewhere in the middle. INFJs protect ISFJs from their gullibility, and ISFJs are models of tolerance.
 
-<p><a href="https://b2079ao3af6w8x6oqqmceog410.hop.clickbank.net" class="one" target="_blank" title="Soutmate Compatibility Reading">Get Your Soutmate Compatibility Reading Now</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 
 **Friendship**

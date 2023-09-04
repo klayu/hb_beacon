@@ -14,6 +14,12 @@ Sensors are more tuned to their senses: how the date looks and sounds, whether h
 
 For Sensors, the date begins only when the two parties stand face to face. For Intuitives, the date begins as soon as arrangements are made. That leaves plenty of time to fantasize about possibilities.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 One problem arises when the two types actually get together for their date. Sensors may have trouble following the Intuitive’s many trains of thought. Because good conversation is a major factor in the early phases of the dating game, the differences between the two types begin to emerge sooner rather than later. Sensors like to talk about concrete things: people they’ve met, experiences they’ve had, places they’ve been—with specifics provided in detail. Intuitives would rather talk about their dreams, visions, ideas, and other intangibles.
 

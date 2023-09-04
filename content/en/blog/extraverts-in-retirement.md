@@ -20,7 +20,12 @@ With advancing age, their Myers-Briggs personality scores of people can change, 
 ![ESTP Elders](/ESTP_Elders.jpg)
 ESTP elders continue to have the same characteristics they did when younger. Many of them choose to retire early so they’ll have more time to do the things that are fun. They like activities which require solving problems that are often difficult and tense. While they may take part in various organizations, they avoid leadership positions. Taking charge is not in their repertoire. They become involved mainly for the activities. When grandchildren arrive, the elders take pleasure in outings to the zoo, sports events, and so on. Children love their spontaneity and ability to improvise games on the spot.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **ESTJs in retirement**
 

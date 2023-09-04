@@ -13,6 +13,13 @@ An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook po
 
 You’ll avoid frustration in friendships with ESTJs if you make an effort to understand how their minds work. They aren’t like you—a person who would rather act on hunches than gather detailed information. ESTJs are guided mainly by rules, principles, and traditional values. INFJs adopt novel approaches to problems and bypass convention. INFJs are rare enough (one percent of the population) that most ENFJs (over ten percent) haven’t met enough of them to understand them.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Type Differences**
 ![ESTJTypeDifferences](/ESTJTypeDifferences.jpg)
 

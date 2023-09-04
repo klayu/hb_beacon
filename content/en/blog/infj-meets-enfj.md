@@ -23,7 +23,12 @@ ENFJs and INFJs enjoy activities that require teamwork, especially service work.
 
 Both INFJs and ENFJs have strong personalities, radiate authenticity, and rarely betray their ideals. Both are skilled verbally, the INFJ more in writing than speaking. They have an eloquence that helps bring people together in a common cause. They enjoy working together.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Romance**
 When an INFJ and ENFJ are attracted to each other, it’s all they can think about. However, the ENFJ is usually the one to make the first overtures. INFJs are cautious and fearful of rejection. ENFJs bring gifts to the new partner, write e-mails, and arrange romantic evenings out. They like to talk about the relationship. INFJs are glad to hear the things that they, too, would like to say but are too shy to express.

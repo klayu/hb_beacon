@@ -11,7 +11,12 @@ Perceiving (P) and Judging (J) are a set of opposite traits on the Myers-Briggs 
 The differences between a Perceiver and Judger are hard to hide on a day-to-day basis. Concealing one’s type is not all that difficult for other types. For example, an Introvert may have cultivated enough interpersonal and communications skills that he or she can come across as an Extravert. This is not uncommon. Or a smooth-talking Thinker may come across as a Feeling type when he or she is anything but. The J-P difference, on the other hand, is difficult to mask.
 
 
-<p><a href="https://b2079ao3af6w8x6oqqmceog410.hop.clickbank.net" class="one" target="_blank" title="Soutmate Compatibility Reading">Get Your Soutmate Compatibility Reading Now</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 The differences between the two types are seen in the following example.
 

@@ -12,6 +12,14 @@ It’s fair to say that any two people with this combination of Myers-Briggs tra
 
 The INFJ is introverted (I), intuitive (N), feeling (F), and judging (J). The ISTJ shares the introverted, judging traits, but is a sensing (S) and (T) thinking type. How do INFJs and ISTJs get along and where do they run into trouble?
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
+
 **Friendship**
 
 ISTJs are one of the most responsible of the sixteen Myers-Briggs types, but they can be inflexible. Although INFJs are responsible, too, their drive to meet obligations is softened by concern about the impact of their decisions on others.

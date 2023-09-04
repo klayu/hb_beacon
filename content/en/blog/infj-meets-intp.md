@@ -10,7 +10,12 @@ INFJs are often drawn to INTPs because of their intelligence and ability to appl
 
 This personality type is more attuned to impersonal systems and technical subjects than intimate topics. If you’re an INFJ who’s an animal lover, don’t expect the INTP to share your emotional bond with pets. Are your favorite causes fueled more by compassion than logic?  The INTP is unlikely to be enthusiastic about them. INFJs are idealists and INTPs are rationalists.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 ![infj-intp-table](/infj-intp-table.jpg)
 

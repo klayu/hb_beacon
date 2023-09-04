@@ -1,6 +1,6 @@
 ---
 title: "INFJ meets ENTJ"
-date: 2023-08-02T01:10:48-07:00
+date: 2023-09-03T01:10:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
 thumbnail: https://picsum.photos/id/1028/400/250
 category: [INFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
@@ -16,12 +16,12 @@ While the two types can become close friends, INFJs should be mindful of the ENT
 
 ENTJs have a high regard for their own positions. INFJs must be the ones to establish limits in the relationship, firmly but tactfully setting their boundaries. Most ENTJs have sharp enough intuition to recognize the need for tact if they want to keep the INFJ’s friendship.
 
-<big><pre>
-Is there a way to make them want you ? 
-What is that _one_ signal that men look for in a 
-romantic relationship ? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 
 Because ENTJs can be so intimidating, many people hesitate to be open and honest with them. This deprives ENTJs of important information. Surprisingly, they respond best to those who stand up to them quietly but firmly. ENTJs have little regard for people they can push around. Eventually, most friends and co-workers learn that the ENTJ’s bark is worse than his or her bite.
@@ -64,8 +64,9 @@ Eleanor Roosevelt, an INFJ and the wife of U.S. President Franklin Delano Roosev
 
 Margaret Thatcher, an ENTJ, was the first female Prime Minister of Great Britain.
 
-<big><pre>
-Why does he treat me like a doormat ? 
-What can I do to bring back the spark? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+Do you know the unusual pattern of signals men look for in a romantic relationship ? Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>

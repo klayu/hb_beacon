@@ -1,6 +1,6 @@
 ---
 title: "Introverted Reserved Animals and their myers briggs personality types"
-date: 2023-09-01T01:09:47-07:00
+date: 2023-09-03T01:09:47-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
 hidePageThumbnail : true
 thumbnail: https://picsum.photos/id/1019/400/250
@@ -31,6 +31,13 @@ Animals are more complicated than most of us realize. We can appreciate the many
 
 This is an introduction to the introverted (I) members of the animal kingdom: the owl, sloth, deer, octopus, wolf, beaver, meerkat, and house cat. Unlike extraverted (E) animals, the introverts are generally quiet and often shy.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 
 INTP: Owl
 *Introverted, Intuitive, Thinking and Perceiving*
@@ -42,12 +49,12 @@ Like most INTPs, owls have logical minds. They’re mindful and quiet. They’re
 As pets, owls never lose their wild behavior unless hand-raised from birth. People who use owls for falconry can tame baby owls, but only if they bond with them from the time the owlets open their eyes. Taming these birds is a challenge. An owl is an independent creature and never becomes affectionate unless it’s hungry. Owners who allow them the freedom of their houses are likely to find plants knocked over and glassware broken on the floor. They also have to deal with owl droppings on their curtains and upholstery.
 
 
-<big><pre>
-Is there a way to make them want you ? 
-What is that _one_ signal that men look for in a 
-romantic relationship ? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 ISFP: Sloth
 *Introverted, Sensitive, Feeling and Perceiving*
@@ -123,8 +130,9 @@ The Introverted Myers Briggs Personality Type is a unique and often misunderstoo
 
 <!-- <p><a id="aflink" href="http://klayu.fxinsiders.hop.clickbank.net/?r=quiz" class="one" target="_blank" title="Take the Personality Quiz : Are you a Magician or Ruler">Personality Quiz : Are you a Magician, Sage or Ruler !</a></p> -->
 
-<big><pre>
-Why does he treat me like a doormat ? 
-What can I do to bring back the spark? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>

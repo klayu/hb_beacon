@@ -22,6 +22,13 @@ A previous blog described introverted children—quiet, shy types. This one is a
 
 Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people. Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another. Those with a judging (J) preference are more focused and like to finish things.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Rambunctious Kids**
 **ESTP: Extraverted, Sensing, Thinking and Perceiving**
 ![estp kid](/estp-kid.jpg)

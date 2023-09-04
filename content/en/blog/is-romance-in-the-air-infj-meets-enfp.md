@@ -21,6 +21,13 @@ People of the Myers-Briggs INFJ personality type share some characteristics with
 
 Life is fun with ENFPs, who never tire of developing new interests. They’re at their best in situations that are fluid and changing. Even in their day-to-day activities they look for new ways of doing things. The same is true of INFJs except that they are drawn to activities that involve fewer social contacts and less communication with others. INFJs are more private.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Friendship**
 
 INFJs and ENFPs can spend long hours talking and laughing together because their ways of thinking are similar. Their intuitive and feeling traits are the glue that holds the friendship together. However, they are often at odds about their differences in sociability. The INFJ may grow weary of the amount of time the ENFP spends in the company of others. He or she regrets that the ENFP doesn’t take more pleasure in their time alone as friends.

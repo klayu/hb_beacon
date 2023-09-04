@@ -1,6 +1,6 @@
 ---
 title: "Famous People and Their Myers-Briggs Personality Types—Part 1: The Extraverts"
-date: 2023-08-02T01:10:48-07:00
+date: 2023-09-03T01:10:48-07:00
 thumbnail: https://picsum.photos/id/1051/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Angela Merkel', 'Bobby Fischer', celebrities, 'Dalai Lama', 'David Bowie', extraversion, extravert, famous, Ghandi, INFJ, INFP, intj, INTP, introversion, introvert, ISFJ, ISFP, ISTJ, ISTP, Marie Curie, MBTI, Merkel, 'Mother Teresa', Myers-Briggs, personality, 'personality type', 'Princess Diana']
@@ -20,12 +20,12 @@ An ENTJ personality type called the “Leader,” Bill Gates has always been dec
 Extraverted, Intuitive, Feeling and Judging
 With her outgoing, enthusiastic personality, ENFJ Oprah understands people. True to type, she’s articulate and tactful. ENFJs have the interpersonal skills to make others want to join them to make things happen. The ENFJ is idealistic, compassionate, and shows integrity in everything he or she does.
 
-<big><pre>
-Is there a way to make them want you ? 
-What is that _one_ signal that men look for in a 
-romantic relationship ? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **ESTJ: Margaret Thatcher**
 Extraverted, Sensing, Thinking and Judging
@@ -53,8 +53,9 @@ True to his Myers-Briggs personality type, ENFP, Walt Disney was creative and in
 Extraverted, Sensing, Thinking and Perceiving
 As an ESTP personality type called the “Promoter,” John F. Kennedy was persuasive, energetic, and easy-going. This Myers-Briggs type is practical and action-oriented, always ready to join in whatever is happening. True to type, Kennedy was direct in his politics, mincing no words while being tactful with those around him.
 
-<big><pre>
-Why does he treat me like a doormat ? 
-What can I do to bring back the spark? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+Do you know the unusual pattern of signals men look for in a romantic relationship ? Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>

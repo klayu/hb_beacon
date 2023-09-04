@@ -17,7 +17,12 @@ Both types tend to be misunderstood, partly because they are so rare—together 
 
 INFJs can assuage their guilt with the knowledge that they are doing the best they can, realizing that most of us have less power in the world than we think. It’s acceptable and necessary for them to take time for themselves to replenish their energy. Instead of chastising themselves for their impotence, they should realize that even a small difference means a lot. As Eleanor Roosevelt once said, “It is better to light one candle than to curse the darkness.”
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Reasons for Depression**
 

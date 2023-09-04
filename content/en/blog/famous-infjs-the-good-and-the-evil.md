@@ -1,6 +1,6 @@
 ---
 title: "Famous Infjs The Good And The Evil!"
-date: 2023-08-01T01:09:48-07:00
+date: 2023-09-03T01:09:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
 thumbnail: https://picsum.photos/id/1018/400/250
 category: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
@@ -36,12 +36,12 @@ Some key qualities of INFJs include:
 3. Feeling: They make decisions based on personal values and emotions.
 4. Judging: They prefer structure and organization in their lives.
 
-<big><pre>
-Is there a way to make them want you ? 
-What is that _one_ signal that men look for in a 
-romantic relationship ? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 {{< youtube Stg7XGgkq94 >}}
 
@@ -117,8 +117,9 @@ At 22, Koresh moved to Waco, Texas, in 1981 to join the Branch Davidians. Taking
 
 With a sense of misguided idealism, Koresh exalted his own ego at the same time as his Christian bliefs. A powerful orator, he transmitted his ideals to others, as other INFJ cult leaders have done. His Myers-Briggs traits went unchecked and eventually expressed themselves in extreme, destructive behaviors.
  
-<big><pre>
-Why does he treat me like a doormat ? 
-What can I do to bring back the spark? 
-<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+Do you know the unusual pattern of signals men look for in a romantic relationship ? Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>

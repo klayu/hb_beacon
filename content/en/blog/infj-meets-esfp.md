@@ -18,6 +18,13 @@ When an INFJ and ESFP are getting ready to go to a party, the INFJ may say, “D
 
 To which the INFJ responds, “I can promise you, I’ll want to leave early. And I know you. You won’t.” And so it’s likely to go.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Intuition (N) vs. Sensing (S)**
 
 The difference in Myers-Briggs traits can be more divisive for the partners in terms of their intuitive (N) vs. sensing traits. The well-developed intuition (N) of INFJs gives them a talent for interpreting the meaning of events around them on limited evidence. Their hunches are usually well-founded. To the sensing (S) ESFP, this makes no sense. ESFPs draw conclusions based on what they see and hear in the immediate environment. They’re less concerned about the meaning behind people’s actions than they are with the actions themselves.

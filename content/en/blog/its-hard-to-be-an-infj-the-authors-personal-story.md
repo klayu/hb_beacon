@@ -18,6 +18,13 @@ As a student in elementary and high school, I did well academically and had two 
 
 When I left home for college at the age of 17 and began to date, my relationships with boys were fragile. If I fell in love, I couldn’t figure out how to hang onto the boy. He usually tired of my neediness and left. If a boy I didn’t care for kept pursuing me, I couldn’t figure out how to escape without hurting him. With my overactive feeling function, relationships with boyfriends put me on emotional rollercoaster rides.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Personality Traits**
 
 Like most judging types, I’ve always been highly focused. I’ll stay up all night working on a project, never miss a deadline, and be punctual for appointments. I like closure, not uncertainty. I make decisions quickly. Thanks to my highly developed intuition, they tend to turn out well.

@@ -23,6 +23,13 @@ The demands of everyday life can be distracting, making it easy to get sidetrack
 
 Claiming set times in a routine is particularly helpful if you live with someone who needs to learn when to leave you to yourself. Your special time allocated to studying should be clear to everyone.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Ambient Noise**
 
 If you live someplace surrounded with noisy friends or family, you won’t be able to hear yourself think. You may find yourself getting irritated and distracted. If this happens, it’s wise to scout around for an alternative study space where you’ll get peace and quiet as you concentrate on your notes and books.

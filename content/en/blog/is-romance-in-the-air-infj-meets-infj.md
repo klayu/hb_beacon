@@ -29,6 +29,13 @@ Because of their shared introversion, they’d rather be alone together than out
 
 INFJs are a pleasure to collaborate with when they don’t get too driven. They are clear-thinking, intelligent, and witty. Together, INFJ friends are keen observers of the human scene. By the time they share their insights with each other, they’ve usually covered all the bases. You can’t put much over on a pair of INFJs.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Romance**
 
 When two INFJs become romantically attached, they may at first feel shy about showing their affection. They aren’t big risk-takers in the business of romance. They make subtle gestures to encourage the object of their affection. They’re cautious about expressing their feelings for fear of rejection.

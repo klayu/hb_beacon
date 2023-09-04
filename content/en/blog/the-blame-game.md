@@ -19,6 +19,13 @@ If you automatically blame your partner when you fall on the kitchen linoleum, y
 
 On the other hand, you may play the blame game with yourself, faulting yourself even when you had nothing to do with a harmful outcome. Some people find themselves at fault for every bad thing that happens. If your partner slips on the kitchen floor, you might blame yourself for not mopping it the night before. When dogs sneak off with the cat food on the deck, you might blame yourself for not reminding the kids of their nightly chores. When a tree limb dents the hood of your car, you might blame yourself for lacking the ability to foresee the event. In short, you use your own personal failures as a vehicle for seeing yourself as foolish, clumsy or irresponsible. People with this inclination also have a tendency to feel that good fortune or chance is responsible for any successes in their lives, not themselves.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 In either case, the focus is on past events and the unfavorable outcome is not dealt with constructively—that is, as a learning experience.  “I’m sorry you slipped on the floor. Don’t you think it’s time we hired a housekeeper to help us keep up with the household chores?” “Kids, I’ll take the catfood in the house at night from now on, but I’m going to dock your allowance by a dollar a week.”
 
 Some religious people blame God for their misfortunes. Perhaps they entertain thoughts of a malignant Higher Power, punishing them for past “sins” that justify retribution. Or they may simply believe that their Higher Power is doing them a favor by pointing out their weaknesses.

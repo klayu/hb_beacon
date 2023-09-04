@@ -28,6 +28,15 @@ Let’s say you’ve met an INFJ woman and she fascinates you. After initial con
 - Don’t overwhelm her with conversation. Let her take the lead and be a good listener. If there’s one thing women agree on, men in general tend to talk too much and listen too little.
 - Avoid bragging about yourself and your accomplishments. If you have a lot of money, don’t talk about it. If you drive an expensive car, downplay it in conversation.
 
+
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
+
 - Open doors for her. Let her walk in front of you. It’s permissible to guide her by the elbow or a touch on the back. Make your moves easy and casual.
 - At a restaurant, let the maître de or waitress guide you both to a table, with you following behind her.
 - Let your date order first. If you think she’s protecting you from spending too much, say something like, “Please, order anything you like.” Then you should order something equally as expensive. She’s sensitive and will feel guilty if you don’t. Ask if she’d like a drink. If she says no, you should, too. If she says yes, order for yourself, too. In case you’re a nondrinker, just order a sparkling water.

@@ -19,7 +19,14 @@ With their tendency toward introversion (I), INFJs are reserved and shy. Extrave
 
 INFJs can be counted on to finish a project once it’s started. They’re serious, determined workers. ENTPs are more likely to jump from one challenge to another, leaving a good bit of work unfinished along the way. While both types get excited about thinking up new ventures, ENTPs tend to lose interest in old ones.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
+
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Friendship**
 Because they share the intuitive (N) trait, both Myers-Briggs types are able to see the big picture, which is what motivates their creativity. This is the most powerful connection they have. No matter what setting they’re in, they have ideas about how to improve things. Often they’re almost clairvoyant about the future. They’re confident of their hunches, and usually rightly so. However, INFJs are more averse to taking risks with resources—their own and others’. When ENTPs win, they win big. When they lose, they lose big. Their lives are full of twist and turns. INFJs are more predictable in the courses their lives take.

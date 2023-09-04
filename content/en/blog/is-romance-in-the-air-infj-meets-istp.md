@@ -25,7 +25,12 @@ Second, the ISTP, a thinking type (T), makes decisions based on the facts and lo
 
 Finally, perceiving (P) ISTPs avoid final decisions and are more comfortable when things are left open-ended. They’re casual about appointments and deadlines. They can undertake two or three projects at a time. INFJs do only one thing at a time, and they’re punctual and deadline-oriented. With their preference for judging (J), they like to see decisions made and situations brought to closure.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 **Friendship**
 

@@ -29,6 +29,13 @@ A 14-year study of thousands of Americans in various careers shows that differen
 
 The study data do not indicate which careers are best for certain types. The information simply reflects what jobs people were holding at the time the study was in progress. It serves mainly to provide helpful information about the demands of each career. When evaluating potential careers, it’s best to consider how your preferences relate to the demands of certain professions. Every career uses some of each of the eight preferences.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Public contact vs working alone: Introversion/Extraversion**
 
 Jobs that involve mainly working with others are better for Extraverts, especially if they involve selling, persuading, and motivating. While Introverts are often capable of doing these things, too, they may find themselves drained by the constant interaction with others.

@@ -19,6 +19,13 @@ The INFJ (I) is introverted—a private person. The ESTP (E) is sociable and out
 
 If it’s true that opposites attract, that surely must be the case for INFJs and ESTPs.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Friendship**
 
 Introverted (I) INFJs approach friendship in a quiet, thoughtful way. They are comfortable alone or with one or two close friends. ESTPs can be found wherever the action is.

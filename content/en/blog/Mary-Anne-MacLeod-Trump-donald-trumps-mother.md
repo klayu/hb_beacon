@@ -41,6 +41,13 @@ In 1934, Mary returned for a second try at success. Siven’s memoirs report tha
 
 ![Mary Ann Mc Leod](/mary_ann_trump_large.jpg)
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 After arriving in New York, Mary Anne MacLeod participated in the city’s social scene as much as possible. Soon she met Frederick Trump at an elite dance. Trump was then building his fortune as a real estate developer. When Mary met him, he was considered one of the city’s most eligible bachelors. They married in 1936. Over the next few years, they had five children, of which Donald was the second.
 
 Despite the fact that the Trump family lived a life of showy opulence, Fred did not give things to his children without conditions. When Donald’s behavior got too bad or his grades poor, his father deprived him of material things. Intimacy seems to have played little role in their relationship—or in any of the family relationships. Only his older brother, Fred, Jr., seemed to be a free spirit. (He died of alcoholism at age 42.)

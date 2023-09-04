@@ -23,7 +23,12 @@ This woman is in her mid-forties; the other friend and I are 87 and 79, respecti
 
 Doesn’t it ever occur to ‘droid junkies that they’re being rude?  With their fingers dancing over their devices and their eyes focused on the images, they’re only half present at best.  They don’t make eye contact. Where in God’s name are they?  Would taking their ‘droids away leave them feeling helpless and naked?
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 ![Couple Droid](/coupledroid-150x150.jpg)
 

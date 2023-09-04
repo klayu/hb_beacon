@@ -21,7 +21,12 @@ Florida Mind Health Center for Ketamine Therapy is Gainesville’s new—and onl
 
 Ketamine works by blocking a certain type of neural receptor from being triggered in the brain. Think of your brain’s neural pathways as a series of streets. Certain disorders and recurring pain make it difficult for the brain to repair roadblocks or potholes. The damage that may develop due to the side effects of traditional medications is repaired by ketamine. At the low doses employed by the Florida Mind Health Clinic, ketamine has been proven to restore healthy neural pathways in the brain without those side effects.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
 
 The ketamine is delivered by infusion droplets in a bag of diluted saline. Once the needle is inserted into a vein, the process is painless. The only effect noticed by the patient is a series of images noticed behind closed eyes.
 

@@ -18,6 +18,13 @@ When INFJs are on track, they’re creative and insightful. They’re almost cla
 
 How can they miss? Any Myers-Briggs type can overuse or abuse one or more traits.
 
+<div style="background-color: #FFD1DC; border-radius: 9px;">
+He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+
+Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
+him feel irresistibly attracted to you.
+</div>
+
 **Ways of Losing Out**
 When INFJs act on their ideals and do good in the world, all is well. But some INFJs focus on their visions without doing anything except talk about them. If unpleasant realities come along that contradict their utopian views, they try to ignore their existence. Focusing on their single-minded beliefs, they cling to goals that can’t be attained. INFJs who have painted themselves into this corner need to reframe their visions, attune them to reality, and be more flexible in their objectives.
 
