@@ -28,12 +28,19 @@ In the Disney film bearing her name, Alice in Wonderland embodies the INTP perso
 
 Much like INTPs, Alice possesses an inquisitive mind, constantly questioning everything around her, and testing new ideas for accuracy. As an introverted, intuitive, thinking, and perceiving character, she relies on her well-developed intuition to explore creative possibilities and observe her surroundings with a quiet and private demeanor.
 
-<big><pre>
+<!-- <big><pre>
 Is there a way to make them want you ? 
 What is that _one_ signal that men look for in a 
 romantic relationship ? 
 <a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+</pre></big> -->
+
+<a id="aflink" href="/wp/What-Makes-Him-Want-Only-You" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">
+<div style="display: flex; align-items: center;">
+  <img src="/images/hot_flame.gif" alt="image" style="margin-right: 10px; height: 25px;">
+  <p>This is the “secret ingredient” to his lasting commitment !</p>
+</div>
+</a>
 
 INFP: Belle
 *Introverted, Intuitive, Feeling and Perceiving*
@@ -103,8 +110,16 @@ ISTPs, as keen observers of life, remain logical and adaptable in any situation,
 
 Stay tuned for Part 2, where we'll explore Extraverted Disney Characters and their unique personality types in the next blog.
 
+<a id="aflink" href="/wp/what-makes-him-want-only-you/" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">
+<div style="display: flex; align-items: center;">
+  <img src="/images/hot_flame.gif" alt="image" style="margin-right: 10px; height: 25px;">
+  <p>This is the “secret ingredient” to his lasting commitment !</p>
+</div>
+</a>
+
+<!-- 
 <big><pre>
 Why does he treat me like a doormat ? 
 What can I do to bring back the spark? 
 <a id="aflink" href="/wp/what-makes-him-want-only-you/" class="two" target="_blank" title="This is the “secret ingredient” to his lasting commitment">Check out our most read article and find out!</a>.
-</pre></big>
+</pre></big> -->

@@ -21,13 +21,12 @@ The simple fact is, you know things about a person the second you meet them. And
 
 If you’re good at reading people, you may not find it surprising to learn that men and women notice different kinds of signals when interacting with a potential mate.
 
-
-<big><pre>
+<div style="background-color: #FFD1DC; border-radius: 9px;">
 To skip ahead to the video that explains the unusual pattern 
 of signals men look for in a romantic relationship, 
 just follow <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">this link</a>.</br></br>It explains the hidden signal that either repels a man or makes 
 him feel irresistibly attracted to you.
-</pre></big>
+</div>
 
 Otherwise, keep reading to learn about a particular signal you’re broadcasting to men all the time (whether you know it or not).
 
@@ -44,9 +43,7 @@ Would you like to know what it is?
 
 ## Men Are Extremely Sensitive to Something in Your Body Language That You Would Never Expect.
 
-<center>
-{{< figure src="/images/third-section-bg.jpg" >}}
-</center>
+<img src="/images/third-section-bg.jpg" alt="image" style="border-radius: 10px;">
 
 Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
 
@@ -155,7 +152,7 @@ It explains the most powerful signals you can use to grab a man’s attention.
 </center>
 
 
-After watching <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">this video.</a>, many women are surprised to learn how much control they have over a man’s self-esteem.
+After watching <a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">this video</a>, many women are surprised to learn how much control they have over a man’s self-esteem.
 
 And even more surprised by how easy it is to make someone cherish you and want to invest in the relationship.
 

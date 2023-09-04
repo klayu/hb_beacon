@@ -61,6 +61,23 @@ timeout = 600000
 #        weight = 4
 
 [params]
+
+  # Enable the darkmode toggle in header
+  
+  darkModeToggle = true
+  enableSearch = true
+
+  searchKeys = [
+    "tags",
+    "date",
+    "categories",
+    "summary",
+    "content",
+    "link",
+    "author"
+  ]
+
+
   [[params.hugoLeaflet.css]]
   href = "https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
   crossorigin = ""
@@ -90,20 +107,6 @@ timeout = 600000
   [[params.hugoLeaflet.js]]
   src = "/js/leaflet.extra-markers.min.js"
 
-
-  # Enable the darkmode toggle in header
-  darkModeToggle = true
-  enableSearch = true
-
-  searchKeys = [
-    "tags",
-    "date",
-    "categories",
-    "summary",
-    "content",
-    "link",
-    "author"
-  ]
 
   # Custom copyright - optional
   copyright = "Copyright © 2021 - BeaconstreetUSA.com · All rights reserved"
