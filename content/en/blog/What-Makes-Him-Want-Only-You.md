@@ -45,28 +45,51 @@ Would you like to know what it is?
 
 <!-- <img src="/images/third-section-bg.jpg" alt="image" style="border-radius: 10px;"> -->
 
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image {
+        order: 1;
+    }
+    .textspace {
+        order: 2;
+    }
+    .text {
+        order: 3;
+    }
+    @media (min-width: 768px) {
+        .image {
+            order: 1;
+            width: 45%;
+        }
+        .textspace {
+            order: 2;
+            width: 5%;
+        }
+        .text {
+            order: 3;
+            width: 50%;
+        }
+    }
+    img {
+        border-radius: 10px;
+    }
+</style>
+</head>
+<body>
 
-
-
-<div style="display: flex;">
-  <img src="/images/third-section-bg.jpg" alt="Image" style="width: 45%;border-radius: 10px;">
-  <div style="width: 5%;"></div>
-  <div style="width: 50%;">
-    <p>Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
+<div class="container">
+    <div class="image">
+        <img src="/images/third-section-bg.jpg" alt="Your Image">
+    </div>
+    <div class="textspace"></div>
+    <div class="text">
+            <p>Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
 
 In fact, your ability to broadcast the right non-verbal message makes all the difference when it comes to attracting the kind of man you want.
 </p>
-  </div>
-</div>
-
-
-<div style="display: flex;">
-  <img src="/images/third-section-bg.jpg" alt="Image" style="width: 45%;">
-  <div style="width: 5%;"></div>
-  <div style="width: 50%; overflow-wrap: break-word;">
-    <p>Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
-
-In fact, your ability to broadcast the right non-verbal message makes all the difference when it comes to attracting the kind of man you want.
     </div>
 </div>
 
