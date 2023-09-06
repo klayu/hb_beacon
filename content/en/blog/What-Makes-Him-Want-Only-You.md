@@ -43,11 +43,32 @@ Would you like to know what it is?
 
 ## Men Are Extremely Sensitive to Something in Your Body Language That You Would Never Expect.
 
-<img src="/images/third-section-bg.jpg" alt="image" style="border-radius: 10px;">
+<!-- <img src="/images/third-section-bg.jpg" alt="image" style="border-radius: 10px;"> -->
 
-Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
+
+
+
+<div style="display: flex;">
+  <img src="/images/third-section-bg.jpg" alt="Image" style="width: 45%;border-radius: 10px;">
+  <div style="width: 5%;"></div>
+  <div style="width: 50%;">
+    <p>Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
 
 In fact, your ability to broadcast the right non-verbal message makes all the difference when it comes to attracting the kind of man you want.
+</p>
+  </div>
+</div>
+
+
+<div style="display: flex;">
+  <img src="/images/third-section-bg.jpg" alt="Image" style="width: 45%;">
+  <div style="width: 5%;"></div>
+  <div style="width: 50%; overflow-wrap: break-word;">
+    <p>Women often ask me for the words to make a man want you. But the secret to make someone fall in love with you goes a bit deeper.
+
+In fact, your ability to broadcast the right non-verbal message makes all the difference when it comes to attracting the kind of man you want.
+    </div>
+</div>
 
 If you’ve been attracting attention from guys who fail to connect with you on a deep, emotional level, I may be able to show you why.
 
