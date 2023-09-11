@@ -16,24 +16,99 @@ While the two types can become close friends, INFJs should be mindful of the ENT
 
 ENTJs have a high regard for their own positions. INFJs must be the ones to establish limits in the relationship, firmly but tactfully setting their boundaries. Most ENTJs have sharp enough intuition to recognize the need for tact if they want to keep the INFJ’s friendship.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
+<!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
 He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
 
 Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
 him feel irresistibly attracted to you.
+</div> -->
+
+
+
+
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image {
+        order: 1;
+    }
+    .textspace {
+        order: 2;
+    }
+    .text {
+        order: 3;
+    }
+    @media (min-width: 768px) {
+        .image {
+            order: 1;
+            width: 45%;
+        }
+        .textspace {
+            order: 2;
+            width: 5%;
+        }
+        .text {
+            order: 3;
+            width: 50%;
+        }
+    }
+    img {
+        border-radius: 10px;
+    }
+</style>
+
+<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<div class="container">
+    <div class="image">
+        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
+        <img src="/images/300x250-button.gif" alt="">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>
+Because ENTJs can be so intimidating, many people hesitate to be open and honest with them. 
+
+This deprives ENTJs of important information. Surprisingly, they respond best to those who stand up to them quietly but firmly. 
+</p>
+    </div>
 </div>
 
 
-Because ENTJs can be so intimidating, many people hesitate to be open and honest with them. This deprives ENTJs of important information. Surprisingly, they respond best to those who stand up to them quietly but firmly. ENTJs have little regard for people they can push around. Eventually, most friends and co-workers learn that the ENTJ’s bark is worse than his or her bite.
+ENTJs have little regard for people they can push around. Eventually, most friends and co-workers learn that the ENTJ’s bark is worse than his or her bite.
+
 
 While ENTJs may seem like pillars of strength, most have a sentimental side that they try to conceal. They believe that emotional displays are a sign of weakness. When ENTJs are sad or worried, they seldom talk about it. Sensitive INFJs can usually pick up on their troubled feelings and offer compassion while not intruding with solutions.
 
 The major difference between INFJs and ENTJs lies in their need to influence or control others. INFJs lack the ENTJ’s leadership drive. In a work setting this need not be a liability, because the INFJ is comfortable letting the ENTJ take charge as long as the two parties agree on objectives. INFJs don’t have the same ego investment in running the show. They like credit if it’s due, but they won’t ask for more than their share. At home, the issue of control may become troublesome. The INFJ is likely to tire of the ENTJ’s tendency to micromanage and, when things don’t go as planned, to lose his or her temper.
 
 **Falling in Love**
+
 ENTJs are usually drawn to attractive partners. This preference is a reflection of their high standards. Most ENTJ men prefer beautiful women and most ENTJ women like handsome, confident men. To get along with an ENTJ in a relationship, an INFJ needs a well-developed sense of self. It helps to have a sense of humor.
 
-If you’re an INFJ man, you may find ENTJ women intimidating. They are hard for many men to accept. In fact, women of this personality type can be quite nurturing and caring. Their femininity isn’t expressed in traditional ways. When their confrontational style surfaces, the most effective way to avoid conflict is to deflect arguments with humor and good will.
+<div class="container">
+    <div class="image">
+        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
+        <img src="/images/300x250-button.gif" alt="">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>
+If you’re an INFJ man, you may find ENTJ women intimidating. They are hard for many men to accept. 
+
+In fact, women of this personality type can be quite nurturing and caring. Their femininity isn’t expressed in traditional ways.
+</p>
+    </div>
+</div>
+
+When their confrontational style surfaces, the most effective way to avoid conflict is to deflect arguments with humor and good will.
 
 The partners of ENTJs will find themselves on their own much of the time. An INFJ shouldn’t expect to take top priority in the partnership. While it may seem possible at first, it won’t last. The INFJ will be expected to fit into the partner’s ambitions. Some of the INFJ’s intimacy needs will have to be met by family and friends. Otherwise, the INFJ is likely to feel emotionally short-changed.
 

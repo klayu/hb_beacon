@@ -77,8 +77,7 @@ Would you like to know what it is?
         border-radius: 10px;
     }
 </style>
-</head>
-<body>
+
 
 <div class="container">
     <div class="image">

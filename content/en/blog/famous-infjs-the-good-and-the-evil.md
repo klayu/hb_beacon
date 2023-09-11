@@ -26,8 +26,62 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 **Famous Good amd Evil INFJ people**
 
-INFJ is one of the 16 personality types identified by the Myers-Briggs Type Indicator (MBTI). INFJs are often described as insightful, caring, and creative individuals who place great importance on personal values and emotional connections with others. They are also known as "The Advocate" or "The Counselor."
+INFJ is one of the 16 personality types identified by the Myers-Briggs Type Indicator (MBTI). INFJs are often described as insightful, caring, and creative individuals who place great importance on personal values and emotional connections with others. 
+
+
+
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image {
+        order: 1;
+    }
+    .textspace {
+        order: 2;
+    }
+    .text {
+        order: 3;
+    }
+    @media (min-width: 768px) {
+        .image {
+            order: 1;
+            width: 45%;
+        }
+        .textspace {
+            order: 2;
+            width: 5%;
+        }
+        .text {
+            order: 3;
+            width: 50%;
+        }
+    }
+    img {
+        border-radius: 10px;
+    }
+</style>
+
+<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<div class="container">
+    <div class="image">
+        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
+        <img src="/images/300x250-button.gif" alt="">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>
+They are also known as "The Advocate" or "The Counselor."
 When famous INFJs worked for good, they were positive forces in the world. When they turned evil, they became dangerous and desperate people. When they turned evil, they became dangerous and desperate people.
+
+</p>
+    </div>
+</div>
+
 
 Some key qualities of INFJs include:
 
@@ -36,18 +90,24 @@ Some key qualities of INFJs include:
 3. Feeling: They make decisions based on personal values and emotions.
 4. Judging: They prefer structure and organization in their lives.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
+<!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
 He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
 
 Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
 him feel irresistibly attracted to you.
-</div>
+</div> -->
 
 {{< youtube Stg7XGgkq94 >}}
 
 We also have the **EVIL Infj** types.
 
-There INFJs are destructive are cunning, manipulative, and self-righteous. They aim to realize their future vision above anything else. To achieve this aim, they will do whatever it takes, including lying, making shady transactions, and using trickery.  Their actions are justified because, in their eyes, "the end justifies the means." They frequently believe that they are smarter and more enlightened than others, and as a result, they come to the conclusion that any input from the outside world is foolish and shallow. They cease valuing human connections and instead exist in their own subjective fantasy world. To achieve their objective, one must use other people. If they cause harm to others along the road, they will work to suppress any guilt they may experience. They'll try to get away from those
+There INFJs are destructive are cunning, manipulative, and self-righteous. They aim to realize their future vision above anything else. To achieve this aim, they will do whatever it takes, including lying, making shady transactions, and using trickery.  Their actions are justified because, in their eyes, "the end justifies the means." 
+
+They frequently believe that they are smarter and more enlightened than others, and as a result, they come to the conclusion that any input from the outside world is foolish and shallow. 
+
+They cease valuing human connections and instead exist in their own subjective fantasy world.
+
+To achieve their objective, one must use other people. If they cause harm to others along the road, they will work to suppress any guilt they may experience. They'll try to get away from those
 
 **The Good**
 

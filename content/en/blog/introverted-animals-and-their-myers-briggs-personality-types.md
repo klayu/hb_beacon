@@ -20,7 +20,59 @@ The Myers Briggs Personality Type Indicator (MBTI) is a popular tool used to cat
 
 **What is the Introverted Myers Briggs Personality Type?**
 
-The Introverted Myers Briggs Personality Type is one of the four main categories in the MBTI, along with Extraverted, Intuitive, and Judging. Individuals with an Introverted personality type tend to be introspective, thoughtful, and reserved. They often prefer to spend time alone or in small groups, and they may find it difficult to open up to others. Introverts are often misunderstood as being shy or antisocial, but this is not necessarily the case. They simply derive their energy from within, rather than from external sources like social interactions.
+
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image {
+        order: 1;
+    }
+    .textspace {
+        order: 2;
+    }
+    .text {
+        order: 3;
+    }
+    @media (min-width: 768px) {
+        .image {
+            order: 1;
+            width: 45%;
+        }
+        .textspace {
+            order: 2;
+            width: 5%;
+        }
+        .text {
+            order: 3;
+            width: 50%;
+        }
+    }
+    img {
+        border-radius: 10px;
+    }
+</style>
+
+<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<div class="container">
+    <div class="image">
+        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
+        <img src="/images/300x250-button.gif" alt="">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+            <p>The Introverted Myers Briggs Personality Type is one of the four main categories in the MBTI, along with Extraverted, Intuitive, and Judging. 
+            
+Individuals with an Introverted personality type tend to be introspective, thoughtful, and reserved. 
+</p>
+    </div>
+</div>
+
+They often prefer to spend time alone or in small groups, and they may find it difficult to open up to others. Introverts are often misunderstood as being shy or antisocial, but this is not necessarily the case. They simply derive their energy from within, rather than from external sources like social interactions.
 
 Some animals that have the Introverted Myers Briggs Personality Type
 
@@ -31,14 +83,6 @@ Animals are more complicated than most of us realize. We can appreciate the many
 
 This is an introduction to the introverted (I) members of the animal kingdom: the owl, sloth, deer, octopus, wolf, beaver, meerkat, and house cat. Unlike extraverted (E) animals, the introverts are generally quiet and often shy.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
-
-
 INTP: Owl
 *Introverted, Intuitive, Thinking and Perceiving*
 
@@ -48,13 +92,6 @@ Like most INTPs, owls have logical minds. They’re mindful and quiet. They’re
 
 As pets, owls never lose their wild behavior unless hand-raised from birth. People who use owls for falconry can tame baby owls, but only if they bond with them from the time the owlets open their eyes. Taming these birds is a challenge. An owl is an independent creature and never becomes affectionate unless it’s hungry. Owners who allow them the freedom of their houses are likely to find plants knocked over and glassware broken on the floor. They also have to deal with owl droppings on their curtains and upholstery.
 
-
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
 
 ISFP: Sloth
 *Introverted, Sensitive, Feeling and Perceiving*
@@ -126,13 +163,30 @@ Identifying the Introverted Myers Briggs Personality Type in animals can be chal
 4. Reservedness: Animals that are quiet and do not engage in excessive social interactions may be displaying introverted traits.
 5. Sensitivity: Animals that are sensitive to their environment and the emotions of others may be exhibiting introverted behavior.
 
-The Introverted Myers Briggs Personality Type is a unique and often misunderstood personality trait. Both humans and animals can exhibit introverted behavior, and by understanding these traits, we can gain a deeper appreciation for the diversity of personalities in the world around us. Remember, introversion is not a weakness, but rather a different way of experiencing and interacting with the world.
+
+<div class="container">
+    <div class="image">
+        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
+        <img src="/images/300x250-button.gif" alt="">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>The Introverted Myers Briggs Personality Type is a unique and often misunderstood personality trait. Both humans and animals can exhibit introverted behavior, and by understanding these traits, we can gain a deeper appreciation for the diversity of personalities in the world around us. 
+</p>
+    </div>
+</div>
+
+Remember, introversion is not a weakness, but rather a different way of experiencing and interacting with the world.
+
 
 <!-- <p><a id="aflink" href="http://klayu.fxinsiders.hop.clickbank.net/?r=quiz" class="one" target="_blank" title="Take the Personality Quiz : Are you a Magician or Ruler">Personality Quiz : Are you a Magician, Sage or Ruler !</a></p> -->
-
+<!-- 
 <div style="background-color: #FFD1DC; border-radius: 9px;">
 He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
 
 Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
 him feel irresistibly attracted to you.
-</div>
+</div> -->
