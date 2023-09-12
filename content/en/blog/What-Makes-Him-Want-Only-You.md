@@ -7,8 +7,6 @@ thumbnail: /images/third-section-bg.jpg
 category: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
 
-Impact-Site-Verification: 8f14aafb-b623-4985-9352-4d6c570f5243
-
 <!-- This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website! -->
