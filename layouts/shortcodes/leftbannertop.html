@@ -1,0 +1,58 @@
+{{ if .IsNamedParams }}
+
+<style>
+    .container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .image {
+        order: 1;
+    }
+    .textspace {
+        order: 2;
+    }
+    .text {
+        order: 3;
+    }
+    @media (min-width: 768px) {
+        .image {
+            order: 1;
+            width: 45%;
+        }
+        .textspace {
+            order: 2;
+            width: 5%;
+        }
+        .text {
+            order: 3;
+            width: 50%;
+        }
+    }
+    img {
+        border-radius: 10px;
+    }
+</style>
+
+<!-- <img src="/images/cc1.gif" alt=""> -->
+<div class="container">
+    <div class="image">
+        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
+        <img src="{{ .Get "src" }}" alt="">
+        </a>
+        
+</div>
+    <div class="textspace"></div>
+    <div class="text">
+<p>
+{{ .Get "text1" }}
+<br><br>
+{{ .Get "text2" }}
+</p>
+    </div>
+</div>
+
+
+{{ else }}
+<img src="{{ .Get 0 }}" alt="">
+{{ end }}

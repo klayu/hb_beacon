@@ -26,16 +26,15 @@ In days when it seems hard to be an INFJ, it’s worth looking at some of the qu
 
 8. Relate to others with compassion, always willing to lend a hand.
 
-9. Listen to people attentively; observe their body language.
+{{< 
 
-10. Value close relationships and nurture them.
+leftbannertop src="/images/cc1.gif" 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+text1="9. Listen to people attentively; observe their body language." 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+text2="10. Value close relationships and nurture them."
+
+>}}
 
 11. Seek intimate relationships as a way to connect with the world and grow.
 

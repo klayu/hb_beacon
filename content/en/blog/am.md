@@ -20,15 +20,17 @@ I am a good example:
 **As an INFJ**
 - I tend to prefer solitude or the company of only one or two friends (I). Crowded social scenes turn me off.
 - My intuitive nature (N) blesses me with creativity, fresh insights into the future, and the ability to second-guess others—sometimes a source of annoyance to them.
-- As a feeling (F) type, I am mindful of the effects of my actions on others and concerned about their well-being, although I can take my emotional tendencies too far.
-- The judging tendencies of my personality (J) make me prompt, reliable and conscientious, but sometimes overdemanding.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="- As a feeling (F) type, I am mindful of the effects of my actions on others and concerned about their well-being, although I can take my emotional tendencies too far." 
+
+text2="- The judging tendencies of my personality (J) make me prompt, reliable and conscientious, but sometimes overdemanding."
+
+>}}
+
 
 **My News Year’s Resolutions** 
 

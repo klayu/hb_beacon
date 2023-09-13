@@ -10,14 +10,17 @@ INFJs and ISFJs are alike in many ways. Both are introverted, feeling, and judgi
 
 Although both have high ideals, they’re modest about them. They prefer to make their values apparent in their actions. This is partly due to their introverted personalities and desire to avoid the spotlight. Seldom do they demand recognition for their achievements.
 
-The main difference between the two is that INFJs are more insightful. For example, they pick up on the motives of others quickly, and as a result, their judgments are sometimes harsh. ISFJs, however, tend to be naive. They have a hard time understanding greed and unkindness because it’s so foreign to their natures. INFJs and ISFJs complement each other because they meet somewhere in the middle. INFJs protect ISFJs from their gullibility, and ISFJs are models of tolerance.
+The main difference between the two is that INFJs are more insightful. For example, they pick up on the motives of others quickly, and as a result, their judgments are sometimes harsh. ISFJs, however, tend to be naive. They have a hard time understanding greed and unkindness because it’s so foreign to their natures.  
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="INFJs and ISFJs complement each other because they meet somewhere in the middle." 
+
+text2="INFJs protect ISFJs from their gullibility, and ISFJs are models of tolerance."
+
+>}}
 
 
 **Friendship**
@@ -52,4 +55,12 @@ Both Myers-Briggs types take their parenting responsibilities seriously. For the
 
 INFJs and ISFJs do best when they appreciate their differences as well as their similarities. While the ISFJ may not be as creative or witty as the INFJ, he or she is better at the practical aspects of life. When INFJs lose things—which they do with regularity—ISFJs can find them. When there are monotonous chores that the INFJ wishes to avoid, he or she is likely to find a willing volunteer in the ISFJ. The secret to a warm relationship is for both to show the
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}

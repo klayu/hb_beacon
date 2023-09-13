@@ -22,14 +22,17 @@ We see reflections of own personalities in characters like Jiminy Cricket, Alice
 
 Buzz Lightyear, a toy space ranger in “Toy Story,” is known for his bravery and courage. ENTJ Buzz believes in following the rules. Though a great leader, he’s sometimes impulsive and demanding. He’s a skilled warrior in hand-to-hand combat and stays in peak physical condition. In “Toy Story 2,” Buzz leads a toy gang to rescue Woody, who has been captured by a greedy toy collector.
 
-ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real life, ENTJs are born leaders. Confident and outgoing, they have a need to run things. To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. They can be hard on people who fail to live up to their standards.
+ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real life, ENTJs are born leaders. Confident and outgoing, they have a need to run things. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. They can be hard on people who fail to live up to their standards." 
+
+text2=""
+
+>}}
 
 ![merlin ENFJ](/merlinENFJ.jpg)
 

@@ -27,14 +27,17 @@ A 14-year study of thousands of Americans in various careers shows that differen
     ENFJ: Clergy, teachers, actors and entertainers, writers and artists, consultants
     ENTJ: Lawyers, managers, mortgage brokers, administrators (computer systems and education), scientists
 
-The study data do not indicate which careers are best for certain types. The information simply reflects what jobs people were holding at the time the study was in progress. It serves mainly to provide helpful information about the demands of each career. When evaluating potential careers, it’s best to consider how your preferences relate to the demands of certain professions. Every career uses some of each of the eight preferences.
+The study data do not indicate which careers are best for certain types. The information simply reflects what jobs people were holding at the time the study was in progress. It serves mainly to provide helpful information about the demands of each career. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="When evaluating potential careers, it’s best to consider how your preferences relate to the demands of certain professions. " 
+
+text2="Every career uses some of each of the eight preferences."
+
+>}}
 
 **Public contact vs working alone: Introversion/Extraversion**
 
@@ -54,9 +57,18 @@ Judging types do best in careers that require scheduling and established procedu
 
 **It’s a Personal Decision**
 
-When you consider your own type, such as ISFP, the key is not to choose a career that theoretically belongs on a list, but rather to consider the various facets of your type and how they relate to the job possibilities. A bus driver who travels a short downtown route every day is different from a bus driver transporting senior citizens through the city and acting as their tour guide.
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="When you consider your own type, such as ISFP, the key is not to choose a career that theoretically belongs on a list, but rather to consider the various facets of your type and how they relate to the job possibilities." 
+
+text2=""
+
+>}}
+
+ A bus driver who travels a short downtown route every day is different from a bus driver transporting senior citizens through the city and acting as their tour guide.
 
 The goal is to find a career that fits your preferences rather than force yourself into a job that theoretically suits your type. The better the personal fit, the less job stress and the more satisfaction you’ll experience in the long run. If you have an opportunity to practice law you might find that the job in question involves representing low-income clients, about whom you feel personal concern. if you’re an INFP you may be tempted to rule out the possibility because the career is not on the master list. Yet the job may be a perfect fit for your type, with its tendency toward compassion and flexibility.
 
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

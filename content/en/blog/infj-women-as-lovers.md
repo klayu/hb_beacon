@@ -18,12 +18,15 @@ The INFJ woman is compassionate, intelligent, and creative. While she longs for 
 
 The odds of finding an INFJ woman are small—sad but true. That’s because INFJs comprise only 1 percent of the population. Consequently, she finds reasons to get out and appear in places where the odds are more promising. If she’s out there, just by herself, the chances are that the right man will find her if there’s one around.
 
-<!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+<!-- {{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div> -->
+leftbannertop src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}} -->
 
 
 A man who initiates a relationship with an INFJ woman soon learns if his feelings are reciprocated. The woman picks up every nuance and shift in his mood. Sometimes he has the uneasy feeling that she can read his mind.
@@ -62,12 +65,12 @@ A man who initiates a relationship with an INFJ woman soon learns if his feeling
     }
 </style>
 
-<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<!-- <img src="/images/cc1.gif" alt=""> -->
 <div class="container">
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
+        <img src="/images/cc1.gif" alt="">
         </a>
         
 </div>
@@ -88,9 +91,17 @@ The right man need not fear that his INFJ woman will leave him on an impulse. Sh
 
 An INFJ relationship that stands the test of time can go on for years—for a lifetime, in fact. She gives the man thoughtful gifts, compliments and favors. She aims to please. Responding in kind isn’t necessary, although she appreciates it. The INFJ woman is satisfied with her ability to make him happy.
 
-Other men are likely to be attracted to an INFJ woman. She may or may not notice. She’s hard to resist because all her good qualities make her attractive. Her partner needn’t worry about her being fickle, however. She’ll be loyal—under one condition. The man must return her love, show his devotion, and make her feel treasured. Above all, he should never make lovemaking a hurried event. It deserves all his skill and attention. She’ll appreciate this more than anything else he can do. If she starts showing a desire to wander, it’s probably because he hasn’t fulfilled his end of the bargain.
+Other men are likely to be attracted to an INFJ woman. She may or may not notice. She’s hard to resist because all her good qualities make her attractive. Her partner needn’t worry about her being fickle, however. She’ll be loyal—under one condition. The man must return her love, show his devotion, and make her feel treasured. Above all, he should never make lovemaking a hurried event. It deserves all his skill and attention. 
 
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="She’ll appreciate this more than anything else he can do. " 
+
+text2="If she starts showing a desire to wander, it’s probably because he hasn’t fulfilled his end of the bargain."
+
+>}}
 
 **Do’s and Don’ts**
 
@@ -107,26 +118,12 @@ When courting an INFJ woman, men should keep several pointers in mind:
 * Don’t lie to her about anything, even little things. She’ll pick up on it, and your relationship will suffer from then on. It takes a lot of work and compassion to repair the damage done by even small deceits. An INFJ woman needs to trust you.
 * Don’t pressure her to reveal her innermost secrets. She’ll start to share them with you when she’s ready and believes she can trust you completely. If the relationship is solid, eventually she’ll tell you everything.
 
+{{< 
 
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-Of all sixteen types, the INFJ has the greatest store of love and compassion to give in a relationship. If you find an INFJ woman, treasure her. 
+leftbanner src="/images/cc1.gif" 
 
-**She’s one in a hundred.**
+text1="Of all sixteen types, the INFJ has the greatest store of love and compassion to give in a relationship. If you find an INFJ woman, treasure her. " 
 
-</p>
-    </div>
-</div>
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
+text2=""
 
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
-
+>}}

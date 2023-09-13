@@ -27,14 +27,17 @@ INFJs usually forge lasting friendships when they’re lucky enough to find each
 
 Because of their shared introversion, they’d rather be alone together than out socializing. When they’re enjoying themselves they may hesitate to invite others into the inner circle. They would do well to make friends with a few extraverts who can encourage them to share their fun or work. Spending time solely as a couple can cause the partners to stagnate without their realizing it.
 
-INFJs are a pleasure to collaborate with when they don’t get too driven. They are clear-thinking, intelligent, and witty. Together, INFJ friends are keen observers of the human scene. By the time they share their insights with each other, they’ve usually covered all the bases. You can’t put much over on a pair of INFJs.
+INFJs are a pleasure to collaborate with when they don’t get too driven. They are clear-thinking, intelligent, and witty. Together, INFJ friends are keen observers of the human scene. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="By the time they share their insights with each other, they’ve usually covered all the bases." 
+
+text2="You can’t put much over on a pair of INFJs."
+
+>}}
 
 **Romance**
 
@@ -62,4 +65,12 @@ The homes of INFJ couples are sometimes neat and organized, sometimes cluttered.
 
 INFJs have a strong attraction for each other. To keep their relationship healthy, they need to preserve their needs for personal privacy. They should give each other the space needed for individual pursuits. At the same time, they should take time for social activities that get them out of the house and around other people.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}

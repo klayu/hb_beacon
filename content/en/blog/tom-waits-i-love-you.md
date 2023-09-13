@@ -23,4 +23,12 @@ Tom is outrageous, funny.  You see the rascally kid in him.  But he’s an old s
 
 Tom Waits, I love you.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}

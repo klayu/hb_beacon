@@ -31,16 +31,16 @@ More confusion probably exists regarding Sensors (S) and Intuitives (N) than any
 
 • They dislike it when people give them vague instructions rather than stepwise details. “Here’s the overall plan. We’ll discuss the details later,” is the type of communication that frustrates them.
 
-• Sensors are literal in their use of words. If they say, “Be careful. The coffee is boiling hot,” it probably is. The Intuitive might mean that the coffee is just uncomfortably warm.
+{{< 
 
-• At work, Sensors focus on their own jobs and responsibilities rather than their importance to the overall organization.
+leftbannertop src="/images/cc1.gif" 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+text1="• Sensors are literal in their use of words. If they say, “Be careful. The coffee is boiling hot,” it probably is. The Intuitive might mean that the coffee is just uncomfortably warm." 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+text2="• At work, Sensors focus on their own jobs and responsibilities rather than their importance to the overall organization."
+
+>}}
+
 
 **Intuitive Type**
 

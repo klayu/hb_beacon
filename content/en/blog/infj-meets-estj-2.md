@@ -11,14 +11,17 @@ All things considered, the attraction between the ESTJs and INFJs isn’t surpri
 An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others. Often, they forget to say “please” and “thank you.” To build a good relationship with an ESTJ, it’s best to let the person know up front that these courtesies are important to you.
 
 
-You’ll avoid frustration in friendships with ESTJs if you make an effort to understand how their minds work. They aren’t like you—a person who would rather act on hunches than gather detailed information. ESTJs are guided mainly by rules, principles, and traditional values. INFJs adopt novel approaches to problems and bypass convention. INFJs are rare enough (one percent of the population) that most ENFJs (over ten percent) haven’t met enough of them to understand them.
+You’ll avoid frustration in friendships with ESTJs if you make an effort to understand how their minds work. They aren’t like you—a person who would rather act on hunches than gather detailed information. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="ESTJs are guided mainly by rules, principles, and traditional values. INFJs adopt novel approaches to problems and bypass convention. " 
+
+text2="INFJs are rare enough (one percent of the population) that most ENFJs (over ten percent) haven’t met enough of them to understand them."
+
+>}}
 
 **Type Differences**
 ![ESTJTypeDifferences](/ESTJTypeDifferences.jpg)
@@ -63,4 +66,12 @@ When you get frustrated by your partner’s lack of sensitivity, take comfort in
 ESTJs known for their quick tempers include Lyndon Johnson, Bette Davis, and Herbert Hoover. In heated situations, they responded best to people who would hear them out and then suggest new insights. INFJ leaders famous for their ability to listen thoughtfully to others include Nelson Mandela, Eleanor Roosevelt, and Ghandi.
 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}

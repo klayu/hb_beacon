@@ -63,12 +63,12 @@ INFJ is one of the 16 personality types identified by the Myers-Briggs Type Indi
     }
 </style>
 
-<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<!-- <img src="/images/cc1.gif" alt=""> -->
 <div class="container">
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
+        <img src="/images/cc1.gif" alt="">
         </a>
         
 </div>
@@ -90,12 +90,15 @@ Some key qualities of INFJs include:
 3. Feeling: They make decisions based on personal values and emotions.
 4. Judging: They prefer structure and organization in their lives.
 
-<!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+<!-- {{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div> -->
+leftbannertop src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}} -->
 
 {{< youtube Stg7XGgkq94 >}}
 

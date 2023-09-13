@@ -17,16 +17,19 @@ Both types tend to be misunderstood, partly because they are so rare—together 
 
 INFJs can assuage their guilt with the knowledge that they are doing the best they can, realizing that most of us have less power in the world than we think. It’s acceptable and necessary for them to take time for themselves to replenish their energy. Instead of chastising themselves for their impotence, they should realize that even a small difference means a lot. As Eleanor Roosevelt once said, “It is better to light one candle than to curse the darkness.”
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="* INFJs experience loneliness much of time. It’s hard for most people to read the feelings of INFJs because they are highly sensitive, quiet, and self-contained. For this reason, few people really understand them." 
+
+text2=""
+
+>}}
 
 **Reasons for Depression**
 
-* INFJs experience loneliness much of time. It’s hard for most people to read the feelings of INFJs because they are highly sensitive, quiet, and self-contained. For this reason, few people really understand them.
+
 
 * Even when questioned about their feelings, they keep most issues to themselves. They feel sure that others won’t understand their pain or their subtle feelings.
 
@@ -35,10 +38,6 @@ him feel irresistibly attracted to you.
 * People close to INFJs can fail to give supportive feedback because they get confused by the INFJ’s conflicting tendencies. On the one hand, this Myers-Briggs type gets satisfaction from being around them. On the other, sometimes INFJs tire of meeting the emotional needs of others and want only to be alone. This causes confusion among people close to the INFJ. It often confuses INFJs themselves, leading to feelings of depression.
 
 * The idealism of INFJs can lead them down dark paths. They have a tendency to place high expectations on others just as they do on themselves. The real world can be corrupt in many ways, a fact that many INFJs overlook until it’s too late. The high moral standards of INFJs may put them at odds with others, leaving a breach in understanding.
-
-To combat depression, INFJs must learn to take care of themselves better—to indulge themselves with things they find enjoyable in life. They should remember that no one is perfect, and everyone deserves some time off.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **Depression in INFPs**
 
@@ -50,9 +49,17 @@ INFPs, much like INFJs, are prone to depression because of their naturally sensi
 
 * Their naiveté makes them an easy target for toxic individuals. Because their own intentions and morals are above reproach, they think that’s true of all other people. Even when the actions of others show hostile intent, INFPs tend to discount their suspicions because it’s so far from anything they would do. 
 
-* They can’t imagine that anyone would hurt them intentionally. It takes many years of living to discover the bitter truth—that many unfriendly acts are done on purpose.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="* They can’t imagine that anyone would hurt them intentionally. It takes many years of living to discover the bitter truth—that many unfriendly acts are done on purpose." 
+
+text2=""
+
+>}}
 
 * Their highly developed empathy makes them emotional sponges. They pick up easily the energy of others, making themselves susceptible to the moods of those around them. They’re infected by friends’ tribulations. For this reason, they find it hard to say “no,” and people often take advantage of them.
 
@@ -68,5 +75,3 @@ INFPs need close friends who are both supportive and nonjudgmental—people who 
 **Similarities Between INFJs and INFPs**
 
 Whether INFJs and INFPs get overwhelmed by personal conflicts or global injustices, they switch to hermit mode. They want to make a change, but the prospect seems hopeless. Therefore, their backup strategy is isolation. And this eventually leads to depression. Both types need to feel supported and appreciated when they are depressed. Just knowing that the people around them value them and do not judge them can be of immense help.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

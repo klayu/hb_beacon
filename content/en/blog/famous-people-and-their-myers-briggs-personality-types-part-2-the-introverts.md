@@ -18,14 +18,17 @@ Introverted, Sensing, Feeling and Judging
 
 **INTJ: Bobby Fischer**
 Introverted, Intuitive, Thinking and Judging
-06-bobby-fischerBobby Fischer, world chess champion. was an INTJ—a Myers-Briggs personality type called the “Mastermind.” He was a brilliant and creative strategist, but a difficult man. Like many INTJs, he sometimes seemed so confident of himself as to appear overbearing. True to his type, he liked to design models based on theories he’d developed.
+06-bobby-fischerBobby Fischer, world chess champion. was an INTJ—a Myers-Briggs personality type called the “Mastermind.” He was a brilliant and creative strategist, but a difficult man.  
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="Like many INTJs, he sometimes seemed so confident of himself as to appear overbearing." 
+
+text2="True to his type, he liked to design models based on theories he’d developed."
+
+>}}
 
 **INFJ: Mahatma Ghandi**
 Introverted, Intuitive, Feeling and Judging
@@ -37,9 +40,17 @@ Introverted, Intuitive, Thinking and Perceiving
 
 **INFP: Princess Diana**
 Introverted, Intuitive, Feeling and Perceiving
-12-princessdianaPrincess Diana, beloved by millions, was an INFP noted for her compassion and global philanthropy. INFPs are soft-spoken idealists who dedicate themselves to helping others. They avoid conflict and try not to create waves, but when they see people behaving unkindly, they can become surprisingly assertive.
+12-princessdianaPrincess Diana, beloved by millions, was an INFP noted for her compassion and global philanthropy. INFPs are soft-spoken idealists who dedicate themselves to helping others. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="They avoid conflict and try not to create waves, but when they see people behaving unkindly, they can become surprisingly assertive." 
+
+text2=""
+
+>}}
 
 **ISFP: David Bowie**
 Introverted, Sensing, Feeling and Perceiving
@@ -54,5 +65,3 @@ Introverted, Sensing, Thinking and Perceiving
 **ISTJ: Angela Merkel**
 Introverted, Sensing, Thinking and Judging
 Angela Merkel, the Chancellor of Germany, is an ISTJ. As a political leader, she is organized, objective and demanding. While ISTJs know how to be gracious and articulate in social situations, at heart they are independent, private types. They don’t make decisions without first collecting detailed information.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

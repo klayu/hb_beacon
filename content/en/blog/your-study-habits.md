@@ -23,18 +23,22 @@ The demands of everyday life can be distracting, making it easy to get sidetrack
 
 Claiming set times in a routine is particularly helpful if you live with someone who needs to learn when to leave you to yourself. Your special time allocated to studying should be clear to everyone.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
 
 **Ambient Noise**
 
-If you live someplace surrounded with noisy friends or family, you won’t be able to hear yourself think. You may find yourself getting irritated and distracted. If this happens, it’s wise to scout around for an alternative study space where you’ll get peace and quiet as you concentrate on your notes and books.
+If you live someplace surrounded with noisy friends or family, you won’t be able to hear yourself think. You may find yourself getting irritated and distracted. 
 
-If worse comes to worst, get some earphones that block out environmental sounds. And disable your phone for a while.
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="If this happens, it’s wise to scout around for an alternative study space where you’ll get peace and quiet as you concentrate on your notes and books." 
+
+text2="If worse comes to worst, get some earphones that block out environmental sounds. And disable your phone for a while."
+
+>}}
+
+
 
 Although some people can stay focused when surrounded by chaos, noise generally disrupts mental processes. Many students vow that soft music or a television set turned on low keeps them on task and in no way hampers their concentration. Researchers would challenge that claim. They have found that environmental noise—background music, city sounds, people’s conversations—leads to a decrease in performance for most people. While these things can improve positive emotions, increase performance in sports, and make people complete tasks a little faster, they have disruptive consequences for reading and studying—a chilling finding for students addicted to ambient noise.
 
@@ -50,7 +54,20 @@ Many students pore over their books in a messy environment. It’s not what they
 
 **Comfort**
 
-Your desk chair should be large enough to take your full weight and support your back. Backaches are not conducive to good study habits. You should have a desk that will give you plenty of clean space to work on. Your computer screen should be adjusted to the correct angle and distance for easy viewing. The room should be tidy and air-conditioned, or heated to a temperature that feels comfortable to you.
+Your desk chair should be large enough to take your full weight and support your back. Backaches are not conducive to good study habits. You should have a desk that will give you plenty of clean space to work on. 
+
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Your computer screen should be adjusted to the correct angle and distance for easy viewing. " 
+
+text2="The room should be tidy and air-conditioned, or heated to a temperature that feels comfortable to you."
+
+>}}
+
+
 
 **Students’ Accessories**
 
@@ -65,5 +82,3 @@ Shoes? By all means, go without. Based on observations of thousands of children 
 **STOP!**
 
 There are times when attempting to study is just not a good idea. One thing is clear – if you are angry or upset, the last thing you should do is to try some serious studying. It requires a clear mind, unclouded by negative thoughts. Wait until your feathers are no longer ruffled. Then go for it.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

@@ -20,20 +20,34 @@ Quiet and unassuming, INFJs and ISFJs aren’t easy to get to know, but people c
 
 Both INFJs and ISFJs take romantic relationships seriously and are attentive to their partners’ needs. In their speech and demeanor, they’re tactful and kind. At the same time, their introverted natures make them cautious about expressing their feelings for fear of rejection. These two types may be so cautious in their approach to romance that more extraverted partners get impatient with them. INFJs and ISFJs have a tendency to hold back on the playful aspects of their personalities until they know people well.
 
-INFJs and ISFJs sometimes remain in partnerships that are no longer working. The thought of leaving a relationship makes them nervous and insecure. When either of these types is left by a partner, they’re deeply hurt. Typically, their self-esteem suffers and they go through a period of painful self-examination. If they don’t turn to friends for support, they’re slow to regroup and move on. Some grow quiet, trying to appear composed and stoic to the people around them.
+INFJs and ISFJs sometimes remain in partnerships that are no longer working. The thought of leaving a relationship makes them nervous and insecure. When either of these types is left by a partner, they’re deeply hurt. Typically, their self-esteem suffers and they go through a period of painful self-examination.  
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="If they don’t turn to friends for support, they’re slow to regroup and move on." 
+
+text2="Some grow quiet, trying to appear composed and stoic to the people around them."
+
+>}}
 
 **At Home**
 
 The homes of INFJs tend to be more cluttered than those of ISFJs. An abundance of books, crafts supplies, musical instruments, and other paraphernalia lie around the house, allowing INFJs to pursue their hobbies at a moment’s notice. While they would prefer a tidy environment, housekeeping has a lower priority than having fun. When family members complain about the mess, however, INFJs will pick up after themselves.
 
-ISFJs’ homes are usually neater, as they’re more prompt about attending to home maintenance and domestic chores. Sometimes their sense of responsibility prompts them to take on more than they can handle. They may complain about their workload in a martyred sort of way, but then turn down offers of assistance from family members. To accept help makes them feel inadequate and guilty.
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="ISFJs’ homes are usually neater, as they’re more prompt about attending to home maintenance and domestic chores." 
+
+text2="Sometimes their sense of responsibility prompts them to take on more than they can handle. "
+
+>}}
+
+They may complain about their workload in a martyred sort of way, but then turn down offers of assistance from family members. To accept help makes them feel inadequate and guilty.
 
 Celebrations such as birthdays and anniversaries are important to ISFJs, who are more traditional than INFJs. To get the most enjoyment out of such events, they participate enthusiastically in the preparations—cooking the holiday meal, cleaning the house, and so on. This is one way they show their commitment and love.
 
@@ -53,4 +67,3 @@ INFJs and ISFJs enjoy their retirement years if they’re free of financial worr
 
 ISFJs, always more now-oriented than INFJs, also enjoy being released from the time-consuming obligations that characterized their working years. With age, they become less self-critical and more extraverted. Their give their own needs and desires higher priority than they once did. Still, being of service to others remains important.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

@@ -16,17 +16,20 @@ Because ISTPs rely on their sensing preference more than their intuition, they a
 
 In contrast, INFJs aren’t mechanically minded. They get impatient with details and prefer to head straight to outcomes. The ISTP can be a big help to the INFJ who doesn’t want to bother with, say, taking apart a toaster to see why it’s not working. If the problem is a blown fuse, that may occur to the INFJ intuitively while the ISTP works his or her way to the solution through logic. ISTPs are likely to examine the parts of the toaster before checking the fusebox. The two types have complementary strengths.
 
-When an ISTP and INFJ collect information to make a big decision, such as what car to buy, their sensing and intuitive functions may collide. The ISTP may not be satisfied until all aspects of a model are checked out and the vehicle is examined by a mechanic. The INFJ is more likely to base his or her decision on how the engine runs and if the car feels good to drive. The ISTP’s private opinion is that the INFJ rushes to conclusions without taking enough precautions. The INFJ thinks the ISTP is too fussy about details.
+When an ISTP and INFJ collect information to make a big decision, such as what car to buy, their sensing and intuitive functions may collide. The ISTP may not be satisfied until all aspects of a model are checked out and the vehicle is examined by a mechanic. The INFJ is more likely to base his or her decision on how the engine runs and if the car feels good to drive. 
 
 
 <!-- <p><a href="https://b2079ao3af6w8x6oqqmceog410.hop.clickbank.net" class="one" target="_blank" title="Soutmate Compatibility Reading">Get Your Soutmate Compatibility Reading Now</a></p> -->
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="The ISTP’s private opinion is that the INFJ rushes to conclusions without taking enough precautions. " 
+
+text2="The INFJ thinks the ISTP is too fussy about details."
+
+>}}
 
 **Thinking vs. Feeling**
 
@@ -40,8 +43,17 @@ Because of their perceiving preference, ISTPs don’t worry much about deadlines
 
 It takes effort and patience to make an ISTP-INFJ relationship work. The two must respect each other’s methods of processing information. The ISTP should try to understand the INFJ’s need for emotional support. Often this requires that the INFJ explain his or her needs to the ISTP and make suggestions for meeting them. INFJs shouldn’t expect ISTPs to be their sole source of emotional support. They need to cultivate a few friends who can empathize with their feelings and give them support.
 
-As close friends, INFJs and ISTPs enjoy sharing experiences quietly, away from crowds. They’re most at ease when they’re camping, listening to music, or watching a documentary. Words aren’t necessary. The shared experience is enough.
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="As close friends, INFJs and ISTPs enjoy sharing experiences quietly, away from crowds. " 
+
+text2="They’re most at ease when they’re camping, listening to music, or watching a documentary."
+
+>}}
+
+Words aren’t necessary. The shared experience is enough.
 
 The INFJ appreciates the ISTP’s ability to enjoy the details of life without over-thinking. ISTPs have a matter-of-fact, uncomplicated way of viewing the world. This can be a relief to the complex INFJ for whom very little is easy. Often the ISTP has practical solutions to the small problems of life: how to replace a bicycle chain, determining what’s causing the funny noise in the car engine, or figuring out what’s killing the roses in the yard.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

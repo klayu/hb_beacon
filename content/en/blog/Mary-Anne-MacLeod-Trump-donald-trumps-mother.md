@@ -21,7 +21,19 @@ The story of a prominent figure often finds its roots in the experiences and inf
 
 Early Life of Frederick Christ Trump
 
-Frederick Christ Trump, commonly known as Fred Trump, was born on October 11, 1905, in Woodhaven, New York. He hailed from a family of German immigrants, and his upbringing was marked by the values of hard work, determination, and a strong entrepreneurial spirit. Fred's father, Friedrich Trump, had ventured to the United States in search of opportunities, setting the stage for a legacy of business acumen.
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="Frederick Christ Trump, commonly known as Fred Trump, was born on October 11, 1905, in Woodhaven, New York." 
+
+text2="He hailed from a family of German immigrants, and his upbringing was marked by the values of hard work, determination, and a strong entrepreneurial spirit. "
+
+>}}
+
+ Fred's father, Friedrich Trump, had ventured to the United States in search of opportunities, setting the stage for a legacy of business acumen.
+
+
 
 Fred Trump's Early Business Ventures
 
@@ -41,12 +53,7 @@ In 1934, Mary returned for a second try at success. Siven’s memoirs report tha
 
 ![Mary Ann Mc Leod](/mary_ann_trump_large.jpg)
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
 
 After arriving in New York, Mary Anne MacLeod participated in the city’s social scene as much as possible. Soon she met Frederick Trump at an elite dance. Trump was then building his fortune as a real estate developer. When Mary met him, he was considered one of the city’s most eligible bachelors. They married in 1936. Over the next few years, they had five children, of which Donald was the second.
 
@@ -65,9 +72,17 @@ Mary MacLeod Trump died in 2000 at the age of 88, just a year after her husband 
 
 Parenting and Family Values
 
-Fred and Mary Anne Trump's parenting style was characterized by their immigrant backgrounds and the values they held dear. They instilled in their children a sense of discipline, responsibility, and resilience. These values, shaped by their own struggles and successes, would later influence Donald Trump's approach to business and leadership.
+Fred and Mary Anne Trump's parenting style was characterized by their immigrant backgrounds and the values they held dear. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="They instilled in their children a sense of discipline, responsibility, and resilience. " 
+
+text2="These values, shaped by their own struggles and successes, would later influence Donald Trump's approach to business and leadership."
+
+>}}
 
 ### Tracing Roots and Traditions: The Ancestral Heritage That Shaped Donald Trump's Parents
 
@@ -92,8 +107,6 @@ Shared Values and the Trump Legacy
 Despite coming from different cultural backgrounds, Fred and Mary Anne Trump's ancestral heritages shared common values such as hard work, family bonds, and determination. These values became intertwined with their personal experiences, and they would go on to impart them to their children, including Donald Trump.
 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
-
 ### The Trump Influence: How Frederick and Mary Anne Trump Shaped Donald's Path to Success
 
 The journey to success is often shaped by the values and lessons learned during one's formative years. In the case of Donald Trump, the 45th President of the United States, the influence of his parents, Frederick Christ Trump and Mary Anne MacLeod Trump, played a pivotal role in molding his career choices, approach to business, and eventual accomplishments. In this article, we explore the ways in which his parents' upbringing and values left an indelible mark on Donald Trump's life, illustrating specific examples of how their traits are interwoven into his journey.
@@ -113,8 +126,6 @@ Fred Trump's meticulous attention to detail in real estate development translate
 Risk-Taking and Resilience
 
 Both of Donald Trump's parents faced challenges that required resilience and risk-taking. Fred navigated economic downturns and regulatory hurdles, showcasing his ability to adapt and persevere. Similarly, Mary Anne's journey from a Scottish village to the United States demanded resilience and a willingness to embrace change. Donald's resilience in the face of business setbacks and his audacious risk-taking, such as entering the casino industry in Atlantic City, echo the traits instilled by his parents.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 ### The Foundations of Wisdom: Exploring the Education, Careers, and Influences of Donald Trump's Parents
 
@@ -143,8 +154,6 @@ The amalgamation of Fred's career achievements and challenges, along with Mary A
 
 The educational journeys, careers, achievements, and challenges faced by Frederick Christ Trump and Mary Anne MacLeod Trump are integral components of the Trump family's narrative. Their experiences not only shaped their personal perspectives but also influenced the values they imparted to their children, including Donald Trump. The fusion of Fred's real estate legacy and Mary Anne's Scottish roots created a unique blend of entrepreneurial spirit, discipline, adaptability, and resilience that continue to resonate in the Trump family's legacy. Understanding these elements deepens our appreciation for the complex web of influences that shaped the Trumps' worldview and parenting style.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
-
 ### Nurturing Ambition: Analyzing the Parenting Style of Frederick and Mary Anne Trump
 
 Introduction
@@ -171,9 +180,17 @@ Value of Financial Prudence
 
 Mary Anne's experience as a Scottish immigrant exposed her to the importance of financial stability and planning. This value was passed on to her children, including Donald. The lesson of fiscal responsibility can be seen in Donald's business decisions and his emphasis on economic considerations in his political pursuits.
 
-The parenting style of Frederick Christ Trump and Mary Anne MacLeod Trump was a harmonious blend of nurturing support and disciplined guidance. Their approach to raising their children instilled values of ambition, discipline, resilience, and fiscal prudence. The nurturing aspect of their parenting encouraged Donald Trump to dream big and pursue his goals, while the emphasis on discipline and adaptability prepared him for the challenges of entrepreneurship and politics. Understanding the nuanced interplay between their parenting style and the values they instilled deepens our insight into the foundations of Donald Trump's character and achievements.
+The parenting style of Frederick Christ Trump and Mary Anne MacLeod Trump was a harmonious blend of nurturing support and disciplined guidance. Their approach to raising their children instilled values of ambition, discipline, resilience, and fiscal prudence. The nurturing aspect of their parenting encouraged Donald Trump to dream big and pursue his goals, while the emphasis on discipline and adaptability prepared him for the challenges of entrepreneurship and politics. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Understanding the nuanced interplay between their parenting style and the values they instilled deepens our insight into the foundations of Donald Trump's character and achievements." 
+
+text2=""
+
+>}}
 
 ### Triumph Through Trials: Overcoming Challenges and Their Impact on the Trump Parenting Approach
 
@@ -199,9 +216,16 @@ Resilience and Perseverance
 
 The triumph of overcoming challenges introduced Fred and Mary Anne to the power of resilience and perseverance. These qualities would become woven into their parenting style, encouraging Donald to push forward despite obstacles. Fred's resilience in the face of economic difficulties and Mary Anne's perseverance in adapting to a new culture likely influenced Donald's determined and unwavering approach to his pursuits.
 
-The challenges faced by Frederick Christ Trump and Mary Anne MacLeod Trump were integral in shaping their parenting approach and the values they imparted to Donald. Their ability to overcome economic struggles and cultural transitions served as a foundation for instilling values of adaptability, perseverance, fiscal responsibility, and embracing opportunities. By examining their triumphs over challenges, we gain a deeper understanding of the experiences that shaped their parenting philosophy and influenced Donald Trump's development as a businessman and political figure.
+The challenges faced by Frederick Christ Trump and Mary Anne MacLeod Trump were integral in shaping their parenting approach and the values they imparted to Donald. Their ability to overcome economic struggles and cultural transitions served as a foundation for instilling values of adaptability, perseverance, fiscal responsibility, and embracing opportunities. 
+{{< 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+leftbanner src="/images/cc1.gif" 
+
+text1="By examining their triumphs over challenges, we gain a deeper understanding of the experiences that shaped their parenting philosophy and influenced Donald Trump's development as a businessman and political figure."
+
+text2=""
+
+>}}
 
 ### Nurturing Ambitions: How Fred and Mary Anne Trump Fueled Donald's Success
 
@@ -227,9 +251,17 @@ Impact on Donald's Career
 
 The instances of support from Frederick and Mary Anne Trump significantly influenced the trajectory of Donald's career and achievements. Their encouragement and involvement in his early exposure to real estate fueled his passion for the industry. Their investment in his education fostered a commitment to personal growth and academic excellence. Furthermore, their unwavering support instilled a sense of self-confidence, which propelled him to pursue grand visions and embrace challenges.
 
-The unwavering support and encouragement provided by Frederick Christ Trump and Mary Anne MacLeod Trump played a critical role in shaping Donald Trump's career and accomplishments. From fostering his entrepreneurial spirit to investing in his education and emboldening his ambitions, their support created a nurturing environment that propelled him to greatness. By exploring these instances of parental encouragement, we gain insight into the factors that laid the foundation for Donald Trump's journey to becoming a renowned business magnate and political leader.
+The unwavering support and encouragement provided by Frederick Christ Trump and Mary Anne MacLeod Trump played a critical role in shaping Donald Trump's career and accomplishments. From fostering his entrepreneurial spirit to investing in his education and emboldening his ambitions, their support created a nurturing environment that propelled him to greatness. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="By exploring these instances of parental encouragement, we gain insight into the factors that laid the foundation for Donald Trump's journey to becoming a renowned business magnate and political leader." 
+
+text2=""
+
+>}}
 
 ### The Enduring Legacy: How Frederick and Mary Anne Trump Shape Donald's Choices and Actions
 
@@ -255,11 +287,17 @@ The unwavering support and encouragement from Fred and Mary Anne nurtured Donald
 
 Legacy of Resonating Values
 
-Fred and Mary Anne Trump's teachings continue to echo through Donald's decisions and actions, even as he entered the political arena. The core values of hard work, ambition, discipline, and adaptability remain integral components of his leadership style and policy directions.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Fred and Mary Anne Trump's teachings continue to echo through Donald's decisions and actions, even as he entered the political arena. " 
+
+text2="The core values of hard work, ambition, discipline, and adaptability remain integral components of his leadership style and policy directions."
+
+>}}
 
 ### Summary
 The enduring impact of Frederick Christ Trump and Mary Anne MacLeod Trump on Donald's life and career is a testament to the profound influence parents can have. Their teachings and guidance have left an imprint that transcends time, shaping his decisions, actions, and approach to leadership. The values of entrepreneurship, resilience, adaptability, and self-confidence that they instilled have become the cornerstones of Donald Trump's journey as a business magnate, television personality, and political figure. By examining this legacy, we gain insight into the intricate interplay between upbringing and achievement, underscoring the importance of parental influence in shaping remarkable lives.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

@@ -10,16 +10,21 @@ In the dating game, the Sensing and Intuitive Myers-Briggs preferences can be a 
 
 Sensors are realistic about dating partners. They judge other people by what they do and say. Being grounded in objective reality, they aren’t impressed by phony facades or bragging. They clearly see the good and the bad in the here and now. Intuitives, with their active imaginations, are more titillated by the possibilities in their minds than what’s actually taking place in the present. They extrapolate from the evidence in front of them and don’t take it at face value. Sensors may fantasize, too, but they’re more likely to do it after the fact. Their perceptions in the moment must agree with what’s going on in reality, rather than their wishful thinking about the future.
 
-Sensors are more tuned to their senses: how the date looks and sounds, whether he or she smells nice and has agreeable tastes in music and food. For them, the dating experience happens through the five senses. Intuitives are more interested in their hunches about the person. They experience dates more in the sense of potential for the future. The Intuitive is more interested in images conjured up by their imaginations—in other words, what the date should be like, more than what he or she actually is.
+Sensors are more tuned to their senses: how the date looks and sounds, whether he or she smells nice and has agreeable tastes in music and food. For them, the dating experience happens through the five senses. Intuitives are more interested in their hunches about the person. They experience dates more in the sense of potential for the future. 
+
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="The Intuitive is more interested in images conjured up by their imaginations—in other words, what the date should be like, more than what he or she actually is." 
+
+text2=""
+
+>}}
 
 For Sensors, the date begins only when the two parties stand face to face. For Intuitives, the date begins as soon as arrangements are made. That leaves plenty of time to fantasize about possibilities.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
 
 One problem arises when the two types actually get together for their date. Sensors may have trouble following the Intuitive’s many trains of thought. Because good conversation is a major factor in the early phases of the dating game, the differences between the two types begin to emerge sooner rather than later. Sensors like to talk about concrete things: people they’ve met, experiences they’ve had, places they’ve been—with specifics provided in detail. Intuitives would rather talk about their dreams, visions, ideas, and other intangibles.
 
@@ -44,4 +49,12 @@ You can see how this couple could run into irritating conflicts over time—with
 For Sensors, it’s important that facts be presented correctly. The details are as important as flow and underlying meaning. For the Intuitive, the underlying message takes stage center.
 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}

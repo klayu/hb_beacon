@@ -29,14 +29,15 @@ In their effort to get the job done, ISTJs may overlook such niceties as “plea
 
 Under stress, ISTJs may ignore the long-term implications of a project in favor of day-to-day realities. Because of their tendency to focus on short-term goals, they may lose sight of the overall purpose of their work. They rely too much on the standard way of doing things and neglect innovation, which is sometimes critical in this changing world. They also see errors more readily than successes, resulting in a doom-and-gloom attitude toward work.
 
-ISTJs sometimes have difficulty recognizing their own emotions and values. As a result, they may be seen as insensitive and cold. As the stress from work situations heightens, so does the likelihood that ISTJs will explode, doing no one much good.
+{{< 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+leftbannertop src="/images/cc1.gif" 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+text1="ISTJs sometimes have difficulty recognizing their own emotions and values. As a result, they may be seen as insensitive and cold. " 
+
+text2="As the stress from work situations heightens, so does the likelihood that ISTJs will explode, doing no one much good."
+
+>}}
 
 **ISTP**
 
@@ -52,7 +53,17 @@ Finally, ISTPs may find themselves in trouble when they fail to complete old pro
 
 **ISFJ**
 
-One way ISFJs can lose out is by paying too much attention to the present status of problems and failing to seek options for a satisfactory solution. They can see the present clearly but not the possibilities for the future. Thus, they may get stuck in ruts and unable to find a way out. They focus on past negative experiences and apply them to the present problem. If, for example, the car is making a strange noise, they may remember a time when they threw a rod on an old automobile and assume that the same disastrous breakdown is about the occur, when actually a broken fan belt may be the only problem.
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="One way ISFJs can lose out is by paying too much attention to the present status of problems and failing to seek options for a satisfactory solution." 
+
+text2="They can see the present clearly but not the possibilities for the future."
+
+>}}
+
+Thus, they may get stuck in ruts and unable to find a way out. They focus on past negative experiences and apply them to the present problem. If, for example, the car is making a strange noise, they may remember a time when they threw a rod on an old automobile and assume that the same disastrous breakdown is about the occur, when actually a broken fan belt may be the only problem.
 
 ISFJs attend to plan excessively. They want things to go a certain way and become discouraged if they turn out to be wrong. If things proceed satisfactorily, they may waste time looking for another potential problem. For example, they may get to an outdoor concert an hour in advance to find a good seat, and then, while they are waiting, worry about the chances of rain.
 
@@ -118,4 +129,3 @@ INTPs are especially susceptible when they can’t identify an objective cause f
  
 When these introverts get back on track, they can be enjoyable to work and live with and tireless in following through on their commitments. By keeping their Myers-Briggs traits in a healthy balance, they can make the best of their work, leisure, and relationships.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

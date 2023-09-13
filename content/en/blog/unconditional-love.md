@@ -21,11 +21,12 @@ If you have a dog or cat you’re close to, you know what unconditional love is.
 
 We might do well to apply the same principle to our human companions, appreciating the bond of love between us and avoiding judgments.
 
-*Affirmation: Today, I will accept the people in my life as they are, not as I think they should be.*
+{{< 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+leftbannertop src="/images/cc1.gif" 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+text1="*Affirmation: Today, I will accept the people in my life as they are, not as I think they should be.*" 
+
+text2=""
+
+>}}

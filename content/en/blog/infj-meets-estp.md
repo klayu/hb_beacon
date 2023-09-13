@@ -15,16 +15,19 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 
 When an INFJ meets an ESTP, some special chemistry must be at work for them to enjoy time together. These Myers-Briggs types are exact opposites.
-The INFJ (I) is introverted—a private person. The ESTP (E) is sociable and outgoing. INFJs rely more on intuition (N) than concrete facts to reach conclusions. ESTPs use their sensing (S) function to get information from the immediate environment. INFJs take action based on their feeling (F) function, evaluating the impact of their decisions on others. ESTPs pride themselves on their ability to reach decisions based on logic (T). Finally, INFJs like to bring closure to situations, a judging (J) function. ESTPs like to keep decisions open-ended. They’re happy-go-lucky about appointment times and deadlines—unlike INFJs, who arrive places on time and meet their deadlines.
+The INFJ (I) is introverted—a private person. The ESTP (E) is sociable and outgoing. INFJs rely more on intuition (N) than concrete facts to reach conclusions. ESTPs use their sensing (S) function to get information from the immediate environment. INFJs take action based on their feeling (F) function, evaluating the impact of their decisions on others. ESTPs pride themselves on their ability to reach decisions based on logic (T). Finally, INFJs like to bring closure to situations, a judging (J) function. ESTPs like to keep decisions open-ended. 
 
-If it’s true that opposites attract, that surely must be the case for INFJs and ESTPs.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="They’re happy-go-lucky about appointment times and deadlines—unlike INFJs, who arrive places on time and meet their deadlines." 
+
+text2="If it’s true that opposites attract, that surely must be the case for INFJs and ESTPs."
+
+>}}
 
 **Friendship**
 
@@ -38,7 +41,17 @@ The intuitive (N) INFJ observes what’s going on—requiring a limited amount o
 
 INFJs are big on romance and physical intimacy. Their introversion, intuition and feeling traits set them up for it. For ESTPs, love has less to do with intimacy than it does with finding a fun partner with whom to share life’s adventures.
 
-While the INFJ is cautious in the first stages of a relationship due to fear of rejection, the ESTP is the opposite. Winning an exciting partner is a challenge—in fact, it’s one of the main objects of romance. Because ESTPs would rather make romantic moves on the ski slopes than in the bedroom, the INFJ can get disappointed in the relationship. ESTPs are generally not creative or passionate lovers.
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="While the INFJ is cautious in the first stages of a relationship due to fear of rejection, the ESTP is the opposite. " 
+
+text2="Winning an exciting partner is a challenge—in fact, it’s one of the main objects of romance. "
+
+>}}
+
+Because ESTPs would rather make romantic moves on the ski slopes than in the bedroom, the INFJ can get disappointed in the relationship. ESTPs are generally not creative or passionate lovers.
 
 Unlike most INFJs, ESTPs are risk takers, whether the risks are physical, financial or intellectual. They’re willing to play for high stakes in the hope of high rewards. They especially enjoy looking for loopholes or unusual pay-offs relative to the time or money invested.
 
@@ -63,6 +76,14 @@ ESTPs often try to talk family members into risk-taking sports such as hang-glid
 
 An important bond for the INFJ/ESTP couple is the love they share for children, close relatives, friends, and even pets. They may have different perspectives on the world, but at least they share the rose-colored glasses of affection.
 
-In the intimacy of their partnership, they should realize that a little give and take is in order. INFJs do well to expand their social activities with ESTPs, spending time as a couple with friends and relatives. ESTPs need to pay attention to the emotional needs of the INFJs, at least some of the time.
+In the intimacy of their partnership, they should realize that a little give and take is in order. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="INFJs do well to expand their social activities with ESTPs, spending time as a couple with friends and relatives. " 
+
+text2="ESTPs need to pay attention to the emotional needs of the INFJs, at least some of the time."
+
+>}}

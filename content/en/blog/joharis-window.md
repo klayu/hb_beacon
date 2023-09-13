@@ -19,12 +19,20 @@ How much of ourselves do we hide from others? How open are we to letting people 
 
 ![Johari's Window](/johari.jpg)
 
-The Arena quadrant consists of adjectives, both positive and negative, that the subject uses to describe him or herself, as well as those that peers identify in him or her. The Façade or Hidden quadrant consists of things that subjects are aware of about themselves but that they conceal from others. The Blind Spot quadrant is the reverse—that is, it describes qualities that subjects are unaware of, but that peers perceive about them. Finally, the Unknown quadrant describes qualities unknown to either the subject or others.
+The Arena quadrant consists of adjectives, both positive and negative, that the subject uses to describe him or herself, as well as those that peers identify in him or her. The Façade or Hidden quadrant consists of things that subjects are aware of about themselves but that they conceal from others. 
+
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="The Blind Spot quadrant is the reverse—that is, it describes qualities that subjects are unaware of, but that peers perceive about them." 
+
+text2="Finally, the Unknown quadrant describes qualities unknown to either the subject or others."
+
+>}}
+
 
 One therapeutic target for subjects may be the expansion of the Arena quadrant at the expense of both the Unknown and Blind spot quadrants. By increasing self-knowledge and disclosing more of one’s own qualities to others, ordinarily protected by the Facade quadrant, one increases the opportunities for friendship and intimacy.
 
 A disproportionately large Blind spot can be a source of misunderstanding and friction. Subjects who know little about themselves—less than others do— may be regarded as self-centered, difficult, or inauthentic. When neither the subject nor his or her peers are aware of the subject’s deeper qualities, as in the Unknown quadrant, the result may be dangerous. A person this isolated can harm others without those around them suspecting that the potential existed. Violent individuals can fall into this category—preying on unsuspecting victims.
 Johari’s Window is a useful tool in group work and self-help endeavors.
-
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

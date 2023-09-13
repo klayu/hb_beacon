@@ -11,14 +11,19 @@ When an INFJ and ESFJ are drawn to each other, the attraction becomes obvious fa
 
 ESFJs are generous and outgoing, giving without any thought of return. If someone expresses a need, they’re among the first to try to satisfy it. They place a high value on harmony. They’re at their best organizing people for family, community or work events. INFJs are generous, too, but they’re reserved and shrink from being in the public eye.
 
-As traditionalists, ESFJs rely on tried-and-true methods of solving problems. For this reason, they can overlook newer, better approaches that are obvious to others—a habit that may prove annoying for inventive friends and relatives who are reluctant to endanger their relationship with the ESFJ by being critical. This is especially true of INFJs, who usually have innovative ideas but are too tactful to hurt the feelings of less adventurous folks.
+As traditionalists, ESFJs rely on tried-and-true methods of solving problems. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="For this reason, they can overlook newer, better approaches that are obvious to others—a habit that may prove annoying for inventive friends and relatives who are reluctant to endanger their relationship with the ESFJ by being critical. " 
+
+text2=""
+
+>}}
+
+This is especially true of INFJs, who usually have innovative ideas but are too tactful to hurt the feelings of less adventurous folks.
 
 **Friendship**
 
@@ -30,11 +35,21 @@ Sometimes ESFJs go to lengths that aren’t healthy in order to make others happ
 
 ESFJ partners are drawn to the rich imaginations and agile minds of INFJs. Falling in love is a totally absorbing experience. If an INFJ encourages the relationship, ESFJs show their affection with gifts, notes, and other symbols of commitment. Even when doing extra favors is inconvenient or expensive, ESFJs go out of their way to satisfy a partner’s desires. Some ESFJs may be more in love with love than with their partners per se.
 
-Unfortunately, ESFJs are not always aware that a relationship is starting to fail. Their outgoing, optimistic natures may lead them to believe that everything is fine. In the meantime, the INFJ may continue a partnership that’s going downhill without airing his or her dissatisfaction. If the truth be known, the INFJ may not want to risk losing the intimacy with the ESFJ without another prospect standing in the wings.
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Unfortunately, ESFJs are not always aware that a relationship is starting to fail." 
+
+text2="Their outgoing, optimistic natures may lead them to believe that everything is fine."
+
+>}}
+
+In the meantime, the INFJ may continue a partnership that’s going downhill without airing his or her dissatisfaction. If the truth be known, the INFJ may not want to risk losing the intimacy with the ESFJ without another prospect standing in the wings.
 
 This can be devastating for ESFJs who didn’t see the signs. They tend to deal with these crises by looking for their own mistakes and shortcomings. They think about the times when they were less generous or thoughtful than they might have been, even though this assessment may be baseless. They suffer a period of lowered self-esteem.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+
 
 **Family**
 
@@ -49,6 +64,14 @@ ESFJs are involved in school and community activities more than their reserved I
 
 **Secrets of Success**
 
-When an INFJ and ESFJ stay together and adjust to each other’s styles, they often find that each benefits from the influence of the other. ESFJs help INFJs expand their social horizons and avoid becoming isolated. With their warm personalities, ESFJs attract a circle of friends that can prove stimulating to the INFJ. INFJs can bring more warmth and intimacy to the relationship by initiating activities they share as a twosome, often strengthening their bond.
+When an INFJ and ESFJ stay together and adjust to each other’s styles, they often find that each benefits from the influence of the other. ESFJs help INFJs expand their social horizons and avoid becoming isolated. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="With their warm personalities, ESFJs attract a circle of friends that can prove stimulating to the INFJ. " 
+
+text2="INFJs can bring more warmth and intimacy to the relationship by initiating activities they share as a twosome, often strengthening their bond."
+
+>}}

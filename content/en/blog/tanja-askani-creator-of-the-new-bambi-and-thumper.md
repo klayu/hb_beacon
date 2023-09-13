@@ -18,14 +18,17 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Tanja Askani, a Czech author, photographer, and animal scientist living in Germany, has disseminated a series of Bambi-Thumper photos that have gone viral on the internet.  People find them adorable. When I received the series in my e-mail, I thought they looked too good to be true. They were.
 
-After downloading the photos and examining them in zoom view, I found clear evidence that every photo had been altered substantially. We’re not talking about subtle adjustments in contrast or lighting. The “reality” of animal tenderness and bonding shown in the photos is the result of digital artifice.
+After downloading the photos and examining them in zoom view, I found clear evidence that every photo had been altered substantially. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="We’re not talking about subtle adjustments in contrast or lighting. " 
+
+text2="The “reality” of animal tenderness and bonding shown in the photos is the result of digital artifice."
+
+>}}
 
 **Photoshop Magic**
 

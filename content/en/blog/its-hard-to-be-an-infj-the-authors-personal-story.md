@@ -16,14 +16,17 @@ As a child, I felt like an outsider. I’ve felt this way most of my life. Even 
 
 As a student in elementary and high school, I did well academically and had two close friends. For an INFJ, I was surprisingly active in extracurricular activities: acting in community theatre, studying the piano accordion and sometimes performing publicly, editing the school paper, and so on. I was like two people—one who appeared successful and the other who always felt a little lost.
 
-When I left home for college at the age of 17 and began to date, my relationships with boys were fragile. If I fell in love, I couldn’t figure out how to hang onto the boy. He usually tired of my neediness and left. If a boy I didn’t care for kept pursuing me, I couldn’t figure out how to escape without hurting him. With my overactive feeling function, relationships with boyfriends put me on emotional rollercoaster rides.
+When I left home for college at the age of 17 and began to date, my relationships with boys were fragile. If I fell in love, I couldn’t figure out how to hang onto the boy. He usually tired of my neediness and left. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="If a boy I didn’t care for kept pursuing me, I couldn’t figure out how to escape without hurting him. " 
+
+text2="With my overactive feeling function, relationships with boyfriends put me on emotional rollercoaster rides."
+
+>}}
 
 **Personality Traits**
 
@@ -31,7 +34,18 @@ Like most judging types, I’ve always been highly focused. I’ll stay up all n
 
 My opinions on social and political issues are pretty unshakeable, without shades of gray. I recognize the problems my inflexible positions can cause, however, and try to open my mind to other perspectives. When I have strong feelings about an issue, I share them with only one or two trusted friends. I am generally not a leader of causes in public. I write about them passionately, though.
 
-My intuitive, feeling, and judging functions, acting in concert, make me quick to respond to emergencies, especially those involving injury or danger to people or animals. Even at age 82, I still rush into threatening situations. I always emerge unharmed because my intuitive function steers me away from personal danger while my emotions give me the courage and force to act.
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="My intuitive, feeling, and judging functions, acting in concert, make me quick to respond to emergencies, especially those involving injury or danger to people or animals." 
+
+text2=""
+
+>}}
+
+Even at age 82, I still rush into threatening situations. I always emerge unharmed because my intuitive function steers me away from personal danger while my emotions give me the courage and force to act.
 
 **Career Experience**
 
@@ -57,5 +71,3 @@ Judging: Our judging function can lead us into premature decisions with uncomfor
 
 INFJs are in good company. Famous INFJs of the past and present are Mahatma Gandhi, Fyodor Dostoevsky, Carl Jung, Simone de Beauvoir, Eleanor Roosevelt, Mother Teresa, Noah Chomsky, and Oprah Winfrey.
 
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

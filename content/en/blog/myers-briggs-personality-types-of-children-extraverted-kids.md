@@ -20,17 +20,25 @@ Psychologists believe that both are true. According to experts in Myers-Briggs p
 
 A previous blog described introverted children—quiet, shy types. This one is about extraverted (I) children—kids who are outgoing and enjoy social activities. There are eight types of extraverts according to Myers-Briggs theory. They differ in the combinations of the other three pairs of traits on the personality test: 1) sensing (S) and intuition (N); 2) feeling (F) and thinking (T); and 3) perceiving (P) and judging (J). The scores on four pairs range from one extreme to another, with some close to the middle.
 
-Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people. Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another. Those with a judging (J) preference are more focused and like to finish things.
+Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people.  
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another." 
+
+text2=""
+
+>}}
+
+Those with a judging (J) preference are more focused and like to finish things.
+
 
 **Rambunctious Kids**
+
 **ESTP: Extraverted, Sensing, Thinking and Perceiving**
+
 ![estp kid](/estp-kid.jpg)
 
 ESTP children are rambunctious kids. They think their lives should be action-packed and full of fun. When things get boring, they stir them up. Because of their outgoing personalities, they make friends easily and enjoy group activities.
@@ -95,5 +103,3 @@ Kids of the ENTJ type tend to take charge of themselves and others in group acti
 
  
 Part 1 of  this two-part series described introverted children.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

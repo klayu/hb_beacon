@@ -25,14 +25,15 @@ They protect their privacy. When they’re not allowed enough time alone, they f
 
 Both are somewhat prone to depression. Their introversion inclines them to be loners, giving them the tendency to brood over problems without checking the facts with others. Their feeling preference inclines them to exaggerate the importance of conflicts or hurt feelings.
 
-Both types are generally well liked due to their warmth and sincerity. They make good listeners, put others at ease, and are valued as friends and confidantes.
+{{< 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+leftbannertop src="/images/cc1.gif" 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+text1="Both types are generally well liked due to their warmth and sincerity. " 
+
+text2="They make good listeners, put others at ease, and are valued as friends and confidantes."
+
+>}}
 
 **Friendship**
 The intuitive skills shared by the INFP and INFJ form their strongest bond. They usually agree on important matters. Due to differences in their perceiving and judging functions, however, they don’t always carry out practical tasks in the same way. The INFP may start a painting project, then leave it half-finished—intending to finish at a more convenient time. INFJs aren’t happy until the job is complete.
@@ -46,7 +47,18 @@ While both types get along with others, group projects frustrate them. They get 
 Taking on too much to please others is a problem they have in common. Also, they may give others the impression that they agree on the details of a project when in fact they do not. This is true of them as friends as well as participants in the larger community. They need to assert themselves more and learn to be honest, giving negative feedback when it’s important.
 
 **Romance**
-When INFPs fall in love with INFJs, the natural reserve of the former makes it hard for them to express their affection in words. It’s a little easier for the INFJ, who can also be shy but is better at taking action. Both can be eloquent in their physical expressions of love. As lovers, they are tender and creative. This helps keep the relationship anchored.
+When INFPs fall in love with INFJs, the natural reserve of the former makes it hard for them to express their affection in words. It’s a little easier for the INFJ, who can also be shy but is better at taking action. 
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Both can be eloquent in their physical expressions of love. " 
+
+text2="As lovers, they are tender and creative. This helps keep the relationship anchored."
+
+>}}
+
 
 The two types are sensitive and easily hurt. One or the other can easily misinterpret a casual statement, offhand action, or forgotten promise and feel rejected. When one says, “I’ll be late tonight” as he or she leaves the house and means nothing more than that, the other may give the statement a sinister interpretation. To avoid bruised egos, they need to remember the importance of frequent reality checks.
 
@@ -67,5 +79,3 @@ Nurturing their children comes naturally to INFPs and INFJs. They are patient, d
 
 **Secrets of Success**
 INFPs and INFJs whose four Myers-Briggs functions are healthy and well developed can accomplish great things, although they are generally humble about them. Respect for personal boundaries is an important key to success for the INFJ/INFP couple. Each has strong needs for privacy along with their need for mutual support.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

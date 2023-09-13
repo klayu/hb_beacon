@@ -19,14 +19,17 @@ Myers-Briggs personality traits have a lot to do with the potential for romance,
 
 People of the Myers-Briggs INFJ personality type share some characteristics with the ENFP type, but not others. They differ in their sociability (I = introvert, E = extravert), but share their preferences for both intuition (I) and feeling (F)—the main reason for their attraction to each other. Both types have an uncanny ability to size people up as the result of their intuitive gifts. The difference is that the INFJ is less likely to share discoveries and insights unless prompted. Because of their shared feeling preference, both are kind, compassionate. Their differences in Perceiving (P) and Judging (J) explain why they go about tasks differently—the perceiving type being more easy-going and less driven than the punctual, conscientious judging type.
 
-Life is fun with ENFPs, who never tire of developing new interests. They’re at their best in situations that are fluid and changing. Even in their day-to-day activities they look for new ways of doing things. The same is true of INFJs except that they are drawn to activities that involve fewer social contacts and less communication with others. INFJs are more private.
+Life is fun with ENFPs, who never tire of developing new interests. They’re at their best in situations that are fluid and changing. Even in their day-to-day activities they look for new ways of doing things. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="The same is true of INFJs except that they are drawn to activities that involve fewer social contacts and less communication with others. " 
+
+text2="INFJs are more private."
+
+>}}
 
 **Friendship**
 
@@ -40,7 +43,17 @@ Another difference between them concerns punctuality. The INFJ is rarely tardy a
 
 ENFPs have such appealing personalities that they’re never short of admirers. When a relationship takes hold with an INFJ, the bond is likely to be intense at first, as the ENFP showers attention on the other person. The INFJ feels honored and unconditionally loved. However, many of these relationships wear out over time, and the ENFP begins looking for another conquest.
 
-Being in love is an almost constant state for ENFPs. When the love bug gets them, they study all aspects of the new partner. ENFPs tend to idealize their current relationships, thinking that the latest one is the best of all.
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Being in love is an almost constant state for ENFPs. " 
+
+text2="When the love bug gets them, they study all aspects of the new partner."
+
+>}}
+
+ENFPs tend to idealize their current relationships, thinking that the latest one is the best of all.
 
 Whether male or female, ENFPs can be seductive. They know how to appeal to attractive prospects and make themselves desirable. Sometimes they go too far in their quest for affection, making the INFJ feel pressured and deprived of private time. If this makes the INFJ uneasy, the ENFP is likely to get anxious and needy. A discussion about the importance of boundaries may help ease the ENFP’s jittery response to a partner’s hesitance.
 
@@ -58,4 +71,3 @@ Because of their wide-ranging interests, ENFPs tend to change jobs often—even 
 
 INFJs and ENFPs share the gifts of compassion and desire to help others. They’re champions of good causes—whether their efforts are directed at people, animals, or the environment. By cooperating in their efforts to help others, they strengthen their own personal bond. They make good partners, and together they are an admirable team.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

@@ -14,14 +14,17 @@ Their feeling (F) function makes them sensitive to each other’s needs—anothe
 
 Of course, feelings still get hurt sometimes. After attending a party where the couple doesn’t know many people, the INFJ may comment, “My feelings were hurt when you left me stranded at the buffet table.” An ISFP partner doesn’t retort, “Well, can’t you take care of yourself?” He or she is more likely to say “Gosh, I’m sorry. I didn’t realize you felt that way.”
 
-Their shared traits of introversion (I) and feeling (F) make them understand each other’s tendency to be shy. They realize that both are too critical of themselves, tending to undervalue their skills. The positive aspect of this is that they can offer mutual reassurance.
+Their shared traits of introversion (I) and feeling (F) make them understand each other’s tendency to be shy. 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="They realize that both are too critical of themselves, tending to undervalue their skills. " 
+
+text2="The positive aspect of this is that they can offer mutual reassurance."
+
+>}}
 
 **Sensing (S) vs. Intuition (N)**
 
@@ -37,7 +40,15 @@ INFJs and ISFPs are good at entertaining each other with their wide-ranging inte
 
 The main problems that INFJs and ISFPs face usually stem from their tendency to avoid disagreements. They may fail to stand up for or even recognize their own emotional needs. If the air isn’t cleared and resentments are allowed to develop, the relationship can be damaged to the point where one or the other strays, looking for a more agreeable partner. This can be devastating for the person left behind, as both types are naturally vulnerable to rejection and prone to self-criticism.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}
 
 **Perceiving (P) vs. Judging (J)**
 
@@ -45,6 +56,14 @@ The couple’s differences in perceiving (P) and judging (J) can sometimes cause
 
 Shopping for a printer, the INFJ may be satisfied with the prices and ratings on Amazon and be ready to order online. Not the ISFP. “I want to see what the print-outs look like,” says the ISFP. Or, “Maybe we can find a better price somewhere else.”
 
-Unless the INFJ appreciates the ISFP’s need to keep decisions open-ended until the last minute—and until the ISFP understands the INFJ’s impatience for closure—they may be in for some frustrating moments. Because of their judging (J) function, INFJs rarely miss deadlines and are always on time for appointments. ISFPs, as perceivers (P), are inclined to make deadlines by the skin of their teeth and be anywhere from five to thirty minutes late for social events.
+Unless the INFJ appreciates the ISFP’s need to keep decisions open-ended until the last minute—and until the ISFP understands the INFJ’s impatience for closure—they may be in for some frustrating moments. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Because of their judging (J) function, INFJs rarely miss deadlines and are always on time for appointments." 
+
+text2="ISFPs, as perceivers (P), are inclined to make deadlines by the skin of their teeth and be anywhere from five to thirty minutes late for social events."
+
+>}}

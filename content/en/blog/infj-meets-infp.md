@@ -55,12 +55,12 @@ INFPs and INFJs set such high standards for themselves that they’re often disa
     }
 </style>
 
-<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<!-- <img src="/images/cc1.gif" alt=""> -->
 <div class="container">
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
+        <img src="/images/cc1.gif" alt="">
         </a>
         
 </div>
@@ -78,13 +78,6 @@ As friends and partners, they understand this and are usually generous about giv
 Both are somewhat prone to depression. Their introversion inclines them to be loners, giving them the tendency to brood over problems without checking the facts with others. Their feeling preference inclines them to exaggerate the importance of conflicts or hurt feelings.
 
 Both types are generally well liked due to their warmth and sincerity. They make good listeners, put others at ease, and are valued as friends and confidantes.
-
-<!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div> -->
 
 **Intuition (N)**
 
@@ -104,29 +97,19 @@ Taking on too much to please others is a problem they have in common. Also, they
 
 INFPs make effective mediators in the workplace—especially in situations where they have no self-interest. They are less likely to take sides than INFJs. They want to hear everything. INFJs can draw conclusions too quickly.
 
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
-
 **Romance**
 
 When INFPs fall in love with INFJs, the natural reserve of the former makes it hard for them to express their affection in words. It’s a little easier for the INFJ, who can also be shy but is better at taking action. Both can be eloquent in their physical expressions of love. As lovers, they are tender and creative. This helps keep the relationship anchored.
 
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-The two types are sensitive and easily hurt. 
+{{< 
 
-One or the other can easily misinterpret a casual statement, offhand action, or forgotten promise and feel rejected. 
-</p>
-    </div>
-</div>
+leftbanner src="/images/cc1.gif" 
+
+text1="The two types are sensitive and easily hurt. " 
+
+text2="One or the other can easily misinterpret a casual statement, offhand action, or forgotten promise and feel rejected. "
+
+>}}
 
 When one says, “I’ll be late tonight” as he or she leaves the house and means nothing more than that, the other may give the statement a sinister interpretation. 
 
@@ -148,7 +131,15 @@ When it’s time for a vacation, INFJ parents are generally the chief planners. 
 
 Nurturing their children comes naturally to INFPs and INFJs. They are patient, devoted, and protective parents. However, when friction arises over, say, a child’s behavior, they tend to keep their objections to themselves longer than they should. Eventually the INFJ in particular is likely to blow up.
 
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
+<!-- {{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}} -->
 
 **Famous INFPs and INFJs**
 

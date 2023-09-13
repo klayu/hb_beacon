@@ -22,16 +22,19 @@ Timex watches have lighted dials. Rolex watches do not.  Eight grand and no ligh
 
 Keeps on ticking…
 
-Timex watches run for years on a single battery.  Rolex watches, the manufacturer boasts, are self-winding.  But only if you wear them regularly.  If leave your watch on the dresser for more than 48 hours, it’s likely to go dead.  What’s more, the manufacturer warns, “The lubricants in the mechanism may harden, causing friction within the movement. Eventually, the friction may damage the movement.”
+Timex watches run for years on a single battery.  Rolex watches, the manufacturer boasts, are self-winding.  But only if you wear them regularly.  If leave your watch on the dresser for more than 48 hours, it’s likely to go dead.  
+
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="What’s more, the manufacturer warns, “The lubricants in the mechanism may harden, causing friction within the movement. " 
+
+text2="Eventually, the friction may damage the movement.”"
+
+>}}
 
 For an $8000 miracle of technology, this watch sounds pretty touchy.
-
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
 
 **Mugger appeal**
 
@@ -76,5 +79,3 @@ Or, you could just buy a twenty-five dollar Timex, never wind or clean it, and g
 The next time someone brags about his Rolex, ask to see the lighted dial.
 
 ![Rolex](/RolexExchRate1.jpg)
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

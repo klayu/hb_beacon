@@ -16,7 +16,18 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 According to researchers, the INFJ Myers-Briggs type occurs in about 1% of the population—the lowest prevalence of any type. Studies vary regarding the exact percentages of the 16 types, but INFJs always walk away with the prize for the most rare.
 
-The downside of being an INFJ is that there are few people out there with whom they can relate deeply. Also, they don’t fit into social norms because their qualities are unusual and, to some people, unsettling. INFJs can size up others quickly and those who don’t like to be sized up are likely to avoid them. Friends and colleagues find many INFJs almost clairvoyant.
+The downside of being an INFJ is that there are few people out there with whom they can relate deeply. Also, they don’t fit into social norms because their qualities are unusual and, to some people, unsettling. 
+
+{{< 
+
+leftbannertop src="/images/cc1.gif" 
+
+text1="INFJs can size up others quickly and those who don’t like to be sized up are likely to avoid them. " 
+
+text2="Friends and colleagues find many INFJs almost clairvoyant."
+
+>}}
+
 
 The upside for INFJs is that they have gifts not common in other types. This makes them valued as leaders, workers, and friends. They also have rich interior lives.
 
@@ -30,9 +41,3 @@ ISFJs, called Protectors, live to serve others often at the expense of their own
 The ESFJs and ISFJs are liked and admired by most people.
 ![prevalence table](/prevalence1-e1440394289597.jpg)
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>

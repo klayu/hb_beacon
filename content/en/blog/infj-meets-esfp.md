@@ -14,16 +14,17 @@ Looking at their personality traits, you’d think they have little in common. W
 
 The first big difference lies in the INFJ’s need for privacy vs. the ESFP’s preference for social contact. On the introversion/extraversion (I/E) scale, the inwardly focused nature of INFJs causes them to be reserved and, in extreme cases, reclusive. They dislike crowds and need considerable time alone. They’re worn out by prolonged social interaction. In contrast, extraverts are social butterflies. The company of other people energizes them. Being left alone too long makes them feel anxious and disorganized.
 
-When an INFJ and ESFP are getting ready to go to a party, the INFJ may say, “Do we really have to go? I’d rather stay home and watch the Ferris Bueller movie again.” The ESFP is likely to reply, “C’mon, the party will be fun. We’ll see old friends. If you’re bored we can leave early.”
+When an INFJ and ESFP are getting ready to go to a party, the INFJ may say, “Do we really have to go? I’d rather stay home and watch the Ferris Bueller movie again.” The ESFP is likely to reply, “C’mon, the party will be fun. We’ll see old friends. ”
 
-To which the INFJ responds, “I can promise you, I’ll want to leave early. And I know you. You won’t.” And so it’s likely to go.
+{{< 
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+leftbannertop src="/images/cc1.gif" 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+text1="If you’re bored we can leave early." 
+
+text2="To which the INFJ responds, “I can promise you, I’ll want to leave early. And I know you. You won’t.” And so it’s likely to go."
+
+>}}
 
 **Intuition (N) vs. Sensing (S)**
 
@@ -35,7 +36,17 @@ The ESFP thinks, “What? A ring is a ring! We all know what that means.” The 
 
 **Perceiving (P) vs Judging (J)**
 
-INFJs and ESFPs are also worlds apart on their perceiving (P) and judging (J) traits, especially if they tend to be at extreme ends of the scales. Perceiving ESFPs are easy-going and fun-loving. If they’re a little late for an appointment or miss it entirely, oh well. Manaña is the name of the game. Not for the INFJ. To be late is almost a sin.
+INFJs and ESFPs are also worlds apart on their perceiving (P) and judging (J) traits, especially if they tend to be at extreme ends of the scales. 
+
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="Perceiving ESFPs are easy-going and fun-loving. If they’re a little late for an appointment or miss it entirely, oh well. Manaña is the name of the game." 
+
+text2="Not for the INFJ. To be late is almost a sin."
+
+>}} 
 
 When frustrations arise in a relationship, they’re often due to P/J differences in the decision-making styles of the two types. ESFPs like to delay decisions until the last possible moment. In their view, there’s always more information to be gathered. They’re less concerned about bringing decisions to a close than enjoying the ride. INFJs prefer closure. They want to sign the contract and whip out their credit card. They’re more interested in reaching their destination than enjoying the scenery along the way. In old Type A—Type B terms, the INFJ is a Type A and the ESFP is a Type B.
 
@@ -53,4 +64,3 @@ The balance is important. If the INFJ is too demanding and insists that the part
 
 The secret of a successful INFJ/ESFP relationship lies in the couple’s tolerance, compassion and mutual enjoyment of life together. Their feeling function—their love for each other—is a major factor in the growth and stability of the partnership.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

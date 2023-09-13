@@ -20,14 +20,19 @@ Many experts believe that Myers-Briggs personality tests are unreliable in child
 
 This is about introverted (I) children. There are eight types of introverts according to Myers-Briggs theory. They differ in the combinations of the other three pairs of traits on the personality test: 1) sensing (S) and intuition (N); 2) feeling (F) and thinking (T); and 3) perceiving (P) and judging (J). The scores on four pairs range from one extreme to another, with some close to the middle.
 
-Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people. Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another. Those with a judging (J) preference are more focused and like to finish things.
+Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people.  
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another." 
+
+text2=""
+
+>}}
+
+Those with a judging (J) preference are more focused and like to finish things.
 
 **ISFJ: Introverted, Sensing, Feeling and Judging**
 
@@ -79,4 +84,12 @@ People of this personality type take a conventional view of life. While they enj
  
 *Part 2 of this series describes the eight types of extraverted children.*
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}

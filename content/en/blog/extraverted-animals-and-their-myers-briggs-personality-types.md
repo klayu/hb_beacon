@@ -26,15 +26,16 @@ Some common traits of extroverted personalities include:
 - Optimistic and spontaneous
 - Focus on the present and immediate gratification
 - Enjoy social interaction and thrive in group settings
-- Action-oriented and prefer hands-on learning
-- Take risks and embrace new experiences
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="- Action-oriented and prefer hands-on learning" 
+
+text2="- Take risks and embrace new experiences"
+
+>}}
 
 **Animals with Extroverted Myers-Briggs Personality Type**
 
@@ -58,12 +59,15 @@ Identifying the Extroverted Myers-Briggs Personality Type in humans can be chall
 
 The Extroverted Myers-Briggs Personality Type is characterized by a preference for social interaction, energy from the external world, and a focus on the present. While it may be challenging to assign specific personality types to animals, some common traits observed in extroverted animals include playfulness, social interaction, and curiosity. To identify the Extroverted personality type in humans, look for signs of social interaction, energy levels, focus on the present, risk-taking, and hands-on learning preferences.
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}}
 <!--p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">The Pet Whisperer's Secret : Transform Digestion, Vitality, and Fur Beauty with This Unbelievable Method!</a></p-->
 
 <!-- 

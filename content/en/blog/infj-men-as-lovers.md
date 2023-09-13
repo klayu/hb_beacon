@@ -12,12 +12,15 @@ If you’re in a relationship with an INFJ male, your feelings won’t go unnoti
 
 Have no fear that he’ll leave you on a whim. He’s steadfast and loyal. Hurting people is not what he does. In fact, he has a tendency to hang on to partnerships long after they start going bad. If your relationship begins to deteriorate, you’re likely to see him struggling with himself. If he finally concludes that his efforts are useless, he’s likely to move on quickly. Don’t expect to go through a series of arguments. That’s not his style. There’ll be no shouting or fighting, just a quiet announcement that it’s over and time for him to go.
 
-<!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+<!-- {{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div> -->
+leftbannertop src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}} -->
 
 
 <style>
@@ -53,12 +56,12 @@ him feel irresistibly attracted to you.
     }
 </style>
 
-<!-- <img src="/images/300x250-button.gif" alt=""> -->
+<!-- <img src="/images/cc1.gif" alt=""> -->
 <div class="container">
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
+        <img src="/images/cc1.gif" alt="">
         </a>
         
 </div>
@@ -84,7 +87,15 @@ If you’re lucky enough to find an INFJ man, don’t count on his making the fi
 
 2.  Leave your hand-held devices at home unless you need them for directions to a theatre, restaurant, etc.
 
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
+<!-- {{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}} -->
 
 3.  Don’t flirt with other men. You won’t impress your INFJ man. He’ll worry that you’re an unreliable partner.
 
@@ -104,7 +115,7 @@ If you’re lucky enough to find an INFJ man, don’t count on his making the fi
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/300x250-button.gif" alt="">
+        <img src="/images/cc1.gif" alt="">
         </a>
         
 </div>
@@ -122,4 +133,12 @@ He’s one in a hundred.
 
 <!--p><a  href="https://5cb48co14l4pfof8ki2bflkg7l.hop.clickbank.net?lp=9" class="one" target="_blank" title="4 question quiz for a way to his heart">Secret : 4 question quiz for a way to their heart</a></p-->
 
-<!-- <p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p> -->
+<!-- {{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="" 
+
+text2=""
+
+>}} -->

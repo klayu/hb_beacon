@@ -19,22 +19,21 @@ They were looking for a way to classify different types of personalities and des
 
 The Myers-Briggs Inventory was first published in 1975. Its practical applications have been expanding ever since—in schools and colleges, business, counselors’ offices, and other settings.
 
-The Myers-Briggs scale consists of four pairs of personality traits—each representing opposite ends of a continuum. Myers-Briggs test scores show where an individual’s personality lies along each continuum, with capital letters used to identify the dominant traits.
-
 ![Myers-Briggs Traits](/MBScale.jpg)
 
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-He is just not into me anymore. Is there anything I can to to bring back that lost spark that is backed by research ? 
+{{< 
 
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>
+leftbannertop src="/images/cc1.gif" 
+
+text1="The Myers-Briggs scale consists of four pairs of personality traits—each representing opposite ends of a continuum. " 
+
+text2="Myers-Briggs test scores show where an individual’s personality lies along each continuum, with capital letters used to identify the dominant traits."
+
+>}}
 
 **Introversion-Extraversion**
 
 The introvert (I) needs privacy and solitude, generally avoids large social gatherings, and is happiest either alone or in the company of one or two good friends. The extravert (E) gets uneasy when alone too much, seeks the company of others, and enjoys mingling.
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
 
 **Intuition-Sensing**
 
@@ -46,9 +45,19 @@ The thinker (T) is ordinarily rational and cool when making decisions—not pron
 
 **Judging -Perceiving**
 
-The judging (J) type is more focused and comfortable with closure than the perceiving (P) type. People with a dominant judging function rarely miss deadlines or are tardy for appointments. The perceiving type is more happy-go-lucky, often has several projects going at once, and is more casual about deadlines. When making a major purchase such as a car, the perceiving type enjoys the information-gathering and comparison-shopping part, but is a little uneasy once a selection has been made—worrying that more research should have been done. The judging person is glad the purchase has been decided upon and the check written.
+The judging (J) type is more focused and comfortable with closure than the perceiving (P) type. People with a dominant judging function rarely miss deadlines or are tardy for appointments. The perceiving type is more happy-go-lucky, often has several projects going at once, and is more casual about deadlines. 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+{{< 
+
+leftbanner src="/images/cc1.gif" 
+
+text1="When making a major purchase such as a car, the perceiving type enjoys the information-gathering and comparison-shopping part, but is a little uneasy once a selection has been made—worrying that more research should have been done. " 
+
+text2=""
+
+>}}
+
+The judging person is glad the purchase has been decided upon and the check written.
 
 **It’s Hard To Be an INFJ**
 
@@ -58,14 +67,19 @@ INFJs hold strong convictions and are deeply affected by the suffering of others
 
 The INFJ is often found at disaster scenes as a rescue worker. When a person of this type sees people or animals being treated cruelly, he or she may fantasize about getting revenge on the perpetrators. Although INFJs are gentle by nature, they are formidable in battle.
 
-The highly developed intuition of INFJs warns them when trouble lies ahead—for themselves or the world. Some people find INFJs pessimistic or even a little paranoid. However, INFJs are more often right than wrong because their intuition is so accurate. This ability makes them effective problem-solvers with the ability to act insightfully and spontaneously.
+The highly developed intuition of INFJs warns them when trouble lies ahead—for themselves or the world. Some people find INFJs pessimistic or even a little paranoid. 
+{{< 
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
+leftbanner src="/images/cc1.gif" 
+
+text1="However, INFJs are more often right than wrong because their intuition is so accurate. " 
+
+text2="This ability makes them effective problem-solvers with the ability to act insightfully and spontaneously."
+
+>}}
 
 When INFJs move into their extraverted mode, as they sometimes do, they can express a range of emotions and opinions quite effectively as they have excellent verbal skills. However, they tend to be cautious about revealing their positions. Like other feeling-judging types, they frequently feel caught between the desire to express their opinions and their reluctance to offend people. Some INFJs vent their private feelings to a few trusted friends. The friends are chosen with care, and the relationships are usually characterized by affection and trust.
 
 When INFJs turn from their feeling to their thinking function, they may appear aloof. Others sometimes conclude that this detachment reflects cynicism. A friend might fear that the insightful INFJ is so perceptive about human nature that the friend himself or herself is being judged. Generally this is not true at all. The INFJ is simply distracted by the need to focus and think. Under stress, INFJs are likely to overlook what’s going on in their immediate environment.
 
 ![16 Myers-Briggs Types](/mbtable1.jpg)
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>

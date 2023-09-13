@@ -73,5 +73,3 @@ As females past our teen years, we are not children. We are women with a right t
 
 (Note: I haven’t written about teenage girls because it’s outside the range of my personal experience, both as a female victim and as a mental health counselor. I am convinced, however, that rape is unusually devastating for these young women. They fear exposure, shame, and the risk that people won’t believe them.)
 
-
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡Video : This is the “secret ingredient” to his lasting commitment !">⚡Video : This is the “secret ingredient” to his lasting commitment !</a></p>
