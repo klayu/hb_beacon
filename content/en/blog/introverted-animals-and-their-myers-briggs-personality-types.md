@@ -20,57 +20,16 @@ The Myers Briggs Personality Type Indicator (MBTI) is a popular tool used to cat
 
 **What is the Introverted Myers Briggs Personality Type?**
 
+{{< 
 
-<style>
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .image {
-        order: 1;
-    }
-    .textspace {
-        order: 2;
-    }
-    .text {
-        order: 3;
-    }
-    @media (min-width: 768px) {
-        .image {
-            order: 1;
-            width: 45%;
-        }
-        .textspace {
-            order: 2;
-            width: 5%;
-        }
-        .text {
-            order: 3;
-            width: 50%;
-        }
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-            <p>The Introverted Myers Briggs Personality Type is one of the four main categories in the MBTI, along with Extraverted, Intuitive, and Judging. 
-            
-Individuals with an Introverted personality type tend to be introspective, thoughtful, and reserved. 
-</p>
-    </div>
-</div>
+text1="The Introverted Myers Briggs Personality Type is one of the four main categories in the MBTI, along with Extraverted, Intuitive, and Judging." 
+
+text2="Individuals with an Introverted personality type tend to be introspective, thoughtful, and reserved. "
+
+>}}
+
 
 They often prefer to spend time alone or in small groups, and they may find it difficult to open up to others. Introverts are often misunderstood as being shy or antisocial, but this is not necessarily the case. They simply derive their energy from within, rather than from external sources like social interactions.
 
@@ -163,33 +122,14 @@ Identifying the Introverted Myers Briggs Personality Type in animals can be chal
 4. Reservedness: Animals that are quiet and do not engage in excessive social interactions may be displaying introverted traits.
 5. Sensitivity: Animals that are sensitive to their environment and the emotions of others may be exhibiting introverted behavior.
 
-
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>The Introverted Myers Briggs Personality Type is a unique and often misunderstood personality trait. Both humans and animals can exhibit introverted behavior, and by understanding these traits, we can gain a deeper appreciation for the diversity of personalities in the world around us. 
-</p>
-    </div>
-</div>
-
-Remember, introversion is not a weakness, but rather a different way of experiencing and interacting with the world.
-
-
-<!-- <p><a id="aflink" href="http://klayu.fxinsiders.hop.clickbank.net/?r=quiz" class="one" target="_blank" title="Take the Personality Quiz : Are you a Magician or Ruler">Personality Quiz : Are you a Magician, Sage or Ruler !</a></p> -->
-<!-- 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="" 
+text1="The Introverted Myers Briggs Personality Type is a unique and often misunderstood personality trait. Both humans and animals can exhibit introverted behavior, and by understanding these traits, we can gain a deeper appreciation for the diversity of personalities in the world around us." 
 
-text2=""
+text2="Individuals with an Introverted personality type tend to be introspective, thoughtful, and reserved. "
 
->}} -->
+>}}
+
+Remember, introversion is not a weakness, but rather a different way of experiencing and interacting with the world.

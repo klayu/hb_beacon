@@ -12,68 +12,15 @@ If you’re in a relationship with an INFJ male, your feelings won’t go unnoti
 
 Have no fear that he’ll leave you on a whim. He’s steadfast and loyal. Hurting people is not what he does. In fact, he has a tendency to hang on to partnerships long after they start going bad. If your relationship begins to deteriorate, you’re likely to see him struggling with himself. If he finally concludes that his efforts are useless, he’s likely to move on quickly. Don’t expect to go through a series of arguments. That’s not his style. There’ll be no shouting or fighting, just a quiet announcement that it’s over and time for him to go.
 
-<!-- {{< 
+{{< 
 
 leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="" 
+text1="If your relationship stands the test of time, you can look forward to years of meaningful companionship." 
 
-text2=""
+text2="You’ll receive thoughtful gifts, favors and compliments.  INFJ men enjoy showing their love, but they also like to hear that their efforts are appreciated. "
 
->}} -->
-
-
-<style>
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .image {
-        order: 1;
-    }
-    .textspace {
-        order: 2;
-    }
-    .text {
-        order: 3;
-    }
-    @media (min-width: 768px) {
-        .image {
-            order: 1;
-            width: 45%;
-        }
-        .textspace {
-            order: 2;
-            width: 5%;
-        }
-        .text {
-            order: 3;
-            width: 50%;
-        }
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
-
-<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-If your relationship stands the test of time, you can look forward to years of meaningful companionship. 
-
-You’ll receive thoughtful gifts, favors and compliments.  INFJ men enjoy showing their love, but they also like to hear that their efforts are appreciated. 
-</p>
-    </div>
-</div>
+>}}
 
 Getting material gifts from you isn’t necessary. They’re happy with your words of pleasure and gratitude.
 
@@ -111,34 +58,12 @@ text2=""
 
 9.  Be patient about learning the INFJ’s innermost secrets. INFJs are more guarded than most Myers-Briggs types. If your partnership flourishes, he’ll eventually tell you everything.
 
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-Of all sixteen types, the INFJ has the greatest capacity for love and compassion in a relationship. If you find an INFJ man, hang on. 
-
-He’s one in a hundred.
-
-</p>
-    </div>
-</div>
-
-
-<!--p><a  href="https://5cb48co14l4pfof8ki2bflkg7l.hop.clickbank.net?lp=9" class="one" target="_blank" title="4 question quiz for a way to his heart">Secret : 4 question quiz for a way to their heart</a></p-->
-
-<!-- {{< 
+{{< 
 
 leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="" 
+text1="Of all sixteen types, the INFJ has the greatest capacity for love and compassion in a relationship. If you find an INFJ man, hang on. " 
 
-text2=""
+text2="He’s one in a hundred."
 
->}} -->
+>}}

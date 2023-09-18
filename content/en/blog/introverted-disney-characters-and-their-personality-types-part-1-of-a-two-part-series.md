@@ -26,73 +26,18 @@ INTP: Alice in Wonderland
 
 In the Disney film bearing her name, Alice in Wonderland embodies the INTP personality. Sitting by the river, Alice encounters a white rabbit donning a waistcoat and a pocket watch, sparking her adventurous spirit. Intrigued, she follows the rabbit down a rabbit hole, embarking on a journey through the whimsical realm of Wonderland. 
 
-
-<style>
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .image {
-        order: 1;
-    }
-    .textspace {
-        order: 2;
-    }
-    .text {
-        order: 3;
-    }
-    @media (min-width: 768px) {
-        .image {
-            order: 1;
-            width: 45%;
-        }
-        .textspace {
-            order: 2;
-            width: 5%;
-        }
-        .text {
-            order: 3;
-            width: 50%;
-        }
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
-
-<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-Much like INTPs, Alice possesses an inquisitive mind, constantly questioning everything around her, and testing new ideas for accuracy. 
-
-Do you associate with her personality, comment below !
-</p>
-    </div>
-</div>
-
-As an introverted, intuitive, thinking, and perceiving character, she relies on her well-developed intuition to explore creative possibilities and observe her surroundings with a quiet and private demeanor.
-
-
-
-<!-- {{< 
+{{< 
 
 leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="" 
+text1="Much like INTPs, Alice possesses an inquisitive mind, constantly questioning everything around her, and testing new ideas for accuracy." 
 
-text2=""
+text2="Do you associate with her personality, comment below ?"
 
->}} -->
+>}}
 
+
+As an introverted, intuitive, thinking, and perceiving character, she relies on her well-developed intuition to explore creative possibilities and observe her surroundings with a quiet and private demeanor.
 
 INFP: Belle
 *Introverted, Intuitive, Feeling and Perceiving*
@@ -160,21 +105,15 @@ The famous fairy Tinker Bell, a beloved character in various Disney films, embod
 
 ISTPs, as keen observers of life, remain logical and adaptable in any situation, particularly reliable in times of immediate action. Preferring efficient methods to achieve their goals, they occasionally overlook less pertinent details while maintaining a composed exterior even when things go awry.
 
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-Stay tuned for Part 2, where we'll explore Extraverted Disney Characters and their unique personality types in the next blog.
-</p>
-    </div>
-</div>
+{{< 
+
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+
+text1="Stay tuned for Part 2, where we'll explore Extraverted Disney Characters and their unique personality types in the next blog." 
+
+text2="Do you associate with her personality, comment below ?"
+
+>}}
 
 <!-- <div style="background-color: #FFD1DC; border-radius: 9px;">
 Do you know the unusual pattern of signals men look for in a romantic relationship ? Is there anything I can to to bring back that lost spark that is backed by research ? 

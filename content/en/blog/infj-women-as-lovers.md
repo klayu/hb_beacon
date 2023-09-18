@@ -18,74 +18,18 @@ The INFJ woman is compassionate, intelligent, and creative. While she longs for 
 
 The odds of finding an INFJ woman are small—sad but true. That’s because INFJs comprise only 1 percent of the population. Consequently, she finds reasons to get out and appear in places where the odds are more promising. If she’s out there, just by herself, the chances are that the right man will find her if there’s one around.
 
-<!-- {{< 
-
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
-
-text1="" 
-
-text2=""
-
->}} -->
-
 
 A man who initiates a relationship with an INFJ woman soon learns if his feelings are reciprocated. The woman picks up every nuance and shift in his mood. Sometimes he has the uneasy feeling that she can read his mind.
 
+{{< 
 
-<style>
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .image {
-        order: 1;
-    }
-    .textspace {
-        order: 2;
-    }
-    .text {
-        order: 3;
-    }
-    @media (min-width: 768px) {
-        .image {
-            order: 1;
-            width: 45%;
-        }
-        .textspace {
-            order: 2;
-            width: 5%;
-        }
-        .text {
-            order: 3;
-            width: 50%;
-        }
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-She’s an attentive lover who isn’t satisfied until she can give as much love as she receives. To her, lovemaking is more than a physical event. 
+text1="She’s an attentive lover who isn’t satisfied until she can give as much love as she receives. To her, lovemaking is more than a physical event. " 
 
-It’s a mystical experience, worthy of her fullest attention and skill. She loses interest in men whose lovemaking is routine and rapid.
-</p>
-    </div>
-</div>
+text2="It’s a mystical experience, worthy of her fullest attention and skill. She loses interest in men whose lovemaking is routine and rapid."
 
-
-
+>}}
 
 The right man need not fear that his INFJ woman will leave him on an impulse. She’s loyal and steadfast. In fact, she’s sometimes too loyal, tending to give her heart to a man long after the relationship shows signs of deteriorating.  When this happens, she struggles with herself. Once she makes the decision that things are going nowhere, she severs ties quickly and moves on. She’s not the type to go through a series of arguments or pleas. That’s not her style. She’ll just announce quietly that it’s time for her to leave.
 

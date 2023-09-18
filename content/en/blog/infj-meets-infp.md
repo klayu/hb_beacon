@@ -22,58 +22,15 @@ As idealists, both types drive themselves to achieve their goals, which are freq
 
 INFPs and INFJs set such high standards for themselves that they’re often disappointed in the results of their work. Because they don’t give themselves enough credit, they make good partners. Each supports and encourages the other.
 
-<style>
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .image {
-        order: 1;
-    }
-    .textspace {
-        order: 2;
-    }
-    .text {
-        order: 3;
-    }
-    @media (min-width: 768px) {
-        .image {
-            order: 1;
-            width: 45%;
-        }
-        .textspace {
-            order: 2;
-            width: 5%;
-        }
-        .text {
-            order: 3;
-            width: 50%;
-        }
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
+{{< 
 
-<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-They protect their privacy. When they’re not allowed enough time alone, they feel drained. They need solitude to recharge their batteries and get their energy back. 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-As friends and partners, they understand this and are usually generous about giving each other space.
-</p>
-    </div>
-</div>
+text1="They protect their privacy. When they’re not allowed enough time alone, they feel drained. They need solitude to recharge their batteries and get their energy back. " 
 
+text2="As friends and partners, they understand this and are usually generous about giving each other space."
+
+>}}
 
 Both are somewhat prone to depression. Their introversion inclines them to be loners, giving them the tendency to brood over problems without checking the facts with others. Their feeling preference inclines them to exaggerate the importance of conflicts or hurt feelings.
 
@@ -131,15 +88,6 @@ When it’s time for a vacation, INFJ parents are generally the chief planners. 
 
 Nurturing their children comes naturally to INFPs and INFJs. They are patient, devoted, and protective parents. However, when friction arises over, say, a child’s behavior, they tend to keep their objections to themselves longer than they should. Eventually the INFJ in particular is likely to blow up.
 
-<!-- {{< 
-
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
-
-text1="" 
-
-text2=""
-
->}} -->
 
 **Famous INFPs and INFJs**
 

@@ -28,8 +28,7 @@ leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=1
 
 text1="Did you know about ENFJs ? They are also called as “The Teacher”" 
 
-text2="“I’m not controlling… Okay, maybe a little bit.” Leave a comment below if you agree.
-"
+text2="“I’m not controlling… Okay, maybe a little bit.” Leave a comment below if you agree."
 
 >}}
 
