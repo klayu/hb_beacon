@@ -21,7 +21,7 @@ Like many other members of AA, I am not a Christian. My spirituality does not em
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="The Big Book chapter “We Agnostics” states: “When therefore, we speak to you of God, we mean your own conception of God” and “To us the Realm of Sprit is broad, roomy, all inclusive.”" 
 

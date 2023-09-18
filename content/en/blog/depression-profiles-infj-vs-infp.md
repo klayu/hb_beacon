@@ -19,7 +19,7 @@ INFJs can assuage their guilt with the knowledge that they are doing the best th
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="* INFJs experience loneliness much of time. It’s hard for most people to read the feelings of INFJs because they are highly sensitive, quiet, and self-contained. For this reason, few people really understand them." 
 
@@ -53,7 +53,7 @@ INFPs, much like INFJs, are prone to depression because of their naturally sensi
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="* They can’t imagine that anyone would hurt them intentionally. It takes many years of living to discover the bitter truth—that many unfriendly acts are done on purpose." 
 

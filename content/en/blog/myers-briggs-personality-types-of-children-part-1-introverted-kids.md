@@ -24,7 +24,7 @@ Sensing (S) kids are observant and aware of all the details around them. Intuiti
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Those of the thinking (T) type depend on logic and are less likely to focus on outcomes. Perceiving (P) children are easy-going and move from one activity to another." 
 
@@ -86,7 +86,7 @@ People of this personality type take a conventional view of life. While they enj
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 

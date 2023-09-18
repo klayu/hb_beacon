@@ -27,7 +27,7 @@ Finally, perceiving (P) ISTPs avoid final decisions and are more comfortable whe
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="INFJs do only one thing at a time, and they’re punctual and deadline-oriented. " 
 
@@ -43,7 +43,7 @@ When a friendship between these two types runs aground, it’s usually because o
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Although INFJs do examine the facts, they’re more likely to be concerned with the impact of their decisions on others. " 
 
@@ -61,7 +61,7 @@ If one partner decides to leave the other, the rejected ISTP is quiet about his 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="ISTPs don’t give up easily on their relationships unless the facts make it obvious that the partnership won’t work out. " 
 

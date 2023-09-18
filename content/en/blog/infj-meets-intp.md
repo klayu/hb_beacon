@@ -12,7 +12,7 @@ This personality type is more attuned to impersonal systems and technical subjec
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="The INTP is unlikely to be enthusiastic about them. " 
 
@@ -27,7 +27,7 @@ If you are close to an INTP, it’s important to give him or her plenty of space
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Small talk is not the forte of INTPs. " 
 
@@ -52,7 +52,7 @@ When INTPs fall in love, they fall hard. Passion consumes them. They step out of
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="When INTPs fall out of love, the decision is almost always final. A line has been crossed. " 
 
@@ -67,7 +67,7 @@ INTPs strive for logical purity. They are clear and quick-thinking, never accept
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="If you are a high-maintenance INFJ, be prepared to look beyond an INTP partner to meet all your emotional needs." 
 

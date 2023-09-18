@@ -55,12 +55,12 @@ INFPs and INFJs set such high standards for themselves that they’re often disa
     }
 </style>
 
-<!-- <img src="/images/cc1.gif" alt=""> -->
+<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
 <div class="container">
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" alt="">
+        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
         </a>
         
 </div>
@@ -103,7 +103,7 @@ When INFPs fall in love with INFJs, the natural reserve of the former makes it h
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="The two types are sensitive and easily hurt. " 
 
@@ -133,7 +133,7 @@ Nurturing their children comes naturally to INFPs and INFJs. They are patient, d
 
 <!-- {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 

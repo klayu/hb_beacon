@@ -15,7 +15,7 @@ As traditionalists, ESFJs rely on tried-and-true methods of solving problems.
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="For this reason, they can overlook newer, better approaches that are obvious to others—a habit that may prove annoying for inventive friends and relatives who are reluctant to endanger their relationship with the ESFJ by being critical. " 
 
@@ -37,7 +37,7 @@ ESFJ partners are drawn to the rich imaginations and agile minds of INFJs. Falli
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Unfortunately, ESFJs are not always aware that a relationship is starting to fail." 
 
@@ -68,7 +68,7 @@ When an INFJ and ESFJ stay together and adjust to each other’s styles, they of
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="With their warm personalities, ESFJs attract a circle of friends that can prove stimulating to the INFJ. " 
 

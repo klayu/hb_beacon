@@ -22,73 +22,17 @@ An ENTJ personality type called the “Leader,” Bill Gates has always been dec
 Extraverted, Intuitive, Feeling and Judging
 With her outgoing, enthusiastic personality, ENFJ Oprah understands people. True to type, she’s articulate and tactful. ENFJs have the interpersonal skills to make others want to join them to make things happen. The ENFJ is idealistic, compassionate, and shows integrity in everything he or she does.
 
-
-<style>
-    .container {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .image {
-        order: 1;
-    }
-    .textspace {
-        order: 2;
-    }
-    .text {
-        order: 3;
-    }
-    @media (min-width: 768px) {
-        .image {
-            order: 1;
-            width: 45%;
-        }
-        .textspace {
-            order: 2;
-            width: 5%;
-        }
-        .text {
-            order: 3;
-            width: 50%;
-        }
-    }
-    img {
-        border-radius: 10px;
-    }
-</style>
-
-<!-- <img src="/images/cc1.gif" alt=""> -->
-<div class="container">
-    <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-<b>Did you know about ENFJs :</b>
-
-They are also called as "The Teacher": 
-
-“I’m not controlling… Okay, maybe a little bit.”
-
-Leave a comment below if you agree.
-</p>
-    </div>
-</div>
-
-<!-- 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="" 
+text1="Did you know about ENFJs ? They are also called as “The Teacher”" 
 
-text2=""
+text2="“I’m not controlling… Okay, maybe a little bit.” Leave a comment below if you agree.
+"
 
->}} -->
+>}}
+
 
 **ESTJ: Margaret Thatcher**
 

@@ -22,7 +22,7 @@ Introverted, Intuitive, Thinking and Judging
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Like many INTJs, he sometimes seemed so confident of himself as to appear overbearing." 
 
@@ -44,7 +44,7 @@ Introverted, Intuitive, Feeling and Perceiving
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="They avoid conflict and try not to create waves, but when they see people behaving unkindly, they can become surprisingly assertive." 
 

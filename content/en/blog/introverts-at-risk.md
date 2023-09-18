@@ -31,7 +31,7 @@ Under stress, ISTJs may ignore the long-term implications of a project in favor 
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="ISTJs sometimes have difficulty recognizing their own emotions and values. As a result, they may be seen as insensitive and cold. " 
 
@@ -55,7 +55,7 @@ Finally, ISTPs may find themselves in trouble when they fail to complete old pro
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="One way ISFJs can lose out is by paying too much attention to the present status of problems and failing to seek options for a satisfactory solution." 
 

@@ -18,7 +18,7 @@ When INFJs are on track, they’re creative and insightful. They’re almost cla
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="INFJs can be depended on to come through—and to come through on time." 
 
@@ -40,7 +40,7 @@ INFJs are, of course, introverts.
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Asking for advice isn’t their long suit. But getting help from others is a major ingredient of success. " 
 

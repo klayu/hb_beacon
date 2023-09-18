@@ -23,7 +23,7 @@ The Myers-Briggs Inventory was first published in 1975. Its practical applicatio
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="The Myers-Briggs scale consists of four pairs of personality traits—each representing opposite ends of a continuum. " 
 
@@ -49,7 +49,7 @@ The judging (J) type is more focused and comfortable with closure than the perce
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="When making a major purchase such as a car, the perceiving type enjoys the information-gathering and comparison-shopping part, but is a little uneasy once a selection has been made—worrying that more research should have been done. " 
 
@@ -70,7 +70,7 @@ The INFJ is often found at disaster scenes as a rescue worker. When a person of 
 The highly developed intuition of INFJs warns them when trouble lies ahead—for themselves or the world. Some people find INFJs pessimistic or even a little paranoid. 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="However, INFJs are more often right than wrong because their intuition is so accurate. " 
 

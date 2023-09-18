@@ -20,7 +20,7 @@ When I left home for college at the age of 17 and began to date, my relationship
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="If a boy I didn’t care for kept pursuing me, I couldn’t figure out how to escape without hurting him. " 
 
@@ -37,7 +37,7 @@ My opinions on social and political issues are pretty unshakeable, without shade
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="My intuitive, feeling, and judging functions, acting in concert, make me quick to respond to emergencies, especially those involving injury or danger to people or animals." 
 

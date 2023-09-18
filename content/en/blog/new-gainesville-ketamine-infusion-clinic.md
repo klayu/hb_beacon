@@ -23,7 +23,7 @@ Ketamine works by blocking a certain type of neural receptor from being triggere
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="At the low doses employed by the Florida Mind Health Clinic, ketamine has been proven to restore healthy neural pathways in the brain without those side effects." 
 
@@ -41,7 +41,7 @@ Levites has presented lectures related to anesthesia-related medical decision-ma
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 

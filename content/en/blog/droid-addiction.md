@@ -23,7 +23,7 @@ This woman is in her mid-forties; the other friend and I are 87 and 79, respecti
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Doesn’t it ever occur to ‘droid junkies that they’re being rude?  With their fingers dancing over their devices and their eyes focused on the images, they’re only half present at best.  They don’t make eye contact. Where in God’s name are they?  Would taking their ‘droids away leave them feeling helpless and naked?" 
 

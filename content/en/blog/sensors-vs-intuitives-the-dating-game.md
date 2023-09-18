@@ -14,7 +14,7 @@ Sensors are more tuned to their senses: how the date looks and sounds, whether h
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="The Intuitive is more interested in images conjured up by their imaginations—in other words, what the date should be like, more than what he or she actually is." 
 
@@ -51,7 +51,7 @@ For Sensors, it’s important that facts be presented correctly. The details are
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 

@@ -18,7 +18,7 @@ Their shared traits of introversion (I) and feeling (F) make them understand eac
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="They realize that both are too critical of themselves, tending to undervalue their skills. " 
 
@@ -42,7 +42,7 @@ The main problems that INFJs and ISFPs face usually stem from their tendency to 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 
@@ -60,7 +60,7 @@ Unless the INFJ appreciates the ISFP’s need to keep decisions open-ended until
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Because of their judging (J) function, INFJs rarely miss deadlines and are always on time for appointments." 
 

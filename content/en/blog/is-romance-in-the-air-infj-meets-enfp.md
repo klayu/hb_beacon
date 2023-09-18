@@ -23,7 +23,7 @@ Life is fun with ENFPs, who never tire of developing new interests. They’re at
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="The same is true of INFJs except that they are drawn to activities that involve fewer social contacts and less communication with others. " 
 
@@ -45,7 +45,7 @@ ENFPs have such appealing personalities that they’re never short of admirers. 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Being in love is an almost constant state for ENFPs. " 
 

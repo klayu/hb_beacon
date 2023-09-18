@@ -29,7 +29,7 @@ Some common traits of extroverted personalities include:
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="- Action-oriented and prefer hands-on learning" 
 
@@ -57,19 +57,16 @@ Identifying the Extroverted Myers-Briggs Personality Type in humans can be chall
 4. Risk-taking: Extroverted personalities are more likely to take risks and embrace new experiences. They are often described as adventurous and spontaneous.
 5. Hands-on learning: Extroverted individuals prefer to learn through hands-on experience and action-oriented tasks. They may struggle with theoretical or abstract concepts.
 
-The Extroverted Myers-Briggs Personality Type is characterized by a preference for social interaction, energy from the external world, and a focus on the present. While it may be challenging to assign specific personality types to animals, some common traits observed in extroverted animals include playfulness, social interaction, and curiosity. To identify the Extroverted personality type in humans, look for signs of social interaction, energy levels, focus on the present, risk-taking, and hands-on learning preferences.
+The Extroverted Myers-Briggs Personality Type is characterized by a preference for social interaction, energy from the external world, and a focus on the present. 
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="" 
+text1="While it may be challenging to assign specific personality types to animals, some common traits observed in extroverted animals include playfulness, social interaction, and curiosity. " 
 
 text2=""
 
 >}}
-<!--p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">The Pet Whisperer's Secret : Transform Digestion, Vitality, and Fur Beauty with This Unbelievable Method!</a></p-->
 
-<!-- 
-<p><a id="aflink" href="http://klayu.fxinsiders.hop.clickbank.net/?r=quiz" class="one" target="_blank" title="Take the Personality Quiz : Are you a Magician or Ruler">Take the Personality Quiz : Are you a Magician or Ruler !</a></p> -->
-
+To identify the Extroverted personality type in humans, look for signs of social interaction, energy levels, focus on the present, risk-taking, and hands-on learning preferences.

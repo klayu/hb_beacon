@@ -26,11 +26,11 @@ ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
-text1="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. They can be hard on people who fail to live up to their standards." 
+text1="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. " 
 
-text2=""
+text2="They can be hard on people who fail to live up to their standards."
 
 >}}
 

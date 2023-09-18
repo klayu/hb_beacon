@@ -14,7 +14,7 @@ The main difference between the two is that INFJs are more insightful. For examp
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="INFJs and ISFJs complement each other because they meet somewhere in the middle." 
 
@@ -57,7 +57,7 @@ INFJs and ISFJs do best when they appreciate their differences as well as their 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 

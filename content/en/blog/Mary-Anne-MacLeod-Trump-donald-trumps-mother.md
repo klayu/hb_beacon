@@ -23,7 +23,7 @@ Early Life of Frederick Christ Trump
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Frederick Christ Trump, commonly known as Fred Trump, was born on October 11, 1905, in Woodhaven, New York." 
 
@@ -76,7 +76,7 @@ Fred and Mary Anne Trump's parenting style was characterized by their immigrant 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="They instilled in their children a sense of discipline, responsibility, and resilience. " 
 
@@ -184,7 +184,7 @@ The parenting style of Frederick Christ Trump and Mary Anne MacLeod Trump was a 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Understanding the nuanced interplay between their parenting style and the values they instilled deepens our insight into the foundations of Donald Trump's character and achievements." 
 
@@ -219,7 +219,7 @@ The triumph of overcoming challenges introduced Fred and Mary Anne to the power 
 The challenges faced by Frederick Christ Trump and Mary Anne MacLeod Trump were integral in shaping their parenting approach and the values they imparted to Donald. Their ability to overcome economic struggles and cultural transitions served as a foundation for instilling values of adaptability, perseverance, fiscal responsibility, and embracing opportunities. 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="By examining their triumphs over challenges, we gain a deeper understanding of the experiences that shaped their parenting philosophy and influenced Donald Trump's development as a businessman and political figure."
 
@@ -255,7 +255,7 @@ The unwavering support and encouragement provided by Frederick Christ Trump and 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="By exploring these instances of parental encouragement, we gain insight into the factors that laid the foundation for Donald Trump's journey to becoming a renowned business magnate and political leader." 
 
@@ -291,7 +291,7 @@ Legacy of Resonating Values
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Fred and Mary Anne Trump's teachings continue to echo through Donald's decisions and actions, even as he entered the political arena. " 
 

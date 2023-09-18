@@ -24,7 +24,7 @@ INFJs and ISFJs sometimes remain in partnerships that are no longer working. The
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="If they don’t turn to friends for support, they’re slow to regroup and move on." 
 
@@ -39,7 +39,7 @@ The homes of INFJs tend to be more cluttered than those of ISFJs. An abundance o
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="ISFJs’ homes are usually neater, as they’re more prompt about attending to home maintenance and domestic chores." 
 

@@ -26,7 +26,7 @@ Timex watches run for years on a single battery.  Rolex watches, the manufacture
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="What’s more, the manufacturer warns, “The lubricants in the mechanism may harden, causing friction within the movement. " 
 

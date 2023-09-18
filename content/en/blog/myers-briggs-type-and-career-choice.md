@@ -31,7 +31,7 @@ The study data do not indicate which careers are best for certain types. The inf
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="When evaluating potential careers, it’s best to consider how your preferences relate to the demands of certain professions. " 
 
@@ -60,7 +60,7 @@ Judging types do best in careers that require scheduling and established procedu
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="When you consider your own type, such as ISFP, the key is not to choose a career that theoretically belongs on a list, but rather to consider the various facets of your type and how they relate to the job possibilities." 
 

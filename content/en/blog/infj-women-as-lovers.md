@@ -20,7 +20,7 @@ The odds of finding an INFJ woman are small—sad but true. That’s because INF
 
 <!-- {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="" 
 
@@ -65,12 +65,12 @@ A man who initiates a relationship with an INFJ woman soon learns if his feeling
     }
 </style>
 
-<!-- <img src="/images/cc1.gif" alt=""> -->
+<!-- <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt=""> -->
 <div class="container">
     <div class="image">
         <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" alt="">
+        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
         </a>
         
 </div>
@@ -95,7 +95,7 @@ Other men are likely to be attracted to an INFJ woman. She may or may not notice
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="She’ll appreciate this more than anything else he can do. " 
 
@@ -120,7 +120,7 @@ When courting an INFJ woman, men should keep several pointers in mind:
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Of all sixteen types, the INFJ has the greatest store of love and compassion to give in a relationship. If you find an INFJ woman, treasure her. " 
 

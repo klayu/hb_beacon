@@ -21,7 +21,7 @@ On the other hand, you may play the blame game with yourself, faulting yourself 
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" 
+leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="People with this inclination also have a tendency to feel that good fortune or chance is responsible for any successes in their lives, not themselves." 
 
@@ -37,7 +37,7 @@ Psychologists have various theories on the subject of blame that have to do with
 
 {{< 
 
-leftbanner src="/images/cc1.gif" 
+leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
 
 text1="Therefore, we blame the kids who caused the fatality and attribute less blame to those whose rocks missed their mark—when actually all the rock throwers are equally at fault." 
 
