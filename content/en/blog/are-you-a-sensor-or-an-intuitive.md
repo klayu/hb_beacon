@@ -2,6 +2,7 @@
 title: "Are You a Sensor or an Intuitive?"
 date: 2023-04-08T01:09:48-07:00
 # description: "Confusion between the elusive Sensing and Intuitive types."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1053/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -33,7 +34,7 @@ More confusion probably exists regarding Sensors (S) and Intuitives (N) than any
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="• Sensors are literal in their use of words. If they say, “Be careful. The coffee is boiling hot,” it probably is. The Intuitive might mean that the coffee is just uncomfortably warm." 
 

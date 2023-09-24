@@ -2,6 +2,7 @@
 title: "Environmental Cost of Meat"
 date: 2023-04-08T01:09:48-07:00
 # description: "Impact of animal agriculture on environmental resources in the U.S."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1055/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -25,7 +26,7 @@ Animal agriculture is a leading user of water resources in the U.S. For every ki
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="With severe water shortages in the Western and Southern U.S., the situation is rapidly worsening as the growing population needs more and more water to meet its needs—not only urban users, but also farmers and ranchers." 
 
@@ -49,7 +50,7 @@ Facts
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

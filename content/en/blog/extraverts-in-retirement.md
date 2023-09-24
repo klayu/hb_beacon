@@ -2,6 +2,7 @@
 title: "Extraverts in Retirement"
 date: 2023-04-08T01:09:48-07:00
 # description: "How Myers-Briggs personality scores of people can change with advancing age."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1057/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -22,7 +23,7 @@ ESTP elders continue to have the same characteristics they did when younger. Man
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="When grandchildren arrive, the elders take pleasure in outings to the zoo, sports events, and so on. " 
 
@@ -41,7 +42,7 @@ In retirement, ESFPs continue their people-oriented life, keeping old friends an
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Because their friends of the past have enjoyed them so much over the years, they’re unlikely to abandon the friendship. " 
 
@@ -73,7 +74,7 @@ All their lives, ENTJs have been rewarded with leadership positions at work and 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Maintaining autonomy is one of their major retirement goals. " 
 

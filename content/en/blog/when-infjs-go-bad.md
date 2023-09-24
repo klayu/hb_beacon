@@ -2,6 +2,7 @@
 title: "When INFJs Go Bad"
 date: 2023-04-08T01:09:48-07:00
 # description: "How and why INFJs go bad."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1080/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -18,7 +19,7 @@ When INFJs are on track, they’re creative and insightful. They’re almost cla
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="INFJs can be depended on to come through—and to come through on time." 
 
@@ -40,7 +41,7 @@ INFJs are, of course, introverts.
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Asking for advice isn’t their long suit. But getting help from others is a major ingredient of success. " 
 

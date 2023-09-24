@@ -1,6 +1,7 @@
 ---
 title: "Famous People and Their Myers-Briggs Personality Types: Part 2, the Introverts"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1045/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Angela Merkel', 'Bobby Fischer', celebrities, 'Dalai Lama', 'David Bowie', extraversion, extravert, famous, Ghandi, INFJ, INFP, intj, INTP, introversion, introvert, ISFJ, ISFP, ISTJ, ISTP, Marie Curie, MBTI, Merkel, 'Mother Teresa', Myers-Briggs, personality, 'personality type', 'Princess Diana']
@@ -22,7 +23,7 @@ Introverted, Intuitive, Thinking and Judging
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Like many INTJs, he sometimes seemed so confident of himself as to appear overbearing." 
 
@@ -44,7 +45,7 @@ Introverted, Intuitive, Feeling and Perceiving
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="They avoid conflict and try not to create waves, but when they see people behaving unkindly, they can become surprisingly assertive." 
 

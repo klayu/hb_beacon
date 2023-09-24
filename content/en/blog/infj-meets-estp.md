@@ -2,6 +2,7 @@
 title: "INFJ Meets ESTP"
 date: 2023-04-08T01:09:48-07:00
 # description: "Compatibility between INFJ and ESTP personality types."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1062/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -21,7 +22,7 @@ The INFJ (I) is introverted—a private person. The ESTP (E) is sociable and out
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="They’re happy-go-lucky about appointment times and deadlines—unlike INFJs, who arrive places on time and meet their deadlines." 
 
@@ -43,7 +44,7 @@ INFJs are big on romance and physical intimacy. Their introversion, intuition an
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="While the INFJ is cautious in the first stages of a relationship due to fear of rejection, the ESTP is the opposite. " 
 
@@ -80,7 +81,7 @@ In the intimacy of their partnership, they should realize that a little give and
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="INFJs do well to expand their social activities with ESTPs, spending time as a couple with friends and relatives. " 
 

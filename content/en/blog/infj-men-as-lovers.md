@@ -1,6 +1,7 @@
 ---
 title: "INFJ Men as Lovers"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1049/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Carl Jung', compassion, INFJ, introversion, intuition, judging, love, MBTI, Myers-Briggs, 'personality type', preferences, psychology, relationship, relationships, reserved, romance]
@@ -14,7 +15,7 @@ Have no fear that he’ll leave you on a whim. He’s steadfast and loyal. Hurti
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="If your relationship stands the test of time, you can look forward to years of meaningful companionship." 
 
@@ -36,7 +37,7 @@ If you’re lucky enough to find an INFJ man, don’t count on his making the fi
 
 <!-- {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 
@@ -60,7 +61,7 @@ text2=""
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Of all sixteen types, the INFJ has the greatest capacity for love and compassion in a relationship. If you find an INFJ man, hang on. " 
 

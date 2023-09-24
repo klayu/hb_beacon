@@ -2,6 +2,7 @@
 title: "Tom Waits, I Love You"
 date: 2023-04-08T01:09:48-07:00
 # description: "Tom Waits, I Love You"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1078/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -25,7 +26,7 @@ Tom Waits, I love you.
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

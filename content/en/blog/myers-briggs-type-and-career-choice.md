@@ -1,6 +1,7 @@
 ---
 title: "Career Distribution by Myers-Briggs Type"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1038/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: [careers, ENFJ, ENFP, entj, ENTP, ESFJ, ESFP, ESTJ, ESTP, INFJ, INFP, intj, INTP, ISFJ, ISFP, ISTJ, ISTP]
@@ -31,7 +32,7 @@ The study data do not indicate which careers are best for certain types. The inf
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="When evaluating potential careers, it’s best to consider how your preferences relate to the demands of certain professions. " 
 
@@ -60,7 +61,7 @@ Judging types do best in careers that require scheduling and established procedu
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="When you consider your own type, such as ISFP, the key is not to choose a career that theoretically belongs on a list, but rather to consider the various facets of your type and how they relate to the job possibilities." 
 

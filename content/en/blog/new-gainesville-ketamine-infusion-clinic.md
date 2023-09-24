@@ -2,6 +2,7 @@
 title: "New Gainesville Ketamine Infusion Clinic"
 date: 2023-04-08T01:09:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1021/400/250
 category: ["ketamine-infusion"]
 ---
@@ -23,7 +24,7 @@ Ketamine works by blocking a certain type of neural receptor from being triggere
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="At the low doses employed by the Florida Mind Health Clinic, ketamine has been proven to restore healthy neural pathways in the brain without those side effects." 
 
@@ -41,7 +42,7 @@ Levites has presented lectures related to anesthesia-related medical decision-ma
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

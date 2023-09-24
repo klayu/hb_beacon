@@ -2,6 +2,7 @@
 title: "Droid Addiction"
 date: 2023-04-08T01:09:48-07:00
 # description: "About the android addicts around us!"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1054/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -23,7 +24,7 @@ This woman is in her mid-forties; the other friend and I are 87 and 79, respecti
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Doesn’t it ever occur to ‘droid junkies that they’re being rude?  With their fingers dancing over their devices and their eyes focused on the images, they’re only half present at best.  They don’t make eye contact. Where in God’s name are they?  Would taking their ‘droids away leave them feeling helpless and naked?" 
 

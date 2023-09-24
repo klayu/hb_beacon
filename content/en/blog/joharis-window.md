@@ -2,6 +2,7 @@
 title: "Johari’s Window"
 date: 2023-04-08T01:09:48-07:00
 # description: "Johari’s Window: How much of ourselves do we hide from others? How open are we to letting people see us as we are? In fact, how prepared are we to admitting our own flaws and strengths?"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1069/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -23,7 +24,7 @@ The Arena quadrant consists of adjectives, both positive and negative, that the 
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="The Blind Spot quadrant is the reverse—that is, it describes qualities that subjects are unaware of, but that peers perceive about them." 
 

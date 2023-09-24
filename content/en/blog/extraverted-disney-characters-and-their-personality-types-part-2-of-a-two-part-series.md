@@ -2,6 +2,7 @@
 title: "Extraverted Disney Characters and Their Personality Types: Part 2 of a Two-Part Series"
 date: 2023-09-03T01:09:48-07:00
 # description: "Extroverted Disney Characters and Their Personality Types Part 2"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1056/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -26,7 +27,7 @@ ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. " 
 

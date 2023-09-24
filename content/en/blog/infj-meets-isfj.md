@@ -2,6 +2,7 @@
 title: "INFJ meets ISFJ"
 date: 2023-08-02T01:10:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1032/400/250
 category: [INFJ, isfj,'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Carl Jung', extraverted, feeling, INFJ, introverted, intuition, intuitive, ISFJ, judging, love, MBTI, Myers-Briggs, 'personality tests', preferences, romance]
@@ -24,7 +25,7 @@ INFJs and ISFJs sometimes remain in partnerships that are no longer working. The
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="If they don’t turn to friends for support, they’re slow to regroup and move on." 
 
@@ -39,7 +40,7 @@ The homes of INFJs tend to be more cluttered than those of ISFJs. An abundance o
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="ISFJs’ homes are usually neater, as they’re more prompt about attending to home maintenance and domestic chores." 
 

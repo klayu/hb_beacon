@@ -1,6 +1,7 @@
 ---
 title: "It’s Hard To Be an INFJ: The Author’s Personal Story"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1047/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: [aloof, analytical, careers, Carl Jung, clairvoyant, depression, Dosteovsky, Eleanor Roosevelt, extraversion, feeling, Ghandi, impulsive, INFJ, introversion, judging, love, 'Mother Teresa', Myers-Briggs, 'Nelson Mandela', 'Noah Chomsky', 'Oprah Winfrey', outgoing, perceiving, personality, private, psychology, relationships, reserved, romance, sensing, Simone de Beauvoir, solitude, space, thinking, traits, withdrawn]
@@ -20,7 +21,7 @@ When I left home for college at the age of 17 and began to date, my relationship
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="If a boy I didn’t care for kept pursuing me, I couldn’t figure out how to escape without hurting him. " 
 
@@ -37,7 +38,7 @@ My opinions on social and political issues are pretty unshakeable, without shade
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="My intuitive, feeling, and judging functions, acting in concert, make me quick to respond to emergencies, especially those involving injury or danger to people or animals." 
 

@@ -2,6 +2,7 @@
 title: "Famous Infjs The Good And The Evil!"
 date: 2023-09-03T01:09:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1018/400/250
 category: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 
@@ -31,7 +32,7 @@ INFJ is one of the 16 personality types identified by the Myers-Briggs Type Indi
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"
 
 text1="They are also known as The Advocate or The Counselor. When famous INFJs worked for good, they were positive forces in the world. When they turned evil, they became dangerous and desperate people. " 
 

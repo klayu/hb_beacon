@@ -1,6 +1,7 @@
 ---
 title: "Is Romance in the Air? INFJ Meets ISFJ"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1027/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, introvert, judging, MBTI, Myers-Briggs, perceiving, personality, personality type, psychology, relationships, thinking, 'Tiger Woods']
@@ -14,7 +15,7 @@ The main difference between the two is that INFJs are more insightful. For examp
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="INFJs and ISFJs complement each other because they meet somewhere in the middle." 
 
@@ -57,7 +58,7 @@ INFJs and ISFJs do best when they appreciate their differences as well as their 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

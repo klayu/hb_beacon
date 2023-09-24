@@ -4,6 +4,7 @@ title: "Platzhaltertext"
 date: 2021-07-13
 description: "Lorem Ipsum Dolor Si Amet DE"
 tags: ["markdown", "text"]
+hidePageThumbnail : true 
 thumbnail: /blog-post.jpg
 ---
 

@@ -2,6 +2,7 @@
 title: "Is Romance in the Air? INFJ Meets INFJ"
 date: 2023-04-08T01:09:48-07:00
 # description: "Romance and compatibility between INFJ and  INFJ personality types."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1000/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -31,7 +32,7 @@ INFJs are a pleasure to collaborate with when they don’t get too driven. They 
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="By the time they share their insights with each other, they’ve usually covered all the bases." 
 
@@ -67,7 +68,7 @@ INFJs have a strong attraction for each other. To keep their relationship health
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

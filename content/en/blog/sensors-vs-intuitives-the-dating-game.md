@@ -1,6 +1,7 @@
 ---
 title: "Sensors vs. Intuitives—The Dating Game"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1042/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: [dating, intuitive, relationship, relationships, sensory]
@@ -14,7 +15,7 @@ Sensors are more tuned to their senses: how the date looks and sounds, whether h
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="The Intuitive is more interested in images conjured up by their imaginations—in other words, what the date should be like, more than what he or she actually is." 
 
@@ -51,7 +52,7 @@ For Sensors, it’s important that facts be presented correctly. The details are
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

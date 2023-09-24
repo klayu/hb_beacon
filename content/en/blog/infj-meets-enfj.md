@@ -2,6 +2,7 @@
 title: "INFJ Meets ENFJ"
 date: 2023-04-08T01:09:48-07:00
 # description: "The compatibility between INFJ and ENFJ personality types"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1060/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -25,7 +26,7 @@ Both INFJs and ENFJs have strong personalities, radiate authenticity, and rarely
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Both are skilled verbally, the INFJ more in writing than speaking. They have an eloquence that helps bring people together in a common cause. " 
 
@@ -44,7 +45,7 @@ If a partner cheats on them or breaks up the relationship, they suffer considera
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="They’re ashamed that things didn’t work out and feel that they’re somehow at fault. " 
 
@@ -61,7 +62,7 @@ If family problems arise, the parents may avoid discussing them at first, due to
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="When things get serious enough—and the happiness and comfort of others are at stake— they will bring the family together to resolve the issues. " 
 

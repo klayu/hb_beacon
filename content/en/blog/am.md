@@ -2,6 +2,7 @@
 title: "New Year’s Resolutions for INFJs"
 date: 2023-04-08T01:09:48-07:00
 # description: "New Year’s Resolutions for INFJs"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1052/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---
@@ -23,7 +24,7 @@ I am a good example:
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="- As a feeling (F) type, I am mindful of the effects of my actions on others and concerned about their well-being, although I can take my emotional tendencies too far." 
 

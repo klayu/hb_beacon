@@ -2,6 +2,7 @@
 title: "PSTD in INFJ Women After Sexual Assault"
 date: 2023-04-08T01:09:48-07:00
 # description: "INFJ women are more prone than other Myers-Briggs types to getting PTSD after sexual assault."
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1073/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---

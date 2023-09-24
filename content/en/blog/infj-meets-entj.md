@@ -2,6 +2,7 @@
 title: "INFJ meets ENTJ"
 date: 2023-09-03T01:10:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1028/400/250
 category: [INFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, introvert, judging, MBTI, Myers-Briggs, perceiving, personality, personality type, psychology, relationships, thinking, 'Tiger Woods']
@@ -18,7 +19,7 @@ ENTJs have a high regard for their own positions. INFJs must be the ones to esta
 
 <!-- {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 
@@ -30,7 +31,7 @@ text2=""
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Because ENTJs can be so intimidating, many people hesitate to be open and honest with them." 
 
@@ -51,9 +52,9 @@ ENTJs are usually drawn to attractive partners. This preference is a reflection 
 
 <div class="container">
     <div class="image">
-        <a href="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133" target="_blank">
+        <a href="/wp/what-makes-him-want-only-you/" target="_blank">
         <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  alt="">
+        <img src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  alt="">
         </a>
         
 </div>

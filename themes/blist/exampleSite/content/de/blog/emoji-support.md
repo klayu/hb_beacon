@@ -5,6 +5,7 @@ date: 2021-07-15
 lastmod: 2021-10-14
 description: "Anleitung zur Verwendung von Emojis in Hugo"
 tags: ["emoji"]
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1050/400/250
 ---
 

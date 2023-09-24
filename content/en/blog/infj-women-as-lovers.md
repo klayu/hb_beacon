@@ -2,6 +2,7 @@
 title: "INFJ Women as Lovers"
 date: 2023-08-02T01:10:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1023/400/250
 category: [INFJ, 'Myers-Briggs Personality Types', 'Women as Lovers']
 tag: ['INFJ', Women, Lovers,]
@@ -23,7 +24,7 @@ A man who initiates a relationship with an INFJ woman soon learns if his feeling
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="She’s an attentive lover who isn’t satisfied until she can give as much love as she receives. To her, lovemaking is more than a physical event. " 
 
@@ -39,7 +40,7 @@ Other men are likely to be attracted to an INFJ woman. She may or may not notice
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="She’ll appreciate this more than anything else he can do. " 
 
@@ -64,7 +65,7 @@ When courting an INFJ woman, men should keep several pointers in mind:
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Of all sixteen types, the INFJ has the greatest store of love and compassion to give in a relationship. If you find an INFJ woman, treasure her. " 
 

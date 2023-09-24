@@ -1,6 +1,7 @@
 ---
 title: "INFJ Meets ESTJ"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1041/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, introvert, judging, MBTI, Myers-Briggs, perceiving, personality, personality type, psychology, relationships, thinking, 'Tiger Woods']
@@ -15,7 +16,7 @@ You’ll avoid frustration in friendships with ESTJs if you make an effort to un
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="ESTJs are guided mainly by rules, principles, and traditional values. INFJs adopt novel approaches to problems and bypass convention. " 
 
@@ -68,7 +69,7 @@ ESTJs known for their quick tempers include Lyndon Johnson, Bette Davis, and Her
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="" 
 

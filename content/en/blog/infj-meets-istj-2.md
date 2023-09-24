@@ -2,6 +2,7 @@
 title: "INFJ Meets ISTJ"
 date: 2023-08-02T02:10:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1024/400/250
 category: [INFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, introvert, judging, MBTI, Myers-Briggs, perceiving, personality, personality type, psychology, relationships, thinking, 'Tiger Woods']
@@ -12,7 +13,7 @@ It’s fair to say that any two people with this combination of Myers-Briggs tra
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="The INFJ is introverted (I), intuitive (N), feeling (F), and judging (J). The ISTJ shares the introverted, judging traits, but is a sensing (S) and (T) thinking type. " 
 
@@ -35,7 +36,7 @@ INFJs are impatient with themselves, but tolerate the idiosyncrasies of others, 
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="While ISTJs make loyal partners, they are seldom outwardly sentimental, rarely putting their feelings into words. " 
 
@@ -63,7 +64,7 @@ The INFJ, being capable of more insight than the ISTJ, may need to make the grea
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="When handled patiently and given down-to-earth reasons for requests, ISTJs who were once difficult partners may become more spontaneous and tolerant." 
 

@@ -1,6 +1,7 @@
 ---
 title: "INFJ Meets ESFP"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1039/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, introvert, judging, MBTI, Myers-Briggs, perceiving, personality, personality type, psychology, relationships, thinking, 'Tiger Woods']
@@ -18,7 +19,7 @@ When an INFJ and ESFP are getting ready to go to a party, the INFJ may say, “D
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="If you’re bored we can leave early." 
 
@@ -40,7 +41,7 @@ INFJs and ESFPs are also worlds apart on their perceiving (P) and judging (J) tr
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Perceiving ESFPs are easy-going and fun-loving. If they’re a little late for an appointment or miss it entirely, oh well. Manaña is the name of the game." 
 

@@ -1,6 +1,7 @@
 ---
 title: "Perceiving vs. Judging—The Dating Game"
 date: 2023-08-02T01:10:48-07:00
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1036/400/250
 category: [INFJ,ISFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: [conflict, dating, judging, perceiving, relationship, relationships]
@@ -13,7 +14,7 @@ The differences between a Perceiver and Judger are hard to hide on a day-to-day 
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="Or a smooth-talking Thinker may come across as a Feeling type when he or she is anything but. " 
 
@@ -35,7 +36,7 @@ Notice that the Perceiver makes no judgments about the new library. She’s seen
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="This example is pretty tame compared with many of the scenarios faced by couples, based on their attitudes and outlook." 
 

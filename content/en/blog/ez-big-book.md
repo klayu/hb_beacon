@@ -2,6 +2,7 @@
 title: "Finally, an Updated Version of the Big Book of AA for Today’s Reader"
 date: 2023-04-08T01:09:48-07:00
 # description: "The EZ Big Book of Alcoholics Anonymous"
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1058/400/250
 tags: ["INFJ","Myers-Briggs Type Indicator", "wildlife","wild-dogs","pets","animal-welfare"]
 ---

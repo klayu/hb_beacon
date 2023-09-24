@@ -4,6 +4,7 @@ title: "Reichhaltiger Inhalt"
 date: 2021-07-13
 description: "Eine kurze Beschreibung von Hugo Shortcodes"
 tags: ["shortcodes", "privacy"]
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1002/400/250
 ---
 

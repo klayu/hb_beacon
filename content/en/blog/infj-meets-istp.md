@@ -2,6 +2,7 @@
 title: "INFJ Meets ISTP"
 date: 2023-08-02T01:10:48-07:00
 # description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
+hidePageThumbnail : true 
 thumbnail: https://picsum.photos/id/1022/400/250
 category: [INFJ, 'Myers-Briggs Personality Types', 'Your Secret Self']
 tag: ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, introvert, judging, MBTI, Myers-Briggs, perceiving, personality, personality type, psychology, relationships, thinking, 'Tiger Woods']
@@ -23,7 +24,7 @@ When an ISTP and INFJ collect information to make a big decision, such as what c
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="The ISTP’s private opinion is that the INFJ rushes to conclusions without taking enough precautions. " 
 
@@ -45,7 +46,7 @@ It takes effort and patience to make an ISTP-INFJ relationship work. The two mus
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="https://mb102.com/lnk.asp?o=9570&c=116306&a=695290&k=1A84C0DEB2A9C2E51159AF5897F12683&l=9133"  
+leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
 text1="As close friends, INFJs and ISTPs enjoy sharing experiences quietly, away from crowds. " 
 
