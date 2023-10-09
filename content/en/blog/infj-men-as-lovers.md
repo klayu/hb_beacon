@@ -15,7 +15,7 @@ Have no fear that he’ll leave you on a whim. He’s steadfast and loyal. Hurti
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbannertop src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="If your relationship stands the test of time, you can look forward to years of meaningful companionship." 
 
@@ -61,7 +61,7 @@ text2=""
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbanner src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="Of all sixteen types, the INFJ has the greatest capacity for love and compassion in a relationship. If you find an INFJ man, hang on. " 
 

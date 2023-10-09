@@ -17,21 +17,10 @@ While the two types can become close friends, INFJs should be mindful of the ENT
 
 ENTJs have a high regard for their own positions. INFJs must be the ones to establish limits in the relationship, firmly but tactfully setting their boundaries. Most ENTJs have sharp enough intuition to recognize the need for tact if they want to keep the INFJ’s friendship.
 
-<!-- {{< 
-
-leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
-
-text1="" 
-
-text2=""
-
->}} -->
-
-
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbannertop src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="Because ENTJs can be so intimidating, many people hesitate to be open and honest with them." 
 
@@ -50,23 +39,17 @@ The major difference between INFJs and ENTJs lies in their need to influence or 
 
 ENTJs are usually drawn to attractive partners. This preference is a reflection of their high standards. Most ENTJ men prefer beautiful women and most ENTJ women like handsome, confident men. To get along with an ENTJ in a relationship, an INFJ needs a well-developed sense of self. It helps to have a sense of humor.
 
-<div class="container">
-    <div class="image">
-        <a href="/wp/what-makes-him-want-only-you/" target="_blank">
-        <!-- <img src="https://maxbounty.com/resources/getimage.asp?a=695290&m=2770&o=9570&i=116306.dat" alt=""> -->
-        <img src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  alt="">
-        </a>
-        
-</div>
-    <div class="textspace"></div>
-    <div class="text">
-<p>
-If you’re an INFJ man, you may find ENTJ women intimidating. They are hard for many men to accept. 
 
-In fact, women of this personality type can be quite nurturing and caring. Their femininity isn’t expressed in traditional ways.
-</p>
-    </div>
-</div>
+{{< 
+
+leftbanner src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
+
+text1="If you’re an INFJ man, you may find ENTJ women intimidating. They are hard for many men to accept." 
+
+text2="In fact, women of this personality type can be quite nurturing and caring. Their femininity isn’t expressed in traditional ways."
+
+>}}
+
 
 When their confrontational style surfaces, the most effective way to avoid conflict is to deflect arguments with humor and good will.
 
@@ -98,10 +81,3 @@ In business settings, the two types complement each other. INFJs make good advis
 Eleanor Roosevelt, an INFJ and the wife of U.S. President Franklin Delano Roosevelt, was a renowned humanitarian and U.S. Peace Ambassador. 
 
 Margaret Thatcher, an ENTJ, was the first female Prime Minister of Great Britain.
-
-<div style="background-color: #FFD1DC; border-radius: 9px;">
-Do you know the unusual pattern of signals men look for in a romantic relationship ? Is there anything I can to to bring back that lost spark that is backed by research ? 
-
-Read my next blog : <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">here</a>.</br></br>It explains the <a id="aflink" href="/wp/what-makes-him-want-only-you" class="two" target="_blank" title="Video : This is the “secret ingredient” to his lasting commitment">#1 hidden signal</a> that either repels a man or makes 
-him feel irresistibly attracted to you.
-</div>

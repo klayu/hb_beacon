@@ -24,7 +24,7 @@ A man who initiates a relationship with an INFJ woman soon learns if his feeling
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbannertop src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="She’s an attentive lover who isn’t satisfied until she can give as much love as she receives. To her, lovemaking is more than a physical event. " 
 
@@ -40,7 +40,7 @@ Other men are likely to be attracted to an INFJ woman. She may or may not notice
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbanner src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="She’ll appreciate this more than anything else he can do. " 
 
@@ -65,7 +65,7 @@ When courting an INFJ woman, men should keep several pointers in mind:
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbanner src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="Of all sixteen types, the INFJ has the greatest store of love and compassion to give in a relationship. If you find an INFJ woman, treasure her. " 
 
