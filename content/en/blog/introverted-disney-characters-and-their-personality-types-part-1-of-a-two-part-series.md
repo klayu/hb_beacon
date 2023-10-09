@@ -29,7 +29,7 @@ In the Disney film bearing her name, Alice in Wonderland embodies the INTP perso
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbannertop src="/images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"
 
 text1="Much like INTPs, Alice possesses an inquisitive mind, constantly questioning everything around her, and testing new ideas for accuracy." 
 
@@ -108,7 +108,7 @@ ISTPs, as keen observers of life, remain logical and adaptable in any situation,
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbanner src="/images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325" 
 
 text1="Stay tuned for Part 2, where we'll explore Extraverted Disney Characters and their unique personality types in the next blog." 
 
