@@ -30,7 +30,7 @@ Some common traits of extroverted personalities include:
 
 {{< 
 
-leftbannertop src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbannertop src="/images/300x250-Feeder-cat.gif" adlink="https://www.amazon.com/Petory-Automatic-Cat-Feeders-Wi-Fi/dp/B0B376CLN3/ref=sr_1_8?crid=2V27A8A8YBBH0&amp;keywords=feed%252Bdogs&amp;qid=1696819494&amp;sprefix=feed%252Bdog%252Caps%252C166&amp;sr=8-8&amp;ufe=app_do%253Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&amp;th=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=1118134b5807067044583f809c38f993&camp=1789&creative=9325"  
 
 text1="- Action-oriented and prefer hands-on learning" 
 
@@ -62,7 +62,7 @@ The Extroverted Myers-Briggs Personality Type is characterized by a preference f
 
 {{< 
 
-leftbanner src="/images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+leftbanner src="/images/300x250-Feeder-cat.gif" adlink="https://www.amazon.com/Petory-Automatic-Cat-Feeders-Wi-Fi/dp/B0B376CLN3/ref=sr_1_8?crid=2V27A8A8YBBH0&amp;keywords=feed%252Bdogs&amp;qid=1696819494&amp;sprefix=feed%252Bdog%252Caps%252C166&amp;sr=8-8&amp;ufe=app_do%253Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&amp;th=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=1118134b5807067044583f809c38f993&camp=1789&creative=9325"  
 
 text1="While it may be challenging to assign specific personality types to animals, some common traits observed in extroverted animals include playfulness, social interaction, and curiosity. " 
 
