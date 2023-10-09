@@ -20,7 +20,7 @@ ENTJs have a high regard for their own positions. INFJs must be the ones to esta
 
 {{< 
 
-leftbannertop src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
+leftbannertop src="/images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="Because ENTJs can be so intimidating, many people hesitate to be open and honest with them." 
 
@@ -42,7 +42,7 @@ ENTJs are usually drawn to attractive partners. This preference is a reflection 
 
 {{< 
 
-leftbanner src="images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
+leftbanner src="/images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
 
 text1="If you’re an INFJ man, you may find ENTJ women intimidating. They are hard for many men to accept." 
 
