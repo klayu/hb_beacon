@@ -19,7 +19,10 @@ timeout = 600000
   blog = "/wp/:filename"
   page = "/:filename"
 
-
+[taxonomies]
+  category = 'category'
+  tag = 'tag'
+  
 [languages]
   [languages.en]
     contentDir = "content/en"
@@ -31,26 +34,25 @@ timeout = 600000
       introPhoto = "/tpdne_poster.png"
       logo = "/blist-logo.png"
     [[languages.en.menu.main]]
-        name = "Free \"MBTI\" Test"
-        url = "wp/free-myers-briggs-type-indicator-mbti-test/"
-        weight = 1      
-    [[languages.en.menu.main]]
         name = "Blog"
         url = "blog"
-        weight = 2
+        weight = 1
     [[languages.en.menu.main]]
         name = "Category"
         url = "category"
-        weight = 3
+        weight = 2
     [[languages.en.menu.main]]
         name = "Tags"
         url = "tag"
-        weight = 4
+        weight = 3
     [[languages.en.menu.main]]
         name = "Privacy Policy"
         url = "https://g.ezoic.net/privacy/beaconstreetusa.com"
-        weight = 5
-
+        weight = 4
+    [[languages.en.menu.main]]
+        name = "Free \"MBTI\" Test"
+        url = "wp/free-myers-briggs-type-indicator-mbti-test/"
+        weight = 5   
 
 #    [[languages.en.menu.main]]
 #        name = "Subscribe"

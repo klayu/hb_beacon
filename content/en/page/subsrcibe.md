@@ -1,6 +1,5 @@
 ---
 title: Subsrcibe
-menu: main
 hideMeta : true
 noComment: true
 ---
