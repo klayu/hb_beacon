@@ -19,9 +19,6 @@ timeout = 600000
   blog = "/wp/:filename"
   page = "/:filename"
 
-[taxonomies]
-  category = 'category'
-  tag = 'tag'
 
 [languages]
   [languages.en]
