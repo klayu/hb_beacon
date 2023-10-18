@@ -342,11 +342,6 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://BeaconStreetUSA.com/wp/what-makes-him-want-only-you/</loc>
-    <lastmod>2023-09-01T01:09:48-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://BeaconStreetUSA.com/wp/mary-anne-macleod-trump-donald-trumps-mother/</loc>
     <lastmod>2023-08-18T01:09:48-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -654,6 +649,11 @@
   </url><url>
     <loc>https://BeaconStreetUSA.com/category/women-as-lovers/</loc>
     <lastmod>2023-08-02T01:10:48-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://BeaconStreetUSA.com/wp/what-makes-him-want-only-you/</loc>
+    <lastmod>2023-06-01T01:09:48-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
