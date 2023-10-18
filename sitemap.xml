@@ -652,11 +652,6 @@
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://BeaconStreetUSA.com/wp/what-makes-him-want-only-you/</loc>
-    <lastmod>2023-06-01T01:09:48-07:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url><url>
     <loc>https://BeaconStreetUSA.com/wp/are-you-a-sensor-or-an-intuitive/</loc>
     <lastmod>2023-04-08T01:09:48-07:00</lastmod>
     <changefreq>daily</changefreq>
@@ -809,6 +804,11 @@
   </url><url>
     <loc>https://BeaconStreetUSA.com/wp/your-study-habits/</loc>
     <lastmod>2023-04-08T01:09:48-07:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://BeaconStreetUSA.com/wp/what-makes-him-want-only-you/</loc>
+    <lastmod>2023-03-01T01:09:48-07:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
