@@ -45,14 +45,14 @@ timeout = 600000
         name = "Tags"
         url = "tag"
         weight = 3
-    [[languages.en.menu.main]]
-        name = "Privacy Policy"
-        url = "https://g.ezoic.net/privacy/beaconstreetusa.com"
-        weight = 4
+#    [[languages.en.menu.main]]
+#        name = "Privacy Policy"
+#        url = "https://g.ezoic.net/privacy/beaconstreetusa.com"
+#        weight = 4
     [[languages.en.menu.main]]
         name = "Free \"MBTI\" Test"
         url = "wp/free-myers-briggs-type-indicator-mbti-test/"
-        weight = 5   
+        weight = 4   
 
 #    [[languages.en.menu.main]]
 #        name = "Subscribe"
