@@ -6,7 +6,7 @@ lastmod: 2021-10-14
 description: "Anleitung zur Verwendung von Emojis in Hugo"
 tags: ["emoji"]
 hidePageThumbnail : true 
-thumbnail: https://picsum.photos/id/1050/400/250
+thumbnail: https://picsum.photos/id/1050/800/600
 ---
 
 Emojis können in einem Hugo-Projekt auf verschiedene Weise aktiviert werden.

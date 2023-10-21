@@ -1,0 +1,99 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "about me"
+url = "about"
+weight = 1
+
+[[main]]
+weight = 2
+name = "Blog"
+url = "wp/extraverted-animals-and-their-myers-briggs-personality-types/"
+
+[[main]]
+weight = 3
+name = "pages"
+hasChildren = true
+
+
+  [[main]]
+  parent = "pages"
+  name = "privacy policy"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "pages"
+  name = "categories"
+  url = "categories/myers-briggs-personality-types/"
+
+  [[main]]
+  parent = "pages"
+  name = "tags"
+  url = "tags/lifestyle/"
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 3
+
+
+# offcanvas menu
+[[offcanvas]]
+name = "Home"
+url = ""
+weight = 1
+
+[[offcanvas]]
+weight = 2
+name = "Blog"
+url = "wp/extraverted-animals-and-their-myers-briggs-personality-types/"
+
+
+[[offcanvas]]
+name = "about me"
+url = "about"
+weight = 2
+
+[[offcanvas]]
+weight = 3
+name = "pages"
+hasChildren = true
+
+
+  [[offcanvas]]
+  parent = "pages"
+  name = "privacy policy"
+  url = "privacy-policy/"
+
+  [[offcanvas]]
+  parent = "pages"
+  name = "categories"
+  url = "categories/myers-briggs-personality-types/"
+
+  [[offcanvas]]
+  parent = "pages"
+  name = "tags"
+  url = "tags/lifestyle/"
+
+
+[[offcanvas]]
+name = "contact"
+url = "contact"
+weight = 4
+
+# footer menu
+[[footer]]
+name = "facebook"
+URL = "/"
+weight = 1
+
+[[footer]]
+name = "instagram"
+URL = "/"
+weight = 2
+
+[[footer]]
+name = "twitter"
+URL = "/"
+weight = 3

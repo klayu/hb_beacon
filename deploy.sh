@@ -31,7 +31,9 @@ git remote -v
 # find ../gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
 rm -f hugo.toml
 rm -rf publicTmp
+echo "Deleted old publicTmp"
 mkdir publicTmp
+echo "Created new publicTmp"
 
 echo "Generating site"
 npm run build
