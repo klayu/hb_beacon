@@ -23,15 +23,15 @@ Grass-fed livestock yields more than the recommended daily allowance (RDA) of me
 
 According to animal production data that tracks use of fossil energy from the feed trough to the dinner table, broiler chickens provide the most efficient use of fossil energy—beef the least. Producing chicken meat consumes energy in a 4:1 ratio to protein output, whereas the ratio is 54:1 for beef. Mutton is nearly as inefficient at 50:1.
 
-Animal agriculture is a leading user of water resources in the U.S. For every kilogram of meat produced by grain-fed beef production, 100,000 liters of water are required, Chickens take dramatically less to make a kilogram of meat: 3500 liters of water per kilogram. In contrast, soybean production uses only 2000 liters. Potatoes require 500 liters.
+
 
 {{< 
 
 leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
-text1="With severe water shortages in the Western and Southern U.S., the situation is rapidly worsening as the growing population needs more and more water to meet its needs—not only urban users, but also farmers and ranchers." 
+text1="Animal agriculture is a leading user of water resources in the U.S. For every kilogram of meat produced by grain-fed beef production, 100,000 liters of water are required, Chickens take dramatically less to make a kilogram of meat: 3500 liters of water per kilogram. In contrast, soybean production uses only 2000 liters. Potatoes require 500 liters." 
 
-text2=""
+text2="With severe water shortages in the Western and Southern U.S., the situation is rapidly worsening as the growing population needs more and more water to meet its needs—not only urban users, but also farmers and ranchers."
 
 >}}
 
@@ -48,13 +48,3 @@ Facts
 - The U.S. produces almost 7 million tons of animal protein per year, enough to supply every American man, woman, and child with 75 grams per day The RDA of protein for a mixed diet—meat and plant sources combined—is 56 grams per day.
 
 - If all the grain now fed to livestock in the U.S. were exported and ranchers switched to grass-fed beef, the average American diet would drop from 75 to 29 grams of protein per day. That plus levels of average plant-protein consumption would yield more than the RDA for adults.
-
-{{< 
-
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
-
-text1="" 
-
-text2=""
-
->}}

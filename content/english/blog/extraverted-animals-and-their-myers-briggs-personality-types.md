@@ -29,24 +29,27 @@ Some common traits of extroverted personalities include:
 - Optimistic and spontaneous
 - Focus on the present and immediate gratification
 - Enjoy social interaction and thrive in group settings
-
-{{< 
-
-leftbannertop src="/ad_images/300x250-Feeder-cat.gif" adlink="https://www.amazon.com/Petory-Automatic-Cat-Feeders-Wi-Fi/dp/B0B376CLN3/ref=sr_1_8?crid=2V27A8A8YBBH0&amp;keywords=feed%252Bdogs&amp;qid=1696819494&amp;sprefix=feed%252Bdog%252Caps%252C166&amp;sr=8-8&amp;ufe=app_do%253Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&amp;th=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=1118134b5807067044583f809c38f993&camp=1789&creative=9325"  
-
-text1="- Action-oriented and prefer hands-on learning" 
-
-text2="- Take risks and embrace new experiences"
-
->}}
+- Action-oriented and prefer hands-on learning
+- Take risks and embrace new experiences
 
 **Animals with Extroverted Myers-Briggs Personality Type**
 
 Animals, like humans, can exhibit different personality traits. While it may be challenging to assign a specific Myers-Briggs type to an animal, we can identify some common traits and behaviors that align with the Extroverted personality type. Here are a few examples:
 
-1. Dolphins: Dolphins are known for their playful and social nature. They often engage in group activities, such as swimming and playing together. They are also highly intelligent and curious, which aligns with the Extroverted personality's preference for learning through hands-on experience.
 
-2. Dogs: Dogs are typically outgoing, energetic, and enthusiastic, especially when interacting with their owners or other people. They enjoy being part of a pack and often thrive in social situations. Their eagerness to learn and adapt to new environments also aligns with the Extroverted personality type.
+{{< 
+
+leftbannertop src="/ad_images/300x250-Feeder-cat.gif" adlink="https://www.amazon.com/Petory-Automatic-Cat-Feeders-Wi-Fi/dp/B0B376CLN3/ref=sr_1_8?crid=2V27A8A8YBBH0&amp;keywords=feed%252Bdogs&amp;qid=1696819494&amp;sprefix=feed%252Bdog%252Caps%252C166&amp;sr=8-8&amp;ufe=app_do%253Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&amp;th=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=1118134b5807067044583f809c38f993&camp=1789&creative=9325"  
+
+text1="1. Dolphins: Dolphins are known for their playful and social nature. They often engage in group activities, such as swimming and playing together. They are also highly intelligent and curious, which aligns with the Extroverted personality's preference for learning through hands-on experience." 
+
+text2="2. Dogs: Dogs are typically outgoing, energetic, and enthusiastic, especially when interacting with their owners or other people. They enjoy being part of a pack and often thrive in social situations. Their eagerness to learn and adapt to new environments also aligns with the Extroverted personality type."
+
+>}}
+
+
+
+
 
 3. Chimpanzees: Chimpanzees are highly social animals that form strong bonds with their group members. They are known for their playful and energetic nature, as well as their curiosity and willingness to explore new environments. These traits are consistent with the Extroverted personality type.
 
@@ -68,8 +71,7 @@ leftbanner src="/ad_images/300x250-Feeder-cat.gif" adlink="https://www.amazon.co
 
 text1="While it may be challenging to assign specific personality types to animals, some common traits observed in extroverted animals include playfulness, social interaction, and curiosity. " 
 
-text2=""
+text2="To identify the Extroverted personality type in humans, look for signs of social interaction, energy levels, focus on the present, risk-taking, and hands-on learning preferences."
 
 >}}
 
-To identify the Extroverted personality type in humans, look for signs of social interaction, energy levels, focus on the present, risk-taking, and hands-on learning preferences.

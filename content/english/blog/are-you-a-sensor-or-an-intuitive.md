@@ -63,8 +63,6 @@ text2="• At work, Sensors focus on their own jobs and responsibilities rather 
 
 • They’d rather fantasize about how they’re going to spend their next paycheck than sit down and balance their checkbook.
 
-<p><a id="aflink" href="https://hop.clickbank.net/?affiliate=klayu&vendor=hissecret&lp=0" class="one" target="_blank" title="⚡The “secret ingredient” to lasting commitment ! ⚡">⚡The “secret ingredient” to lasting commitment ! ⚡</a></p>
-
 **A Little of Both**
 
 If you’re like most people you’re neither 100 percent Sensing nor 100 percent Intuitive.  One trait will tend to be dominant, however. Myers and Briggs specified that the traits are “preferences” suggesting that it’s possible to modify them some of the time. This is particularly obvious in the Thinking and Feeling preferences. While the Thinker may be logical and dispassionate about decisions most of the time, he or she may  turn almost entirely to the Feeling preference if the family dog is injured. The Thinker will engage Feeling preferences for the occasion, putting everything aside, including finances, for the welfare of the pet.

@@ -16,6 +16,7 @@ Visit the [Hugo](https://gohugo.io) website! -->
 <!-- https://beaconstreetusa.com/wp/ez-big-book/ -->
 
 ![ez-big-book-of-aa](/ez-big-book-of-aa.png)
+
 The EZ Big Book of Alcoholics Anonymous is a paragraph by paragraph “translation” of the original Alcoholics Anonymous—known to AA members as the Big Book—published by AA founder Bill Wilson in the 1930s. The EZ Big Book carries the AA message to readers who find the original text hard to digest for any reason. The language is gender neutral and embraces modern lifestyles. The references to spirituality are more inclusive. Worldwide demand for this modern language version, first published in 2010, has resulted in publication of this Second Edition.
 
 • True to the original text

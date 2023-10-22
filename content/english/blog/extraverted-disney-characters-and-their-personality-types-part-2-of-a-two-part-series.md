@@ -24,15 +24,13 @@ We see reflections of own personalities in characters like Jiminy Cricket, Alice
 
 Buzz Lightyear, a toy space ranger in “Toy Story,” is known for his bravery and courage. ENTJ Buzz believes in following the rules. Though a great leader, he’s sometimes impulsive and demanding. He’s a skilled warrior in hand-to-hand combat and stays in peak physical condition. In “Toy Story 2,” Buzz leads a toy gang to rescue Woody, who has been captured by a greedy toy collector.
 
-ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real life, ENTJs are born leaders. Confident and outgoing, they have a need to run things. 
-
 {{< 
 
 leftbannertop src="/ad_images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"  
 
-text1="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. " 
+text1="ENTJs are extraverted (E), intuitive (N), thinking (T), and judging (J). In real life, ENTJs are born leaders. Confident and outgoing, they have a need to run things. " 
 
-text2="They can be hard on people who fail to live up to their standards."
+text2="To them, life is full of people who can transform their visions into realities. To the ENTJ, the world is a treasure trove of possibilities, all of them within reach. They can be hard on people who fail to live up to their standards."
 
 >}}
 
@@ -74,15 +72,15 @@ ESTPs are extraverted (E), sensing (S), thinking (T), and perceiving (P). ESTPs 
 
 The main character in Disney’s animated movie “Snow White and the Seven Dwarves” is a beautiful young princess living with an evil stepmother. Snow White, an ESFJ, is so innocent that she can see no evil in the world. This makes her a target for her jealous stepmother, who plots to kill her with a poisoned apple. Only the kiss of a handsome prince is able to wake her from a “sleeping death.”
 
-ESFJs are extraverted (E), sensing (S), feeling (F), and judging (J). Snow White shows the nurturing side of the ESFJ personality as she looks after the Seven Dwarves in their forest home. At their best, ESFJs are good at taking care of others and meeting their needs. 
+
 
 {{< 
 
 leftbanner src="/ad_images/300x250-Disney.gif" adlink="https://www.amazon.com/UPORPOR-Encanto-Mirabel-Birthday-Halloween/dp/B0B28SN4CW/ref=sr_1_19_sspa?crid=2IUQ5PCHLK8K4&amp;keywords=disney+costumes&amp;qid=1696821432&amp;sprefix=disnet%252Caps%252C255&amp;sr=8-19-spons&amp;sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&amp;psc=1&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=15ba5cbf8a27d25ca5fa90d982f490ee&camp=1789&creative=9325"  
 
-text1="They are congenial, loyal and responsible, placing a high value on harmony." 
+text1="ESFJs are extraverted (E), sensing (S), feeling (F), and judging (J). Snow White shows the nurturing side of the ESFJ personality as she looks after the Seven Dwarves in their forest home. At their best, ESFJs are good at taking care of others and meeting their needs. " 
 
-text2="They need concrete priorities in their lives that are clear and practical."
+text2="They are congenial, loyal and responsible, placing a high value on harmony. They need concrete priorities in their lives that are clear and practical."
 
 >}}
 

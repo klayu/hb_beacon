@@ -20,15 +20,16 @@ With advancing age, their Myers-Briggs personality scores of people can change, 
 **ESTPs in Retirement**
 
 ![ESTP Elders](/ESTP_Elders.jpg)
-ESTP elders continue to have the same characteristics they did when younger. Many of them choose to retire early so they’ll have more time to do the things that are fun. They like activities which require solving problems that are often difficult and tense. While they may take part in various organizations, they avoid leadership positions. Taking charge is not in their repertoire. They become involved mainly for the activities. 
+
+ESTP elders continue to have the same characteristics they did when younger. Many of them choose to retire early so they’ll have more time to do the things that are fun. They like activities which require solving problems that are often difficult and tense. 
 
 {{< 
 
 leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
-text1="When grandchildren arrive, the elders take pleasure in outings to the zoo, sports events, and so on. " 
+text1="While they may take part in various organizations, they avoid leadership positions. Taking charge is not in their repertoire. They become involved mainly for the activities. " 
 
-text2="Children love their spontaneity and ability to improvise games on the spot."
+text2="When grandchildren arrive, the elders take pleasure in outings to the zoo, sports events, and so on. Children love their spontaneity and ability to improvise games on the spot."
 
 >}}
 
@@ -39,17 +40,12 @@ Because ESTJs often have a long history in of employment, their financial needs 
 **ESFPs in retirement**
 
 ![ESFP Elders](/ESFP_Elders.jpg)
+
 In retirement, ESFPs continue their people-oriented life, keeping old friends and continuing to provide the amusement and comradeship of years past. They have an optimism that is contagious and draws others to them. When ESFPs have unfortunate experiences, they’re often able to look at the sunny side. While some nursing home residents despair about their futures, ESFPs are likely to enjoy new friends, freedom from responsibilities, and new activities to participate in. 
 
-{{< 
+Because their friends of the past have enjoyed them so much over the years, they’re unlikely to abandon the friendship.
 
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
-
-text1="Because their friends of the past have enjoyed them so much over the years, they’re unlikely to abandon the friendship. " 
-
-text2="The want to help out where they can."
-
->}}
+The want to help out where they can.
 
 **ESFJs in retirement**
 
@@ -62,6 +58,7 @@ ENFPs remain young in spirit as they age, maintaining characteristics from their
 **ENFJs in retirement**
 
 ![ENFJ Elders](/ENFJ_Elders.jpg)
+
 ENFJs leaving full-time employment often look for places to live where they have family and friends or other close personal ties. Relationships and values were always important to this type, but they become even more so in retirement. Many ENFJs who previously did service work on the job, look for similar opportunities on a volunteer basis. They do this gladly, believing that an important goal in life is to help others. One of the lessons many need to learn is to let others help them some of the time. They are so used to giving help that it’s hard for them to imagine accepting it. ENFJs go out of their way to encouraging their grandchildren, reading to them, helping them with homework, etc.
 
 **ENTPs in retirement**
@@ -71,14 +68,9 @@ ENTP have many inspiring ideas and projects during their working years, and thes
 **ENTJs in retirement**
 
 ![ENTJ Elders](/ENTJ_Elders.jpg)
+
 All their lives, ENTJs have been rewarded with leadership positions at work and in community organizations. They have always had a strategy in which potential for future gain outweighs risks. Because they are hard drivers with strong goal orientation, the prospect of retirement and long lazy days may be daunting to them. Inactivity makes them restless and the thought of filling their time with nothing of consequence dismays them. The chances are that finances are no problem because their careers have been so successful. Many continue to work as consultants to the same firms where they were previously employed. 
 
-{{< 
+Maintaining autonomy is one of their major retirement goals. 
 
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
-
-text1="Maintaining autonomy is one of their major retirement goals. " 
-
-text2="They need to learn to rely on others some of the time even though it’s difficult for them."
-
->}}
+They need to learn to rely on others some of the time even though it’s difficult for them.

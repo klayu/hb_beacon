@@ -17,15 +17,15 @@ Both types tend to be misunderstood, partly because they are so rare—together 
 
 **Depression in INFJs**
 
-INFJs can assuage their guilt with the knowledge that they are doing the best they can, realizing that most of us have less power in the world than we think. It’s acceptable and necessary for them to take time for themselves to replenish their energy. Instead of chastising themselves for their impotence, they should realize that even a small difference means a lot. As Eleanor Roosevelt once said, “It is better to light one candle than to curse the darkness.”
+INFJs can assuage their guilt with the knowledge that they are doing the best they can, realizing that most of us have less power in the world than we think. It’s acceptable and necessary for them to take time for themselves to replenish their energy. 
 
 {{< 
 
 leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
-text1="* INFJs experience loneliness much of time. It’s hard for most people to read the feelings of INFJs because they are highly sensitive, quiet, and self-contained. For this reason, few people really understand them." 
+text1="Instead of chastising themselves for their impotence, they should realize that even a small difference means a lot. As Eleanor Roosevelt once said, “It is better to light one candle than to curse the darkness.”" 
 
-text2=""
+text2="INFJs experience loneliness much of time. It’s hard for most people to read the feelings of INFJs because they are highly sensitive, quiet, and self-contained. For this reason, few people really understand them."
 
 >}}
 
@@ -49,7 +49,7 @@ INFPs, much like INFJs, are prone to depression because of their naturally sensi
 
 * INFPs are idealists, holding unrealistic expectations of others. This is especially true of their love relationships. No human could live up to the expectations they’ve erected in their own minds. When a relationship falls apart, they are devastated, triggering a cascade of other emotional problems.
 
-* Their naiveté makes them an easy target for toxic individuals. Because their own intentions and morals are above reproach, they think that’s true of all other people. Even when the actions of others show hostile intent, INFPs tend to discount their suspicions because it’s so far from anything they would do. 
+
 
 
 
@@ -57,9 +57,9 @@ INFPs, much like INFJs, are prone to depression because of their naturally sensi
 
 leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
 
-text1="* They can’t imagine that anyone would hurt them intentionally. It takes many years of living to discover the bitter truth—that many unfriendly acts are done on purpose." 
+text1="* Their naiveté makes them an easy target for toxic individuals. Because their own intentions and morals are above reproach, they think that’s true of all other people. Even when the actions of others show hostile intent, INFPs tend to discount their suspicions because it’s so far from anything they would do. " 
 
-text2=""
+text2="* They can’t imagine that anyone would hurt them intentionally. It takes many years of living to discover the bitter truth—that many unfriendly acts are done on purpose."
 
 >}}
 
