@@ -1,1 +1,1 @@
-i94card
+hb_beacon

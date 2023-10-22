@@ -2,98 +2,69 @@
 
 # main menu
 [[main]]
-name = "about me"
-url = "about"
+name = "Blog"
+url = "/blog"
 weight = 1
 
 [[main]]
-weight = 2
-name = "Blog"
-url = "wp/extraverted-animals-and-their-myers-briggs-personality-types/"
-
-[[main]]
-weight = 3
-name = "pages"
-hasChildren = true
-
-
-  [[main]]
-  parent = "pages"
-  name = "privacy policy"
-  url = "privacy-policy/"
-
-  [[main]]
-  parent = "pages"
-  name = "categories"
-  url = "categories/myers-briggs-personality-types/"
-
-  [[main]]
-  parent = "pages"
-  name = "tags"
-  url = "tags/lifestyle/"
-
-[[main]]
-name = "Contact"
-url = "contact"
-weight = 3
-
-
-# offcanvas menu
-[[offcanvas]]
-name = "Home"
-url = ""
-weight = 1
-
-[[offcanvas]]
-weight = 2
-name = "Blog"
-url = "wp/extraverted-animals-and-their-myers-briggs-personality-types/"
-
-
-[[offcanvas]]
-name = "about me"
-url = "about"
+name = "Personality Types"
+url = "/categories/myers-briggs-personality-types/"
 weight = 2
 
-[[offcanvas]]
-weight = 3
-name = "pages"
-hasChildren = true
 
+# [[main]]
+# name = "About"
+# url = "about/"
+# weight = 2
 
-  [[offcanvas]]
-  parent = "pages"
-  name = "privacy policy"
-  url = "privacy-policy/"
+# [[main]]
+# name = "Elements"
+# url = "elements/"
+# weight = 3
 
-  [[offcanvas]]
-  parent = "pages"
-  name = "categories"
-  url = "categories/myers-briggs-personality-types/"
+# [[main]]
+# weight = 4
+# name = "Pages"
+# hasChildren = true
 
-  [[offcanvas]]
-  parent = "pages"
-  name = "tags"
-  url = "tags/lifestyle/"
+# [[main]]
+# parent = "Pages"
+# name = "Blog"
+# url = "blog/"
 
+# [[main]]
+# parent = "Pages"
+# name = "Contact"
+# url = "contact/"
 
-[[offcanvas]]
-name = "contact"
-url = "contact"
-weight = 4
+# [[main]]
+# parent = "Pages"
+# name = "Authors"
+# url = "authors/"
+
+# [[main]]
+# parent = "Pages"
+# name = "Categories"
+# url = "categories/"
+
+# [[main]]
+# parent = "Pages"
+# name = "404 Page"
+# url = "404/"
+
 
 # footer menu
 [[footer]]
-name = "facebook"
-URL = "/"
+name = "About"
+url = "about/"
 weight = 1
 
-[[footer]]
-name = "instagram"
-URL = "/"
-weight = 2
+# [[footer]]
+# name = "Elements"
+# url = "elements/"
+# weight = 2
 
 [[footer]]
-name = "twitter"
-URL = "/"
+name = "Privacy Policy"
+url = "privacy-policy/"
 weight = 3

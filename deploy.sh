@@ -1,72 +1,57 @@
 #!/bin/sh
 
 echo "Deleting old publication"
-# Replace "filename.txt" with the actual name of your file
-gh_repository=$(cat reponame.txt)
+echo worktree remove gh-pages - UB : Give fatal error in case you removed folder already
 
-# Now the variable "file_contents" holds the content of the file
+cd ../
+rm -r gh-pages
+git worktree prune 
+git worktree add --no-checkout gh-pages gh-pages
 
-
-echo "Hint : sudo nano ~/.bashrc and export gh_token= and export gh_token=gh_username should already have been done"
-echo GitHub User : $gh_username
-echo GitHub Pass : $gh_token
-echo GitHub Repo : $gh_repository
-git config --global push.autoSetupRemote true
-git remote remove origin
-git remote add origin https://$gh_username:$gh_token@github.com/klayu/$gh_repository.git
-git remote -v
-
-# cd ../gh-pages
-# git checkout --orphan empty_commit_branch
-# git rm -rf .
-# git commit --allow-empty -m "Empty commit"
-# git push origin empty_commit_branch:gh-pages
-# git push -f origin empty_commit_branch:gh-pages
-# cd ..
-# git worktree remove /path/to/worktree-dir
-# git branch -D empty_commit_branch
+# git worktree list
 # git worktree remove gh-pages
-# git worktree add gh-pages
+# git worktree list
+# git worktree add gh-pages 
+# git worktree list
+# mv gh-pages gh-pages_ori
+# git worktree list
+# mkdir gh-pages
+# git worktree list
+# cp gh-pages_ori/.git gh-pages/
+# git worktree list
+# find ./gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
+# cd ../
+#git worktree remove gh-pages
+#echo git worktree add gh-pages
+#git worktree add gh-pages
+#echo Clearning gh-pages to have clean slate
+#find ./gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
+cd builder
+#exit 0
 
-# find ../gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
-rm -f hugo.toml
+#rm -f hugo.toml
+echo "doing rm -rf publicTmp"
 rm -rf publicTmp
-echo "Deleted old publicTmp"
 mkdir publicTmp
-echo "Created new publicTmp"
 
 echo "Generating site"
 npm run build
-# HUGO_ENV=production  hugo # -t "ananke"
+echo "Copying to gh-pages"
 echo 'beaconstreetusa.com' >> publicTmp/CNAME
 
-
-echo "Emptying gh-pages"
-# git branch -D gh-pages
-# git push origin --delete gh-pages
-git push origin --delete --force gh-pages
-
-cd ..
-git worktree remove -f gh-pages
-git worktree add gh-pages
-find ./gh-pages -mindepth 1 -maxdepth 1 ! -name ".*" -exec rm -r {} \;
-
-
-echo "Copying to gh-pages"
-cd builder
 cp -a publicTmp/. ../gh-pages
 # cd ../gh-pages
-cd ../gh-pages && git add --all && git commit -m "gh-pages branch `date`"
-echo "Pushing to github gh-pages branch"
-# git commit -m "gh-pages branch `date`"
-# git push origin gh-pages 
-git push origin HEAD:gh-pages
 
+# in case you are not able to updae gh-pages, delete the gh-pages on disk and run this command
+# git worktree add -f gh-pages;
+
+cd ../gh-pages && git add --all && git commit -m "Updated gh-pages branch on `date`"
+echo "Pushing to github gh-pages branch"
+git push origin gh-pages
+# HUGO_ENV=production  hugo # -t "ananke"
 
 
 echo "Updating builder branch"
-cd ../builder && rm -rf publicTmp && git add --all && git commit -m "Saving to builder branch"
+cd ../builder && rm -rf publicTmp && git add --all && git commit -m "Updated builder branch on `date`"
 
 git push
-
-echo Use : git pull --rebase to check if others have changed before you
