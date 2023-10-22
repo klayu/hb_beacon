@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Only this year, after my 78th birthday, did I discover Tom Waits.  Now I’m in love and it’s too late.  Tom is probably happily married and too old for this, anyway.  I’m not married, but I’m sure too old.
 
+{{< inartad >}}
+
 I’m spellbound by Tom’s gravelly, singing voice  In YouTube videos, I watch him dance on the stage like a kid, leaping into the air with the mike.
 
 You *know* that Tom Waits loves women. Not in a macho way. In a soft, soulful way.  Listen to “Ole 55” or “Martha” or “Rosie.”  Any woman can hear it.  The melody and chords join the words tenderly.

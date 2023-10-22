@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Are you prone to playing the “blame game” when something goes wrong in your life? Do you have friends or relatives who do it? There are lots of synonyms for “blame”—for example, “hold responsible or accountable”, “condemn,” “accuse,” “find guilty,” “assign fault,” or even “point the finger.”
 
+{{< inartad >}}
+
 If you automatically blame your partner when you fall on the kitchen linoleum, you might accuse him or her of not keeping the kitchen floor clean—ignoring the fact that you were clumsy because you were hurried and careless.  If dogs raid the cat food you leave on the deck outdoors, you might blame your kids for not bringing in the food bowls at night. If a tree limb falls on your parked car, you might berate the property owners for not keeping their trees pruned—never thinking of other possible causes such as strong winds.
 
 On the other hand, you may play the blame game with yourself, faulting yourself even when you had nothing to do with a harmful outcome. Some people find themselves at fault for every bad thing that happens. If your partner slips on the kitchen floor, you might blame yourself for not mopping it the night before. When dogs sneak off with the cat food on the deck, you might blame yourself for not reminding the kids of their nightly chores. When a tree limb dents the hood of your car, you might blame yourself for lacking the ability to foresee the event. In short, you use your own personal failures as a vehicle for seeing yourself as foolish, clumsy or irresponsible. 

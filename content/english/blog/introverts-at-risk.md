@@ -19,6 +19,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Each of the sixteen Myers-Briggs types is unique and different. Some types are outgoing and gregarious, while others treasure their privacy. Some are serious and others are fun-loving. Some are warm and giving and others are cool-headed and objective. A few of the types have similar descriptions. That’s because they have several traits in common. For example, the INFP is much like the INFJ because each is introverted (I), intuitive (N), and Feeling (F). They differ only in the Perceiving vs. Judging traits.
 
+{{< inartad >}}
+
 When under stress, each type has the tendency to overuse its strengths to the point where they sabotage their ability to cope. An example is the Introverted type. The person tends to withdraw when stressed out, avoiding the company of others. When this trait is carried to the extreme, the person becomes isolated and no longer enjoys feedback and support.
 
 **The Eight Introverted Types**

@@ -10,6 +10,8 @@ tags : [aloof, analytical, careers, Carl Jung, clairvoyant, depression, Dosteovs
 
 Since posting “It’s Hard To Be an INFJ” on this blog, I’ve received hundreds of e-mails from other INFJs. Their main theme has been how disconnected they’ve felt surrounded by extraverts and more sensible, earthbound types. Their posts and my responses appear after that blog.
 
+{{< inartad >}}
+
 This is my personal account of what it feels like to be an INFJ.
 
 **Growing up**

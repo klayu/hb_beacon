@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 In my AA home group, we start meetings by reading from the Big Book: “AA is not allied with any sect, denomination, politics, organization, or institution.” Then we end with the Lord’s Prayer.
 
+{{< inartad >}}
+
 There’s something wrong here. The Lord’s Prayer is from the New Testament of the Christian Bible (Matthew 6:9-13). As a Christian Internet source states. “Through this prayer, Jesus invited us to approach God as Father. Indeed, the Lord’s Prayer has been called a summary of the Christian gospel.”
 
 Like many other members of AA, I am not a Christian. My spirituality does not embrace a God of either gender. 

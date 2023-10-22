@@ -10,6 +10,8 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 INFJs are often drawn to INTPs because of their intelligence and ability to apply logic to every situation. Eventually, though, INFJs tend to find most INTPs distant because of their unemotional approach to life. The INTP is attracted to INFJs because of their compassion and spontaneity. But the qualities that drew them to an INFJ in the first place can eventually get on their nerves. To them, it’s sloppy to let feelings override logic. Because they’re so reserved, INTPs may have few friends.
 
+{{< inartad >}}
+
 This personality type is more attuned to impersonal systems and technical subjects than intimate topics. If you’re an INFJ who’s an animal lover, don’t expect the INTP to share your emotional bond with pets. Are your favorite causes fueled more by compassion than logic?  
 
 {{< 

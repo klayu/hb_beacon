@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 With advancing age, their Myers-Briggs personality scores of people can change, but not by much. Extreme scores on one or more traits tend to soften and move toward the middle. The ESTJ who had a strong thinking (T) score is likely to move a little toward Feeling, with stronger emotional elements in their personality than previously. This blog describes the eight Extraverted (E) types in their retirement years. Every combination of traits is represented, making eight in all—Extraverted plus Sensing (S) or Intuition (N), Thinking (T) or Feeling (F), and Perceiving (P) or. Judging (J).
 
+{{< inartad >}}
+
 **ESTPs in Retirement**
 
 ![ESTP Elders](/ESTP_Elders.jpg)

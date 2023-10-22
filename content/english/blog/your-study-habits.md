@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 In fifty years of solitary work—researching and writing—I’ve discovered that some environments put me in a more productive frame of mind than others. When the conditions aren’t “ideal” for me, I get distracted easily. Disarray puts me in a jumpy mood and I don’t stay on task very long. A review of the literature suggests that I’m not alone.
 
+{{< inartad >}}
+
 According to behavioral scientists, several conditions influence your motivation to study:
 
 **Regular Routine**

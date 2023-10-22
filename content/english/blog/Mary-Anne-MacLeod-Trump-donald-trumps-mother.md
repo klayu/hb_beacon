@@ -19,7 +19,11 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 ### The Foundations of Greatness: Exploring the Early Life and Background of Donald Trump's Parents
 
-The story of a prominent figure often finds its roots in the experiences and influences of their parents. Donald J. Trump, the 45th President of the United States, is no exception. To truly understand the man who became a global business magnate and political leader, we must delve into the early life and background of his parents, Frederick Christ Trump and Mary Anne MacLeod Trump. In this article, we journey back in time to explore the foundations that played a pivotal role in shaping Donald Trump's character, ambitions, and journey to greatness.
+The story of a prominent figure often finds its roots in the experiences and influences of their parents. Donald J. Trump, the 45th President of the United States, is no exception. To truly understand the man who became a global business magnate and political leader, we must delve into the early life and background of his parents, Frederick Christ Trump and Mary Anne MacLeod Trump. 
+
+{{< inartad >}}
+
+In this article, we journey back in time to explore the foundations that played a pivotal role in shaping Donald Trump's character, ambitions, and journey to greatness.
 
 Early Life of Frederick Christ Trump
 

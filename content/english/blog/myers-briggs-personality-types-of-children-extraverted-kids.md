@@ -20,6 +20,8 @@ Do children’s personalities remain consistent over the years? If they’re hap
 
 Psychologists believe that both are true. According to experts in Myers-Briggs personality testing, people are born with certain traits or tendencies. Their attitudes and behaviors may be modified by the environment over time, but they don’t disappear entirely. The child who likes to play catch and climb trees will probably be an athletic grown-up. The one who reads books in her room for hours is more likely to be a scholar.
 
+{{< inartad >}}
+
 A previous blog described introverted children—quiet, shy types. This one is about extraverted (I) children—kids who are outgoing and enjoy social activities. There are eight types of extraverts according to Myers-Briggs theory. They differ in the combinations of the other three pairs of traits on the personality test: 1) sensing (S) and intuition (N); 2) feeling (F) and thinking (T); and 3) perceiving (P) and judging (J). The scores on four pairs range from one extreme to another, with some close to the middle.
 
 Sensing (S) kids are observant and aware of all the details around them. Intuitive (N) types are more thoughtful and rely on hunches. Feeling (F) children make decisions based on how they’ll affect other people.  

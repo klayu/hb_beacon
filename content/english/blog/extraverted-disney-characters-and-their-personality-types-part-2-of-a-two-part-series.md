@@ -19,7 +19,10 @@ Why do we love Disney characters so much? What is it about their stories that to
 
 We see reflections of own personalities in characters like Jiminy Cricket, Alice in Wonderland, Pocahontas, and even Merlin. If you know your Myers-Briggs personality type, maybe you can relate to some of them. This blog tells you about the extraverts (E) among Disney’s colorful animated characters
 
+{{< inartad >}}
+
 ![buzzlightyear ENTJ](/buzzlightyearENTJ.jpg)
+
 **ENTJ: Buzz Lightyear**
 
 Buzz Lightyear, a toy space ranger in “Toy Story,” is known for his bravery and courage. ENTJ Buzz believes in following the rules. Though a great leader, he’s sometimes impulsive and demanding. He’s a skilled warrior in hand-to-hand combat and stays in peak physical condition. In “Toy Story 2,” Buzz leads a toy gang to rescue Woody, who has been captured by a greedy toy collector.

@@ -23,15 +23,12 @@ When an ISTP and INFJ collect information to make a big decision, such as what c
 
 <!-- <p><a href="https://b2079ao3af6w8x6oqqmceog410.hop.clickbank.net" class="one" target="_blank" title="Soutmate Compatibility Reading">Get Your Soutmate Compatibility Reading Now</a></p> -->
 
-{{< 
+{{< inartad >}}
 
-leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+The ISTP’s private opinion is that the INFJ rushes to conclusions without taking enough precautions. 
 
-text1="The ISTP’s private opinion is that the INFJ rushes to conclusions without taking enough precautions. " 
+The INFJ thinks the ISTP is too fussy about details.
 
-text2="The INFJ thinks the ISTP is too fussy about details."
-
->}}
 
 **Thinking vs. Feeling**
 
@@ -45,15 +42,11 @@ Because of their perceiving preference, ISTPs don’t worry much about deadlines
 
 It takes effort and patience to make an ISTP-INFJ relationship work. The two must respect each other’s methods of processing information. The ISTP should try to understand the INFJ’s need for emotional support. Often this requires that the INFJ explain his or her needs to the ISTP and make suggestions for meeting them. INFJs shouldn’t expect ISTPs to be their sole source of emotional support. They need to cultivate a few friends who can empathize with their feelings and give them support.
 
-{{< 
+{{< inartad >}}
 
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+"As close friends, INFJs and ISTPs enjoy sharing experiences quietly, away from crowds. 
 
-text1="As close friends, INFJs and ISTPs enjoy sharing experiences quietly, away from crowds. " 
-
-text2="They’re most at ease when they’re camping, listening to music, or watching a documentary."
-
->}}
+They’re most at ease when they’re camping, listening to music, or watching a documentary.
 
 Words aren’t necessary. The shared experience is enough.
 

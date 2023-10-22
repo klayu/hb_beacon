@@ -20,6 +20,8 @@ Exploring Animal Examples and Identifying Traits
 
 The Myers Briggs Personality Type Indicator (MBTI) is a popular tool used to categorize individuals based on their psychological preferences. The MBTI is based on the work of psychiatrist Carl Jung and was developed by Katharine Briggs and Isabel Briggs Myers. It categorizes individuals into 16 different personality types, each with their own unique characteristics. One of these personality types is the Introverted type, which is characterized by a focus on internal thoughts and feelings. In this article, we will explore the Introverted Myers Briggs Personality Type, some of the animals that have this type, and how you can notice it.
 
+
+
 **What is the Introverted Myers Briggs Personality Type?**
 
 {{< 
@@ -41,6 +43,8 @@ Animals, like humans, can also exhibit Introverted personality traits. Here are 
 
 Now lets have a look, what animals are shy and quiet :-
 Animals are more complicated than most of us realize. We can appreciate the many sides of dogs and cats that live with us, but wild creatures are a different story. Because they live in their own worlds and we aren’t close to them, we underestimate their intelligence, intuition, and altruism. We think they’re simple beings. They’re not. They’re as varied as we are.
+
+{{< inartad >}}
 
 This is an introduction to the introverted (I) members of the animal kingdom: the owl, sloth, deer, octopus, wolf, beaver, meerkat, and house cat. Unlike extraverted (E) animals, the introverts are generally quiet and often shy.
 

@@ -10,6 +10,8 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 INFJs and ISFJs are alike in many ways. Both are introverted, feeling, and judging. They differ only on the intuitive/sensing (N/S) dimension of the Myers-Briggs Inventory. Both types put much of their energy into helping others. They share a need to make the world a better place. People can count on them in times of trouble.
 
+{{< inartad >}}
+
 Although both have high ideals, they’re modest about them. They prefer to make their values apparent in their actions. This is partly due to their introverted personalities and desire to avoid the spotlight. Seldom do they demand recognition for their achievements.
 
 The main difference between the two is that INFJs are more insightful. For example, they pick up on the motives of others quickly, and as a result, their judgments are sometimes harsh. ISFJs, however, tend to be naive. They have a hard time understanding greed and unkindness because it’s so foreign to their natures.  

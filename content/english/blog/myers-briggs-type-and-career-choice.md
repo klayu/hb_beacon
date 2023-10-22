@@ -10,6 +10,8 @@ tags : [careers, ENFJ, ENFP, entj, ENTP, ESFJ, ESFP, ESTJ, ESTP, INFJ, INFP, int
 
 A 14-year study of thousands of Americans in various careers shows that different Myers-Biggs types have different preferences and skills relating to the jobs they take. When the data were analyzed at the end of the 14 years, researchers found that people of various Myers-Briggs categories most often held the following jobs listed below.
 
+{{< inartad >}}
+
 **Career Distribution by Myers-Briggs Type**
 
     ISTJ: Administrators in schools, industry, and health care, dentists, police and detectives,auditors and accountants

@@ -18,6 +18,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 People of the INFJ and ENFJ Myers-Briggs types usually make compatible friends and partners. It makes sense when you look at their shared traits: intuition, feeling, and judging. The two types differ only in their tendencies toward introversion and extraversion, and that’s not all bad. The introverted INFJ is likely to encourage the ENFJ to spend time together so they can enjoy each other’s company in private. The ENFJ, in turn, promotes participation in social activities and group events. This is good for the INFJ, at least some of the time.
 
+{{< inartad >}}
+
 **Friendship**
 Like ENFJs, INFJs have a sixth sense for the needs of others. As friends, they often work on projects that involve helping people. The difference between the two is that the INFJ isn’t as obvious or demonstrative. The interpersonal skills of ENFJs make others want to join them. The INFJ is there to back up the ENFJ’s efforts. ENFJs are quick to show their gratitude to friends and co-workers and are generally well liked. INFJs are more reserved. It takes effort for them to show their emotions.
 

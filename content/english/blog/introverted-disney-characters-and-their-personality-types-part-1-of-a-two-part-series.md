@@ -21,6 +21,8 @@ Why do Disney characters hold such a special place in our hearts?
 
 Perhaps it's because we find a reflection of ourselves in their stories, particularly in the introverted characters like Jiminy Cricket, Alice in Wonderland, Pocahontas, and Merlin. For those who know their Myers-Briggs personality types, you might discover a connection to some of these beloved figures. In this blog post, we'll explore the introverts (I) among Disney's vibrant animated characters and shed light on their unique traits.
 
+{{< inartad >}}
+
 INTP: Alice in Wonderland
 *Introverted, Intuitive, Thinking and Perceiving*
 

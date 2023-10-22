@@ -18,6 +18,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 According to researchers, the INFJ Myers-Briggs type occurs in about 1% of the population—the lowest prevalence of any type. Studies vary regarding the exact percentages of the 16 types, but INFJs always walk away with the prize for the most rare.
 
+{{< inartad >}}
+
 The downside of being an INFJ is that there are few people out there with whom they can relate deeply. Also, they don’t fit into social norms because their qualities are unusual and, to some people, unsettling. 
 
 {{< 

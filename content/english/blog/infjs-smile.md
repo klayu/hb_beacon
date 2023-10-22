@@ -10,8 +10,6 @@ tags : [clairvoyant, compassion, depression, extraversion, feeling, INFJ, introv
 
 In days when it seems hard to be an INFJ, it’s worth looking at some of the qualities that come with this Myers-Briggs personality type. We may be only 1 percent of the population, but we have a  lot of work to do in the world.
 
-
-
 1. Actively contribute to the welfare of others.
 
 2. Are patient and gentle with others but often hard on ourselves.
@@ -28,15 +26,11 @@ In days when it seems hard to be an INFJ, it’s worth looking at some of the qu
 
 8. Relate to others with compassion, always willing to lend a hand.
 
-{{< 
+{{< inartad >}}
 
-leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+9. Listen to people attentively; observe their body language.
 
-text1="9. Listen to people attentively; observe their body language." 
-
-text2="10. Value close relationships and nurture them."
-
->}}
+10. Value close relationships and nurture them.
 
 11. Seek intimate relationships as a way to connect with the world and grow.
 

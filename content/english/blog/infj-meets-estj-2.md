@@ -10,6 +10,8 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 All things considered, the attraction between the ESTJs and INFJs isn’t surprising. Because ESTJs are conventional people, they prefer colorful partners to make their lives more interesting. They aren’t drawn to other ESTJs. INFJs have creative minds and supply the friendly, playful traits ESTJs are missing. The INFJ, in turn, is rewarded by an appreciative audience.
 
+{{< inartad >}}
+
 An INFJ may find ESTJ friends too direct and outspoken. They tend to overlook polite ways of dealing with others. Often, they forget to say “please” and “thank you.” To build a good relationship with an ESTJ, it’s best to let the person know up front that these courtesies are important to you.
 
 

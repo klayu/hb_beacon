@@ -12,6 +12,8 @@ The Myers-Briggs personality test has been used to analyze many famous people. W
 
 Introverts are usually deep thinkers, complex individuals who can be charming in public but are private in their personal lives. Introverts aren’t easily categorized or put in boxes. Most politicians, entertainers, and leaders of large organizations are extraverts. Part 1 of this two-part series described some famous extraverts, living and dead. This article, Part 2, is about famous introverts.
 
+{{< inartad >}}
+
 **Famous Introverts of the Past**
 
 **ISFJ: Mother Teresa**

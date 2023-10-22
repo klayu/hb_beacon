@@ -20,6 +20,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Tanja Askani, a Czech author, photographer, and animal scientist living in Germany, has disseminated a series of Bambi-Thumper photos that have gone viral on the internet.  People find them adorable. When I received the series in my e-mail, I thought they looked too good to be true. They were.
 
+{{< inartad >}}
+
 After downloading the photos and examining them in zoom view, I found clear evidence that every photo had been altered substantially. 
 
 {{< 

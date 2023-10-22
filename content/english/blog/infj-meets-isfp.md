@@ -12,6 +12,8 @@ As one of sixteen Myers-Briggs types, the INFJ is introverted (I), intuitive (N)
 
 Both have a need for some privacy to collect themselves and regroup. If the INFJ says to an ISFP partner, “I think I’ll go out and straighten up the garage,” the ISFP is likely to interpret this as a need for time alone and say “Good idea,” rather than “Want me to come?” Or, if the ISFP heads outside with watercolors and paintbrush, the INFJ probably won’t offer to tag along. They both treasure their private space.
 
+{{< inartad >}}
+
 Their feeling (F) function makes them sensitive to each other’s needs—another Myers-Briggs trait they share. In fact, they base most of their personal decisions upon the impact they’ll have on others. Before making any large purchases, accepting invitations, or making important choices, they consult their partners.
 
 Of course, feelings still get hurt sometimes. After attending a party where the couple doesn’t know many people, the INFJ may comment, “My feelings were hurt when you left me stranded at the buffet table.” An ISFP partner doesn’t retort, “Well, can’t you take care of yourself?” He or she is more likely to say “Gosh, I’m sorry. I didn’t realize you felt that way.”

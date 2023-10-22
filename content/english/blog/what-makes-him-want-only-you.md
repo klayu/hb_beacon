@@ -15,6 +15,8 @@ Do you ever get a gut feeling about someone the instant you meet them?
 
 When that happens, you know it’s not because of what they said or did. It’s some kind of signal you read in their facial expression, vocal tone, or body language.
 
+{{< inartad >}}
+
 Surprisingly, researchers have found that we are quite accurate with these instantaneous assessments about other people.
 
 The simple fact is, you know things about a person the second you meet them. And you react to these unspoken signals automatically.

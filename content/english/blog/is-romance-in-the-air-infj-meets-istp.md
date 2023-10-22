@@ -21,6 +21,8 @@ If you’re an INFJ, you may find yourself drawn to ISTPs. They’re quietly com
 
 INFJs and ISTPs have very different personalities. The only trait they have in common is introversion (I). Because both are private people, they prefer thinking about things to talking about them. They’re quiet, but their minds are always busy.
 
+{{< inartad >}}
+
 What about the other traits? First, ISTPs, being sensing (S) types, are matter-of-fact and observant of what’s going on around them. Intuitive INFJs, being more creative and less down-to-earth, are often unaware of details. They lose things like cell phones and credit cards frequently.
 
 Second, the ISTP, a thinking type (T), makes decisions based on the facts and logic of a situation, not emotional nuances. If they’re paying to have a job done and the work is shoddy, the INFJ may worry about confronting the worker and hurting his or her feelings. The ISTP is more objective. The job isn’t satisfactory and the worker must be told.

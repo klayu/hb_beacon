@@ -19,17 +19,11 @@ Visit the [Hugo](https://gohugo.io) website! -->
 When an INFJ meets an ESTP, some special chemistry must be at work for them to enjoy time together. These Myers-Briggs types are exact opposites.
 The INFJ (I) is introverted—a private person. The ESTP (E) is sociable and outgoing. INFJs rely more on intuition (N) than concrete facts to reach conclusions. ESTPs use their sensing (S) function to get information from the immediate environment. INFJs take action based on their feeling (F) function, evaluating the impact of their decisions on others. ESTPs pride themselves on their ability to reach decisions based on logic (T). Finally, INFJs like to bring closure to situations, a judging (J) function. ESTPs like to keep decisions open-ended. 
 
+{{< inartad >}}
 
+They’re happy-go-lucky about appointment times and deadlines—unlike INFJs, who arrive places on time and meet their deadlines.
 
-{{< 
-
-leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
-
-text1="They’re happy-go-lucky about appointment times and deadlines—unlike INFJs, who arrive places on time and meet their deadlines." 
-
-text2="If it’s true that opposites attract, that surely must be the case for INFJs and ESTPs."
-
->}}
+If it’s true that opposites attract, that surely must be the case for INFJs and ESTPs.
 
 **Friendship**
 

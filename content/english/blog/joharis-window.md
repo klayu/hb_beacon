@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 The Johari Window is a psychological model that was designed for use in self-help groups to help members become more intimate with their peers, while at the same time learning to become more honest with themselves. The concept helps people understand the extent of their self-awareness compared to how others perceive them.  It was developed in the mid-1950s by two psychologists who combined their first names to label the idea: Joseph Luft and Harrington Ingham (Jo-Hari).
 
+{{< inartad >}}
+
 How much of ourselves do we hide from others? How open are we to letting people see us as we are? In fact, how prepared are we to admitting our own flaws and strengths?
 
 ![Johari's Window](/johari.jpg)

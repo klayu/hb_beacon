@@ -21,6 +21,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 If you have a dog or cat you’re close to, you know what unconditional love is. You give it freely and you get it in return.
 
+{{< inartad >}}
+
 We might do well to apply the same principle to our human companions, appreciating the bond of love between us and avoiding judgments.
 
 {{< 

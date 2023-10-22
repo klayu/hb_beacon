@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 If your baby comes home from the hospital quiet and easy-going, will the peace last? What about the toddler who enjoys nothing more than turning the pages of a book, while another is scaling every surface in sight? Will their personalities change over the years?
 
+{{< inartad >}}
+
 Parents who dreamed of their child becoming a celebrated athlete may be disappointed when he or she prefers staying inside taking a clock apart to playing outdoors with friends. Parents hoping for a Rhodes scholar may be let down when their child would rather climb trees than read books.
 Many experts believe that Myers-Briggs personality tests are unreliable in children. Others claim that infants have their basic personalities in place from the time they take their first breath. Personality scores may shift over the years, but they rarely make an about face.
 

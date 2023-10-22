@@ -18,6 +18,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 INFP (introverted-intuitive-feeling-perceiving) and INFJ (introverted-intuitive-feeling-judging) types are a lot alike. They have rich inner lives and treasure their solitude. Also, their intuition is highly developed, giving them the ability to see what’s going on under the surface. They understand why people do the things they do. Because they see through facades and games, deceivers and players can seldom fool them for long. INFPs and INFJs examine every piece of evidence for its fundamental truth and then seek the wider context into which it fits.
 
+{{< inartad >}}
+
 As idealists, both types drive themselves to achieve their goals, which are frequently humanitarian. If they don’t have the luxury of choosing careers that meet their needs, they spend much of their spare time helping others. Their values are strong and their principles firm—unless they find a valid reason to change them. Their biggest question is, “What’s my purpose?”
 
 ![infp_injf table](/infp_injf-table.jpg)

@@ -20,7 +20,7 @@ The way that men and women express themselves in love matches differs widely. Mu
 
 Let’s say you’ve met an INFJ woman and she fascinates you. After initial contact, you ask her out, and she’s agreed to a date. You’ve concluded that this is not a throwaway date. This is one you’d like to keep. How do you maximize your chances of forming a deeper relationship?
 
-
+{{< inartad >}}
 
 - Arrive at her place on time—no more than five minutes late. She’s a prompt person and she respects that quality in others. To her, it’s a sign of respect.
 - Wear clean, freshly laundered clothes. If she can smell the detergent, so much the better. Also, it goes without saying, shower first. Then shave.

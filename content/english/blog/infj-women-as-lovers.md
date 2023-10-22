@@ -12,6 +12,8 @@ tags : ['INFJ', Women, Lovers,]
 
 The INFJ female is an intense, passionate woman. She is drawn to the opposite sex, but few of them turn out to be long-term partners because they’re the wrong type. Still, the woman keeps trying. If she finally meets a man with a compatible personality and finds him moderately attractive, the connection usually strengthens.
 
+{{< inartad >}}
+
 The INFJ woman is compassionate, intelligent, and creative. While she longs for a perfect relationship, she seldom achieves her goal. Because of her adventurous, passionate nature. she keeps getting sidetracked by the wrong kind of man. The woman who has the patience and maturity to wait until the right man comes along is much more likely to find the match she seeks.  Paradoxically, more often than not, it’s the man who finds her, not the other way around. When that finally happens—if it does—it’s up to the INFJ woman to respond and nourish the relationship.
 
 

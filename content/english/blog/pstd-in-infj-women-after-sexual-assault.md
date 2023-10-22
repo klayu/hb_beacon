@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Several readers have asked whether INFJ women are more prone than other Myers-Briggs types to getting PTSD after sexual assault. The readers have themselves been victims of rape. I’d never considered this idea before, but I think they’re onto something.
 
+{{< inartad >}}
+
 In my opinion, INFJs tend to have stronger emotional reactions to events than other types. Sexual assault is a particularly damaging experience and PTSD is common among rape victims. Many suffer for months, years or even a lifetime.
 
 **Role of Myers Briggs Preferences**

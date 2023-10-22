@@ -19,6 +19,8 @@ INFJs usually get along well with ENTPs. This may be surprising when one conside
 
 With their tendency toward introversion (I), INFJs are reserved and shy. Extraverted (E) ENTPs are gregarious and outgoing. As a feeling type (F), INFJs base their decisions on emotional factors, mainly the impact their choices will have on others. More rational ENTPs, with their thinking (T) preference, make decisions based on hard facts, not feelings. Finally, INFJs with their judging (J) preference, like closure. Open-ended situations make them uneasy. Their goal is to bring matters to a conclusion. As perceivers (P), ENTPs are more happy-go-lucky. They often postpone decisions, barely skate under deadlines, and are late for appointments. If they weren’t so pleasant to be around, they might get on people’s nerves.
 
+{{< inartad >}}
+
 INFJs can be counted on to finish a project once it’s started. They’re serious, determined workers. 
 
 {{< 

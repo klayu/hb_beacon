@@ -17,9 +17,14 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Myers-Briggs personality traits have a lot to do with the potential for romance, friendship, and working relationships. They’re important in family life, too. Romance has a better chance of lasting between lovers of similar Myers-Briggs types. Siblings of the same personality type are likely to get along better than those of very different types.
 
+
 ![Romance](/heart2-300x271.jpg)
 
-People of the Myers-Briggs INFJ personality type share some characteristics with the ENFP type, but not others. They differ in their sociability (I = introvert, E = extravert), but share their preferences for both intuition (I) and feeling (F)—the main reason for their attraction to each other. Both types have an uncanny ability to size people up as the result of their intuitive gifts. The difference is that the INFJ is less likely to share discoveries and insights unless prompted. Because of their shared feeling preference, both are kind, compassionate. Their differences in Perceiving (P) and Judging (J) explain why they go about tasks differently—the perceiving type being more easy-going and less driven than the punctual, conscientious judging type.
+People of the Myers-Briggs INFJ personality type share some characteristics with the ENFP type, but not others. They differ in their sociability (I = introvert, E = extravert), but share their preferences for both intuition (I) and feeling (F)—the main reason for their attraction to each other. Both types have an uncanny ability to size people up as the result of their intuitive gifts. 
+
+{{< inartad >}}
+
+The difference is that the INFJ is less likely to share discoveries and insights unless prompted. Because of their shared feeling preference, both are kind, compassionate. Their differences in Perceiving (P) and Judging (J) explain why they go about tasks differently—the perceiving type being more easy-going and less driven than the punctual, conscientious judging type.
 
 Life is fun with ENFPs, who never tire of developing new interests. They’re at their best in situations that are fluid and changing. Even in their day-to-day activities they look for new ways of doing things. 
 

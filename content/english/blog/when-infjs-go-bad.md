@@ -18,15 +18,11 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 When INFJs are on track, they’re creative and insightful. They’re almost clairvoyant. In addition, they’re compassionate and generous. They are protectors of the weak. As idealists, they have strong values. And they get a lot done. While they prefer private time to socializing, they use their solitude productively. 
 
-{{< 
+{{< inartad >}}
 
-leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+INFJs can be depended on to come through—and to come through on time.
 
-text1="INFJs can be depended on to come through—and to come through on time." 
-
-text2="How can they miss? Any Myers-Briggs type can overuse or abuse one or more traits."
-
->}}
+How can they miss? Any Myers-Briggs type can overuse or abuse one or more traits.
 
 **Ways of Losing Out**
 When INFJs act on their ideals and do good in the world, all is well. But some INFJs focus on their visions without doing anything except talk about them. If unpleasant realities come along that contradict their utopian views, they try to ignore their existence. Focusing on their single-minded beliefs, they cling to goals that can’t be attained. INFJs who have painted themselves into this corner need to reframe their visions, attune them to reality, and be more flexible in their objectives.
@@ -40,12 +36,7 @@ Another way INFJs lose out is by focusing obsessively on minor details. An INFJ 
 **Getting Support**
 INFJs are, of course, introverts. 
 
-{{< 
+Asking for advice isn’t their long suit. But getting help from others is a major ingredient of success. 
 
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+Also, the very process of discussion prompts INFJs to come up with ideas and insights of their own.
 
-text1="Asking for advice isn’t their long suit. But getting help from others is a major ingredient of success. " 
-
-text2="Also, the very process of discussion prompts INFJs to come up with ideas and insights of their own."
-
->}}

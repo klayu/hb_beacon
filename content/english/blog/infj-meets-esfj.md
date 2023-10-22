@@ -11,6 +11,8 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 When an INFJ and ESFJ are drawn to each other, the attraction becomes obvious fairly quickly— although the ESFJ is usually the more transparent of the two and is likely to make the first overtures. INFJs are generally cautious until they’re sure of a relationship.
 
+{{< inartad >}}
+
 ESFJs are generous and outgoing, giving without any thought of return. If someone expresses a need, they’re among the first to try to satisfy it. They place a high value on harmony. They’re at their best organizing people for family, community or work events. INFJs are generous, too, but they’re reserved and shrink from being in the public eye.
 
 As traditionalists, ESFJs rely on tried-and-true methods of solving problems. 

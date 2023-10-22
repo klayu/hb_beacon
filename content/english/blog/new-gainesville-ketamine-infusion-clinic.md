@@ -21,6 +21,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Florida Mind Health Center for Ketamine Therapy is Gainesville’s new—and only—ketamine infusion therapy center. Located just off Millhopper Road near NW Thirty-Ninth Street, the clinic offers revolutionary, fast-acting methods bringing comprehensive treatments for a number of resistant mood disorders and pain-related conditions—most notably, depression and anxiety. Many patients experience improvement after just one session, making ketamine infusions an option superior to traditional treatment methods.
 
+{{< inartad >}}
+
 Ketamine works by blocking a certain type of neural receptor from being triggered in the brain. Think of your brain’s neural pathways as a series of streets. Certain disorders and recurring pain make it difficult for the brain to repair roadblocks or potholes. The damage that may develop due to the side effects of traditional medications is repaired by ketamine. 
 
 {{< 

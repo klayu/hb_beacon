@@ -10,6 +10,8 @@ tags : ['Angela Merkel', 'Bobby Fischer', celebrities, 'Dalai Lama', 'David Bowi
 
 In recent years, Myers-Briggs experts have analyzed many famous people to make educated guesses of their personality types. While most celebrities, past and present, have never taken a personality test, psychologists who are knowledgeable about typology believe they know what the outcomes would be.
 
+{{< inartad >}}
+
 Most politicians, entertainers, and leaders of large organizations are extraverts. Introverts are usually deep thinkers, complex individuals who can be charming in public but are private in their personal lives. Introverts aren’t easily categorized or put in boxes. Part 1 of this two-part series describes some extraverts, living and dead. Part 2 about introverts will follow.
 
 **Famous Extraverts of the Present**

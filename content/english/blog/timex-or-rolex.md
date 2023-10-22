@@ -18,6 +18,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 Timex, hands down. Please understand, I don’t have a grudge against Rolex watches because I can’t afford one–although, at an average price of $8000, it would pinch a little.  I like the way the Timex looks–modest, practical, tasteful.  It doesn’t shout, “Look at me! I’M RICH!”  Also, a  Timex watch is not a fussy gadget. It’s a workhorse.
 
+{{< inartad >}}
+
 **Lighted dial**
 
 Timex watches have lighted dials. Rolex watches do not.  Eight grand and no lighted dial?  Come on. True, some have “luminescent” dials, but Rolex wearers say that the glow lasts a couple of hours at best.  The Rolex owner who wakes in the dark wanting to know the time has to grope for a bedside lamp.  Timex wearers just push the Indiglo button.  Voila. The dial lights up clear as day.

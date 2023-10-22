@@ -21,7 +21,13 @@ When two INFJs find each other, they’re lucky. After all, only one percent of 
 
 As friends or partners, each can depend on the other to behave with integrity—whatever the setting. Their actions match their ideals. While they don’t make a fuss about their standard of ethics, it’s apparent in everything they do.
 
-Despite their admiration for each other, they are shy about giving and receiving praise due to their introverted personalities. They try to avoid the spotlight, even with one other person. Small talk is not their forte. They’d rather be quiet than engage in trivial conversation. In general, INFJs are at their best concentrating on their ideas and inspirations—not engaging in social banter.
+Despite their admiration for each other, they are shy about giving and receiving praise due to their introverted personalities. They try to avoid the spotlight, even with one other person. 
+
+{{< inartad >}}
+
+Small talk is not their forte. They’d rather be quiet than engage in trivial conversation. In general, INFJs are at their best concentrating on their ideas and inspirations—not engaging in social banter.
+
+
 
 **Friendship**
 

@@ -12,15 +12,11 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 It’s fair to say that any two people with this combination of Myers-Briggs traits are likely to have adjustment problems if they’re to function smoothly together. While they are joined in their preference for privacy (introversion), this isn’t enough to make them compatible. Both have a preference for judging, as well, but they use the function in dissimilar ways due to their other trait differences.
 
-{{< 
+{{< inartad >}}
 
-leftbannertop src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+The INFJ is introverted (I), intuitive (N), feeling (F), and judging (J). The ISTJ shares the introverted, judging traits, but is a sensing (S) and (T) thinking type. 
 
-text1="The INFJ is introverted (I), intuitive (N), feeling (F), and judging (J). The ISTJ shares the introverted, judging traits, but is a sensing (S) and (T) thinking type. " 
-
-text2="How do INFJs and ISTJs get along and where do they run into trouble?"
-
->}}
+How do INFJs and ISTJs get along and where do they run into trouble?
 
 
 **Friendship**
@@ -35,17 +31,13 @@ INFJs are impatient with themselves, but tolerate the idiosyncrasies of others, 
 
 **Romance**
 
-{{< 
+While ISTJs make loyal partners, they are seldom outwardly sentimental, rarely putting their feelings into words. 
 
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
+To them, the fact of their commitment is enough.
 
-text1="While ISTJs make loyal partners, they are seldom outwardly sentimental, rarely putting their feelings into words. " 
+This can be frustrating to INFJ partners, who like to hear words of affection. Without verbal evidence of a partner’s loyalty, INFJs can feel ignored or unappreciated.
 
-text2="To them, the fact of their commitment is enough."
-
->}}
-
- This can be frustrating to INFJ partners, who like to hear words of affection. Without verbal evidence of a partner’s loyalty, INFJs can feel ignored or unappreciated.
+{{< inartad >}}
 
 Because ISTJs are traditionalists at heart, they usually conform to stereotypes of their gender. Females engage in conventional female activities, such as cooking and decorating, while males are more “macho”—preferring to watch football or tinker with their cars. They are protective of their female partners, figuring that it’s expected of them. They know how to make the masculine moves that the culture approves of—opening doors, pulling out chairs, and so on.
 
@@ -63,13 +55,4 @@ When children are involved, ISTJs enforce the regulations they learned while gro
 
 The INFJ, being capable of more insight than the ISTJ, may need to make the greatest adjustment in the relationship. However, when major conflicts arise, it’s important for the INFJ to explain to the ISTJ in concrete terms what he or she needs and why. Abstract reasoning frustrates most ISTJs. 
 
-{{< 
-
-leftbanner src="/ad_images/cc1.gif" adlink="/wp/what-makes-him-want-only-you/"  
-
-text1="When handled patiently and given down-to-earth reasons for requests, ISTJs who were once difficult partners may become more spontaneous and tolerant." 
-
-text2=""
-
->}}
-
+When handled patiently and given down-to-earth reasons for requests, ISTJs who were once difficult partners may become more spontaneous and tolerant.

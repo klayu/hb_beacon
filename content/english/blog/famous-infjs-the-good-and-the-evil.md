@@ -30,16 +30,11 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 INFJ is one of the 16 personality types identified by the Myers-Briggs Type Indicator (MBTI). INFJs are often described as insightful, caring, and creative individuals who place great importance on personal values and emotional connections with others. 
 
+{{< inartad >}}
 
-{{< 
+They are also known as The Advocate or The Counselor. When famous INFJs worked for good, they were positive forces in the world. When they turned evil, they became dangerous and desperate people. 
 
-leftbannertop src="/ad_images/300x250-CarlJung.gif" adlink="https://www.amazon.com/Modern-Man-Search-Soul-Jung/dp/1684220904/ref=tmm_pap_swatch_0?_encoding=UTF8&amp;qid=1696822966&amp;sr=8-4&_encoding=UTF8&tag=klayu00-20&linkCode=ur2&linkId=e951410be2e0733ca149d20b7dd0e478&camp=1789&creative=9325"  
-
-text1="They are also known as The Advocate or The Counselor. When famous INFJs worked for good, they were positive forces in the world. When they turned evil, they became dangerous and desperate people. " 
-
-text2="When they turned evil, they became dangerous and desperate people."
-
->}}
+When they turned evil, they became dangerous and desperate people.
 
 Some key qualities of INFJs include:
 

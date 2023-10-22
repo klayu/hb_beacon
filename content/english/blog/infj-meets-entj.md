@@ -12,6 +12,8 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 INFJs and ENTJs are on the same wavelength in many ways. They enjoy spending time together and sharing creative, stimulating conversations. Superficial topics bore them. Both have excellent intuition and can size people up accurately on short acquaintance. They share the ability to comprehend complex situations that baffle others.
 
+{{< inartad >}}
+
 ![INFJs and ENTJs Traits](/ENTJTraits1.jpg)
 
 While the two types can become close friends, INFJs should be mindful of the ENTJ’s rough edges. This type can be blunt, with little tolerance for mistakes. Sometimes their tempers flare because they don’t recognize the effect on others. As the ENTJ’s friend you may take offense at some of his or her remarks. Refusing to engage in an argument is the most effective way to deal with this.ENTJTraits

@@ -16,6 +16,8 @@ toc : true
 Visit the [Hugo](https://gohugo.io) website! -->
 The MBTI stands for Myers-Briggs Type Indicator. It is an assessment of personality based on questions about a person’s preferences in four domains: focusing outward or inward; attending to sensory information or adding interpretation; deciding by logic or by situation; and making judgments or remaining open to information1. The MBTI is widely used in the United States and other countries by employers, career counselors, and other professionals.
 
+{{< inartad >}}
+
 ## Here are the 16 personality types
 The goal of the test is to find your personality type. You may be surprised what you find out.
 

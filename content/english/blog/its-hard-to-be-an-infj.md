@@ -12,6 +12,8 @@ tags : ['Al Pacino', aloof, 'Carl Jung', extraversion, feeling, introversion, in
 
 Isabel Myers and her mother, Katharine Briggs—both psychologists— developed the Myers-Briggs Personality Inventory more than fifty years ago.
 
+{{< inartad >}}
+
 Carl Jung
 ![Carl Jung](/jung1.jpg)
 

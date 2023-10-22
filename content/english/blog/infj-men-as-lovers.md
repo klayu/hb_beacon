@@ -10,6 +10,8 @@ tags : ['Carl Jung', compassion, INFJ, introversion, intuition, judging, love, M
 
 INFJ men are complex, warm, and perceptive. They’re drawn to women who are intelligent, creative, and compassionate. While few INFJ men ever achieve perfect relationships, they always wish for them. This is a positive quality when they stay in a committed relationship but it works against them when they move from one woman to another, always seeking a partner who lives up to their ideals.
 
+{{< inartad >}}
+
 If you’re in a relationship with an INFJ male, your feelings won’t go unnoticed. He’ll pick up every nuance and shift in your mood. Sometimes you’ll think he can read your mind. He’s a skillful, attentive lover who won’t be happy unless he can give as much pleasure as he receives. He views lovemaking as a nearly spiritual experience and wants you to feel the same.
 
 Have no fear that he’ll leave you on a whim. He’s steadfast and loyal. Hurting people is not what he does. In fact, he has a tendency to hang on to partnerships long after they start going bad. If your relationship begins to deteriorate, you’re likely to see him struggling with himself. If he finally concludes that his efforts are useless, he’s likely to move on quickly. Don’t expect to go through a series of arguments. That’s not his style. There’ll be no shouting or fighting, just a quiet announcement that it’s over and time for him to go.

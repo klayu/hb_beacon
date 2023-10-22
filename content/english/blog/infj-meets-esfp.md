@@ -12,6 +12,8 @@ What happens when an INFJ meets an ESFP? Is there an instant attraction? Do they
 
 Looking at their personality traits, you’d think they have little in common. When an early attraction persists, it’s cause for wonder. Usually, the bond is associated with their shared feeling (F) trait.
 
+{{< inartad >}}
+
 **Introversion (I) vs. Extraversion (E)**
 
 The first big difference lies in the INFJ’s need for privacy vs. the ESFP’s preference for social contact. On the introversion/extraversion (I/E) scale, the inwardly focused nature of INFJs causes them to be reserved and, in extreme cases, reclusive. They dislike crowds and need considerable time alone. They’re worn out by prolonged social interaction. In contrast, extraverts are social butterflies. The company of other people energizes them. Being left alone too long makes them feel anxious and disorganized.

@@ -10,6 +10,8 @@ tags : [conflict, dating, judging, perceiving, relationship, relationships]
 
 Perceiving (P) and Judging (J) are a set of opposite traits on the Myers-Briggs Personality Inventory. They are called the attitude traits. The other three sets are Extraversion vs. Introversion (energy), Sensing vs. Intuition (information-processing), and Thinking vs. Feeling (decision-making). Differences in the J-P function may cause considerable friction among opposites—particularly between the Judger, for example, who is always on time for appointments and the Perceiver who always arrives late.
 
+{{< inartad >}}
+
 The differences between a Perceiver and Judger are hard to hide on a day-to-day basis. Concealing one’s type is not all that difficult for other types. For example, an Introvert may have cultivated enough interpersonal and communications skills that he or she can come across as an Extravert. This is not uncommon. 
 
 

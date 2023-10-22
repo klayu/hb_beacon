@@ -10,7 +10,11 @@ tags : [dating, intuitive, relationship, relationships, sensory]
 
 In the dating game, the Sensing and Intuitive Myers-Briggs preferences can be a source of excitement and, at the same time, confusion.
 
-Sensors are realistic about dating partners. They judge other people by what they do and say. Being grounded in objective reality, they aren’t impressed by phony facades or bragging. They clearly see the good and the bad in the here and now. Intuitives, with their active imaginations, are more titillated by the possibilities in their minds than what’s actually taking place in the present. They extrapolate from the evidence in front of them and don’t take it at face value. Sensors may fantasize, too, but they’re more likely to do it after the fact. Their perceptions in the moment must agree with what’s going on in reality, rather than their wishful thinking about the future.
+Sensors are realistic about dating partners. They judge other people by what they do and say. Being grounded in objective reality, they aren’t impressed by phony facades or bragging. 
+
+{{< inartad >}}
+
+They clearly see the good and the bad in the here and now. Intuitives, with their active imaginations, are more titillated by the possibilities in their minds than what’s actually taking place in the present. They extrapolate from the evidence in front of them and don’t take it at face value. Sensors may fantasize, too, but they’re more likely to do it after the fact. Their perceptions in the moment must agree with what’s going on in reality, rather than their wishful thinking about the future.
 
 Sensors are more tuned to their senses: how the date looks and sounds, whether he or she smells nice and has agreeable tastes in music and food. For them, the dating experience happens through the five senses. Intuitives are more interested in their hunches about the person. They experience dates more in the sense of potential for the future. 
 
