@@ -11,6 +11,12 @@ name = "Personality Types"
 url = "/categories/myers-briggs-personality-types/"
 weight = 2
 
+[[main]]
+name = "Free MBTI Test"
+url = "/wp/free-myers-briggs-type-indicator-mbti-test/"
+weight = 3
+
+
 
 # [[main]]
 # name = "About"
