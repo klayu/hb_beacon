@@ -14,6 +14,7 @@ The Myers-Briggs types INFJ and INFP are affected by depression more than most o
 
 Both types tend to be misunderstood, partly because they are so rare—together comprising less than 3 percent of the overall population.
 
+{{< inartad >}}
 
 **Depression in INFJs**
 
@@ -48,10 +49,6 @@ INFPs, much like INFJs, are prone to depression because of their naturally sensi
 **Reasons for Depression**
 
 * INFPs are idealists, holding unrealistic expectations of others. This is especially true of their love relationships. No human could live up to the expectations they’ve erected in their own minds. When a relationship falls apart, they are devastated, triggering a cascade of other emotional problems.
-
-
-
-
 
 {{< 
 

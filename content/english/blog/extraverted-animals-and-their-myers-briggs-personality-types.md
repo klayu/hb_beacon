@@ -19,6 +19,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 The Myers-Briggs Type Indicator (MBTI) is a popular psychological assessment tool that categorizes individuals into 16 distinct personality types based on their preferences and tendencies. One of these types is the Extroverted personality, which is characterized by a preference for social interaction, energy from the external world, and a focus on the present. In this article, we will explore the Extroverted Myers-Briggs Personality Type, some of the animals that have this type, and how you can notice it.
 
+{{< inartad >}}
+
 **The Extroverted Myers-Briggs Personality Type**
 
 Extroverted personalities are often described as outgoing, talkative, and energetic. They thrive in social situations and derive energy from interacting with others. They are typically optimistic, enthusiastic, and spontaneous. Extroverted individuals are more likely to take risks and embrace new experiences. They tend to be action-oriented and prefer to learn through hands-on experience.

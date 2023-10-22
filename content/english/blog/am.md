@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 We INFJs, like the other fifteen Myers-Briggs types, have our weak spots—vulnerabilities that sometimes bring us into conflict with others or cause personal problems. To be healthy and fully functional, we need to take advantage of all eight Myers-Briggs traits: *introvert (I), extravert (E), sensing (S), intuitive (N), thinking (T), feeling (F), judging (J), and perceiving (P)*.
 
+{{< inartad >}}
+
 I am a good example:
 
 **As an INFJ**
@@ -32,6 +34,7 @@ text1="- As a feeling (F) type, I am mindful of the effects of my actions on oth
 text2="- The judging tendencies of my personality (J) make me prompt, reliable and conscientious, but sometimes overdemanding."
 
 >}}
+
 
 
 **My News Year’s Resolutions** 

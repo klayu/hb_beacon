@@ -17,6 +17,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 The U.S. could feed 800 million people with grain that livestock consume say Cornell University ecologist researchers. If the grain were exported, it would increase the U.S. trade balance by $80 billion per year.
 
+{{< inartad >}}
+
 The American system of feeding livestock grain rather than allowing cattle to feed on pastureland consumes resources far disproportionate to the yield. What’s more it accelerates soil erosion, uses huge amounts of water, and affects world food supply in a negative way.
 
 Grass-fed livestock yields more than the recommended daily allowance (RDA) of meat and dairy protein. While it’s true that the protein yield of beef is greater than that achieved by high-protein plants in the human diet, it is only 1.4 times more nutritious in comparable amounts. And with the quantities the average American eats in a day, the protein yield is more than enough to meet the RDA.

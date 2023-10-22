@@ -22,6 +22,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 More confusion probably exists regarding Sensors (S) and Intuitives (N) than any other type. Extraverts (E) and Introverts (I) are easy to tell apart. So are Thinkers (T) and Feelers (F). The labels themselves are giveaways. Perceiving (P) and Judging (J) require a bit of observation to figure out. Is the person usually late for deadlines and appointments? Does he or she avoid making final decisions on things as long as possible? That’s typical of a Perceiver. Judging types rarely miss deadlines and are seldom late for appointments. They verge on compulsive. They make decisions easily because they prefer closure to open-ended situations. You don’t have to know the Judger or Perceiver for long to figure out which type they are.  The Sensing and Intuitive types are more elusive.
 
+{{< inartad >}}
+
 **Sensing Type**
 
 • Sensors prefer being involved in the here and now rather than thinking about what’s next. They would rather do things than think about them.

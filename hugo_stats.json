@@ -24,6 +24,7 @@
       "iframe",
       "img",
       "input",
+      "ins",
       "kbd",
       "label",
       "li",
@@ -49,6 +50,7 @@
     "classes": [
       "absolute",
       "active",
+      "adsbygoogle",
       "bg-body",
       "bg-gradient-to-b",
       "bg-primary",

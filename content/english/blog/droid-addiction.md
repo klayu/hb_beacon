@@ -20,6 +20,8 @@ Visit the [Hugo](https://gohugo.io) website! -->
 ![Droid](/droid.jpg)
 At an upscale restaurant with two women friends the other night, I watched one play with her android nonstop during dinner.  She showed us over 100 photos taken with several cameras on the device.  She pulled up Google Earth and other apps and played with them.  The conversation was never allowed to stray far from her ‘droid.
 
+{{< inartad >}}
+
 ![Woman Droid](/womandroid1.jpg)
 
 This woman is in her mid-forties; the other friend and I are 87 and 79, respectively.  The 87-year-old is sharp as a tack but knows nothing about electronic devices.  While I know my way around computers, I’m a tyro compared to the ‘droid addict.  
